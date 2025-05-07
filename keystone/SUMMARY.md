@@ -9,20 +9,22 @@
   * [Theme Colors Setup](getting-started/getting-started-with-your-theme/theme-colors-setup.md)
   * [Theme Typography Setup](getting-started/getting-started-with-your-theme/theme-typography-setup.md)
   * [Theme Borders Setup](getting-started/getting-started-with-your-theme/theme-borders-setup.md)
+  * [Product prices](getting-started/getting-started-with-your-theme/product-prices.md)
 
 ## Guides
 
-* [Guides](guides/guides/README.md)
-  * [Launching a wholesale website](guides/guides/launching-a-wholesale-website.md)
-  * [Using account restriction features](guides/guides/using-account-restriction-features.md)
-  * [Displaying metafield content in product tables](guides/guides/displaying-metafield-content-in-product-tables.md)
-  * [Using color and option swatches](guides/guides/using-color-and-option-swatches.md)
-  * [Using device specific visibility](guides/guides/using-device-specific-visibility.md)
-  * [Using dynamic discount popups](guides/guides/using-dynamic-discount-popups.md)
-  * [Adding product subtitles](guides/guides/adding-product-subtitles.md)
-  * [Adding product badges](guides/guides/adding-product-badges.md)
-  * [Replacing "Add to cart" for a product](guides/guides/replacing-add-to-cart-for-a-product.md)
-  * [Disable "quick add" for a product](guides/guides/disable-quick-add-for-a-product.md)
+* [Products](guides/products/README.md)
+  * [Product badges](guides/products/product-badges.md)
+  * [Product subtitles](guides/products/product-subtitles.md)
+  * [Custom content for tables](guides/products/custom-content-for-tables.md)
+  * [Replace "Add to cart"](guides/products/replace-add-to-cart.md)
+  * [Disable quick add](guides/products/disable-quick-add.md)
+* [Wholesale](guides/wholesale/README.md)
+  * [Wholesale basics](guides/wholesale/wholesale-basics.md)
+  * [Account restrictions](guides/wholesale/account-restrictions.md)
+* [Color and option swatches](guides/color-and-option-swatches.md)
+* [Device specific visibility](guides/device-specific-visibility.md)
+* [Discount popups](guides/discount-popups.md)
 
 ## Templates
 
