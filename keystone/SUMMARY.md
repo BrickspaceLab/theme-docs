@@ -88,6 +88,7 @@
 
 * [General](general/general/README.md)
   * [Changelog](general/general/changelog/README.md)
+    * [v1.3.0](general/general/changelog/v1.3.0.md)
     * [v1.2.0](general/general/changelog/v1.2.0.md)
     * [v1.1.0](general/general/changelog/v1.1.0.md)
     * [v1.0.1](general/general/changelog/v1.0.1.md)
