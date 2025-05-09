@@ -6,7 +6,7 @@
 
 Keystone is a Premium Shopify Theme designed for B2B and Wholesale businesses. It provides extensive customization options to help you build a professional, high-performing online store tailored to your business needs.
 
-### **Helpful Tips**
+### <mark style="color:blue;">**Helpful Tips**</mark>
 
 Before diving into customization, keep these best practices in mind:
 
@@ -15,7 +15,16 @@ Before diving into customization, keep these best practices in mind:
 * Make duplicates of your theme before making major changes to preserve a backup.
 * Talk to our team for 1-on-1 onboarding if you need personalized assistance.
 
-### **Theme Settings Overview**
+### <mark style="color:blue;">**Need Further Help?**</mark>
+
+If you need additional support:
+
+* **Explore our help docs** for detailed guides.
+* **Contact our team** for personalized onboarding.
+
+Happy customizing! 🚀
+
+### <mark style="color:blue;">**Theme Settings Overview**</mark>
 
 #### **What Are Theme Settings?**
 
@@ -33,7 +42,7 @@ Theme settings are site-wide configurations that apply across all pages and temp
 3. Click "Customize" on the Keystone theme.
 4. Use the theme editor panel to adjust settings.
 
-### **Understanding Sections, Blocks & Templates**
+### <mark style="color:blue;">**Understanding Sections, Blocks & Templates**</mark>
 
 #### **Sections**
 
