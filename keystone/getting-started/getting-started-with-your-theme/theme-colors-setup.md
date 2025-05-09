@@ -13,9 +13,7 @@ There are a handful of great resources online that can help guide your color sel
 * [Brand Colors: How to Choose the Perfect Palette](https://looka.com/blog/brand-colors/)
 * [Color Psychology: How Color Meanings Affect Your Brand](https://www.oberlo.com/blog/color-psychology-color-meanings)
 
-
-
-### FAQs
+### <mark style="color:blue;">FAQs</mark>
 
 <details>
 
@@ -39,7 +37,7 @@ Update the Mobile bar to change top bar above the website. This is used to creat
 
 
 
-### Getting started <a href="#h_7a0d84a38a" id="h_7a0d84a38a"></a>
+### <mark style="color:blue;">Getting started</mark> <a href="#h_7a0d84a38a" id="h_7a0d84a38a"></a>
 
 You can adjust all colors in Keystone using the global color settings. To achieve better results and improve design implementation, it's important to understand how and where each setting applies colors differently.
 
@@ -87,29 +85,9 @@ You can adjust all colors in Keystone using the global color settings. To achiev
 {% endstep %}
 {% endstepper %}
 
+### <mark style="color:blue;">Color setting description</mark>
 
-
-### Understanding your color schemes
-
-Throughout your theme you'll see in a number of different places color settings that you can use. These settings are generated from your global color settings.&#x20;
-
-**Background color**
-
-Body
-
-Transparent
-
-Shade
-
-**Border color**
-
-Subtle
-
-Strong
-
-**Text color**
-
-
+<table><thead><tr><th width="174.83984375">Setting</th><th>Description</th></tr></thead><tbody><tr><td>Background body color</td><td>Controls the main background color for the body of the site. This will also be available in other sections when selecting a color and shown as <strong>Body</strong>.</td></tr><tr><td>Foreground body color</td><td>Defines the primary text color used in the body content. It's best to use a color that contrasts well against <strong>Background body color.</strong></td></tr><tr><td>Foreground body dark color</td><td>Alternative darker text color for body content</td></tr><tr><td>Background primary color</td><td>Sets the background color for primary content areas</td></tr><tr><td>Foreground primary color</td><td>Defines text color used in primary content sections</td></tr><tr><td>Background secondary color</td><td>Sets the background color for secondary content areas</td></tr><tr><td>Foreground secondary color</td><td>Defines text color used in secondary content sections</td></tr><tr><td>Background tertiary color</td><td>Sets the background color for tertiary content areas</td></tr><tr><td>Foreground tertiary color</td><td>Defines text color used in tertiary content sections</td></tr><tr><td>Bar color</td><td>Controls the color of dividing bars or horizontal elements</td></tr><tr><td>Background overlay</td><td>Sets the gradient overlay effect (default is a black gradient)</td></tr><tr><td>Input button style</td><td>Determines button appearance with options for standard, lighter, or darker styling</td></tr></tbody></table>
 
 #### Body and Body Neutral:
 
