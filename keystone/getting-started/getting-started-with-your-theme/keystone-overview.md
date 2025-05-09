@@ -6,7 +6,11 @@
 
 Keystone is a Premium Shopify Theme designed for B2B and Wholesale businesses. It provides extensive customization options to help you build a professional, high-performing online store tailored to your business needs.
 
-### <mark style="color:blue;">**Helpful Tips**</mark>
+### <mark style="color:blue;">FAQs</mark>
+
+<details>
+
+<summary>Helpful Tips</summary>
 
 Before diving into customization, keep these best practices in mind:
 
@@ -15,14 +19,20 @@ Before diving into customization, keep these best practices in mind:
 * Make duplicates of your theme before making major changes to preserve a backup.
 * Talk to our team for 1-on-1 onboarding if you need personalized assistance.
 
-### <mark style="color:blue;">**Need Further Help?**</mark>
+</details>
+
+<details>
+
+<summary>Need Further Help?</summary>
 
 If you need additional support:
 
-* **Explore our help docs** for detailed guides.
-* **Contact our team** for personalized onboarding.
+* Explore our help docs for detailed guides.
+* Contact our team for personalized onboarding, Discord support, and additional theme support: [https://brickspacelab.com/pages/theme-support](https://brickspacelab.com/pages/theme-support)
 
 Happy customizing! 🚀
+
+</details>
 
 ### <mark style="color:blue;">**Theme Settings Overview**</mark>
 
