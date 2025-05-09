@@ -6,6 +6,12 @@
 
 Keystone is a Premium Shopify Theme designed for B2B and Wholesale businesses. It provides extensive customization options to help you build a professional, high-performing online store tailored to your business needs.
 
+### <mark style="color:blue;">**Shopify Theme Comparison Chart**</mark>
+
+Not sure which theme is right for your business? Our detailed comparison chart breaks down key features, customization options, and ideal use cases for each Brickspace Lab theme. Quickly compare layouts, performance, and built-in tools to find the perfect fit for your store.
+
+[Comparison Chart](https://help.brickspacelab.com/general/theme-comparisons)
+
 ### <mark style="color:blue;">FAQs</mark>
 
 <details>
