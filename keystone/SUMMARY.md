@@ -5,7 +5,7 @@
 ## Getting started
 
 * [Getting started with your theme](getting-started/getting-started-with-your-theme/README.md)
-  * [Theme basics](getting-started/getting-started-with-your-theme/theme-basics.md)
+  * [Theme basics](getting-started/getting-started-with-your-theme/keystone-overview.md)
   * [Theme Colors Setup](getting-started/getting-started-with-your-theme/theme-colors-setup.md)
   * [Theme Typography Setup](getting-started/getting-started-with-your-theme/theme-typography-setup.md)
   * [Theme Borders Setup](getting-started/getting-started-with-your-theme/theme-borders-setup.md)
