@@ -37,10 +37,23 @@ Theme settings are site-wide configurations that apply across all pages and temp
 
 #### **Where to Find Theme Settings**
 
-1. Go to your Shopify Admin.
-2. Navigate to Online Store > Themes.
-3. Click "Customize" on the Keystone theme.
-4. Use the theme editor panel to adjust settings.
+{% stepper %}
+{% step %}
+Go to your Shopify Admin.
+{% endstep %}
+
+{% step %}
+Navigate to Online Store > Themes.
+{% endstep %}
+
+{% step %}
+Click "Customize" on the Keystone theme.
+{% endstep %}
+
+{% step %}
+Use the theme editor panel to adjust settings.
+{% endstep %}
+{% endstepper %}
 
 ### <mark style="color:blue;">**Understanding Sections, Blocks & Templates**</mark>
 
