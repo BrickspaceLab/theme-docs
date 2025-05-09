@@ -4,7 +4,7 @@
 
 ***
 
-Keystone is a Premium Shopify Theme designed for B2B and Wholesale businesses. It provides extensive customization options to help you build a professional, high-performing online store tailored to your business needs.
+Keystone is a Premium Shopify Theme designed for B2B, B2C, and Wholesale businesses. It provides extensive customization options to help you build a professional, high-performing online store tailored to your business needs.
 
 ### <mark style="color:blue;">FAQs</mark>
 
