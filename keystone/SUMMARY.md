@@ -4,12 +4,13 @@
 
 ## Getting started
 
-* [Getting started with your theme](getting-started/getting-started-with-your-theme/README.md)
-  * [Theme basics](getting-started/getting-started-with-your-theme/keystone-overview.md)
-  * [Theme Colors Setup](getting-started/getting-started-with-your-theme/theme-colors-setup.md)
-  * [Theme Typography Setup](getting-started/getting-started-with-your-theme/theme-typography-setup.md)
-  * [Theme Borders Setup](getting-started/getting-started-with-your-theme/theme-borders-setup.md)
-  * [Product prices](getting-started/getting-started-with-your-theme/product-prices.md)
+* [Getting started with your theme](getting-started/getting-started-with-your-theme.md)
+* [Theme basics](getting-started/theme-basics.md)
+* [Theme settings](getting-started/theme-settings/README.md)
+  * [Colors](getting-started/theme-settings/colors.md)
+  * [Typography](getting-started/theme-settings/typography.md)
+  * [Borders](getting-started/theme-settings/borders.md)
+  * [Prices](getting-started/theme-settings/prices.md)
 
 ## Guides
 
