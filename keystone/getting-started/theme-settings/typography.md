@@ -1,28 +1,44 @@
-# Theme Typography Setup
+# Theme typography setup
 
-#### Before Starting
 
-* Choose fonts aligning with brand identity
-* Consider customer perception
-* Resource: [Font Selection Guide](https://example.com/font-guide)
 
-#### Font Settings
+### Before starting
+
+This section outlines important considerations for font selection in your theme.
+
+- Choose fonts aligning with brand identity.
+- Consider customer perception.
+- Resource: [Font Selection Guide](https://example.com/font-guide).
+
+
+
+### Font settings
+
+These settings control the typography appearance throughout your theme.
 
 1. **Font Family**:
-   * Maximum 2 fonts recommended
-   * Body Font: Main content
-   * Heading Font: All headings
-   * Navigation Font: Buttons/menus
+   - Maximum 2 fonts recommended.
+   - Body Font: Main content.
+   - Heading Font: All headings.
+   - Navigation Font: Buttons/menus.
 2. **Sizing**:
-   * Base Size: Reference point
-   * Scale Ratio: Heading proportions
+   - Base Size: Reference point.
+   - Scale Ratio: Heading proportions.
 
-#### Icon Styles
 
-* Multiple style options available
-* Choose to match brand aesthetic
 
-#### Popular Font Pairings
+### Icon styles
+
+Icon selection plays an important role in your theme's visual identity.
+
+- Multiple style options available.
+- Choose to match brand aesthetic.
+
+
+
+### Popular font pairings
+
+These combinations work well together and can provide inspiration for your theme.
 
 1. Helvetica + Helvetica Black
 2. Futura + Basic Commercial
@@ -32,8 +48,12 @@
 6. Work Sans + Crimson Text
 7. Source Sans Pro + Nunito
 
-#### Advanced Settings
 
-* Customize capitalization
-* Adjust font families
-* Fine-tune type hierarchy
+
+### Advanced settings
+
+These options allow for further customization of your typography.
+
+- Customize capitalization.
+- Adjust font families.
+- Fine-tune type hierarchy.
