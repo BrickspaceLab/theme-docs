@@ -4,8 +4,10 @@
 
 ## Getting started
 
-* [Theme colors](getting-started/theme-colors.md)
-* [Theme typography](getting-started/theme-typography.md)
+* [Theme basics](getting-started/theme-basics.md)
+* [Theme settings](getting-started/theme-settings/README.md)
+  * [Colors](getting-started/theme-settings/colors.md)
+  * [Typography](getting-started/theme-settings/typography.md)
 
 ## Guides
 

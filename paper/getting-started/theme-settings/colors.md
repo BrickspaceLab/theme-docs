@@ -12,11 +12,7 @@ layout:
     visible: true
 ---
 
-# Theme colors
-
-## Setting up theme colors <a href="#h_e53db3a4ef" id="h_e53db3a4ef"></a>
-
-***
+# Colors
 
 Although it's possible to jump into Paper and start picking colors, we recommend doing a bit of prep work beforehand. This ensures you have a solid idea of the direction of your brand and the colors you want to use.
 
