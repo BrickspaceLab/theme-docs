@@ -2,6 +2,30 @@
 
 Choose fonts that match your brand style and enhance readability. Stick to 1-2 fonts to keep your design clean. Prioritize fast-loading fonts and check accessibility (good contrast, mobile-friendly). Pick styles that suit your audience - elegant serifs for luxury brands, clean sans-serifs for modern shops. Always preview on different devices.
 
+
+
+### FAQs
+
+<details>
+
+<summary>How can I upload a custom font?</summary>
+
+[https://help.brickspacelab.com/use-a-custom-font#installing-a-custom-font](https://help.brickspacelab.com/use-a-custom-font#installing-a-custom-font)
+
+</details>
+
+<details>
+
+<summary>How can I change the color of buttons?</summary>
+
+[http://help.brickspacelab.com/developer-guides/advanced-customizations#change-the-color-of-a-button](http://help.brickspacelab.com/developer-guides/advanced-customizations#change-the-color-of-a-button)
+
+</details>
+
+
+
+### General tips
+
 {% stepper %}
 {% step %}
 **Align with brand identity**
@@ -48,7 +72,7 @@ Check how fonts render on mobile, tablet, and desktop.
 
 ### Font settings
 
-These settings control the typography appearance throughout your theme.
+Control the typography appearance throughout your theme.
 
 {% stepper %}
 {% step %}
