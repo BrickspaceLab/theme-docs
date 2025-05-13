@@ -13,17 +13,18 @@
 
 ## Guides
 
+* [Products](guides/products/README.md)
+  * [Product subtitles](guides/products/product-subtitles.md)
+  * [Product badges](guides/products/product-badges.md)
+  * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
+  * [Disabling "quick-add" for a product](guides/products/disabling-quick-add-for-a-product.md)
+  * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
 * [Color and option swatches](guides/color-and-option-swatches.md)
 
 ***
 
 * [Using device specific visibility](using-device-specific-visibility.md)
 * [Dynamic discount popups](dynamic-discount-popups.md)
-* [Adding product subtitles](adding-product-subtitles.md)
-* [Adding product badges](adding-product-badges.md)
-* [Replacing “Add to cart” for a product](replacing-add-to-cart-for-a-product.md)
-* [Disabling "quick-add" for a product](disabling-quick-add-for-a-product.md)
-* [Fixed buy buttons](fixed-buy-buttons.md)
 * [Disabling default ratings when using a third party app](disabling-default-ratings-when-using-a-third-party-app.md)
 * [Migrateing custom changes](migrateing-custom-changes.md)
 * [Different ways to display option blocks](different-ways-to-display-option-blocks.md)
