@@ -14,7 +14,11 @@ Before adjusting typography settings, consider your brand's mission and identity
 
 <summary>Where can I adjust my typography settings? </summary>
 
-Typography settings can be adjusted within the 'Theme settings' tab within your theme editor. Select the 'Typography' tab.
+1. **Navigate to Theme settings > Typography** - Open your theme by clicking **Customize**.
+2. Click the **gear icon** (⚙️) in the top-left corner to open **Theme Settings**.
+3. Scroll down and select **Typography**.
+4. Modify your font settings (family, size, weight, spacing, etc.) as needed.
+5. Click **Save** to apply your changes.
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
