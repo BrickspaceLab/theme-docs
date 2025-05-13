@@ -2,7 +2,9 @@
 
 Taglines or subtitles can be included using Metafields. This can be used to show a short description for your product.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-09-30 at 14.20.54@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/best sellers.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## How to <a href="#h_d88a80d319" id="h_d88a80d319"></a>
 
