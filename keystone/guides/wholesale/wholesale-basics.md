@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Launching a wholesale website
+# Wholesale basics
 
 Keystone offers robust features for creating a wholesale or B2B storefront. These features allow you to restrict access to certain products, pages, and pricing information, ensuring an exclusive experience for approved customers.
 
@@ -22,7 +22,13 @@ Key functionalities include:
 * Setting minimum order amounts
 * Displaying different prices to different customers using third-party apps
 
-### Setting Up Account Restriction Features
+### Setting Up Account Restriction Feature
+
+{% hint style="info" %}
+**Restriction tags are case sensitive!**
+
+Restriction tags like `approved` are case-sensitive. For example, `approved` must be lowercase—`Approved` or `APPROVED` won't work.
+{% endhint %}
 
 #### Hiding Prices with Tags
 
