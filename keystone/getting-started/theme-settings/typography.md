@@ -24,7 +24,7 @@ Choose fonts that match your brand style and enhance readability. Stick to 1-2 f
 
 
 
-### General tips
+### Getting started
 
 {% stepper %}
 {% step %}
