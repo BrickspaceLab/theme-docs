@@ -12,18 +12,18 @@ Before adjusting typography settings, consider your brand's mission and identity
 
 ### Getting started <a href="#h_97321b3056" id="h_97321b3056"></a>
 
-Editing font family
+#### Editing font family
 
 We suggest using a maximum of two different fonts to avoid impacting your website's performance. Consider using the same font for two settings.
 
 System fonts are recommended if you prioritize speed over visual consistency.
 
-* Body font: Applied to main body text across your site, such as description text and other content.
-* Heading font: Applied to all headings on your site.
-* Navigation font: Applied to all buttons.
-* Base size: The smallest font size, serving as a reference for all other font sizes, including headings.
+* **Body font:** Applied to main body text across your site, such as description text and other content.
+* **Heading font:** Applied to all headings on your site.
+* **Navigation font:** Applied to all buttons.
+* **Base size:** The smallest font size, serving as a reference for all other font sizes, including headings.
 
-Editing type settings
+#### Editing type settings
 
 Type settings can be used to further customize which fonts are used throughout your theme. These settings can be used to change capitalization and font families.
 
