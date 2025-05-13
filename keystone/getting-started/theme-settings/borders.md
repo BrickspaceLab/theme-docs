@@ -26,7 +26,7 @@ Borderless (0px width) creates a minimalist aesthetic
 
 {% stepper %}
 {% step %}
-**Border Radius -** Controls the corner rounding for different elements:
+**Border Radius:** Controls the corner rounding for different elements:
 
 * **Button Radius**: Adjusts corner curvature for all buttons (0px = sharp, higher values = more rounded)
 * **Input Radius**: Sets rounding for form fields (5px recommended for friendly but clean look)
@@ -34,7 +34,7 @@ Borderless (0px width) creates a minimalist aesthetic
 {% endstep %}
 
 {% step %}
-**Border Width -** Determines the thickness of border lines:
+**Border Width:** Determines the thickness of border lines:
 
 * **Button Width**: 1px standard (thicker for emphasis, 0px for borderless)
 * **Input Width**: 1px recommended for clean form fields
