@@ -15,6 +15,16 @@ There are a handful of great resources online that can help guide your color sel
 
 <details>
 
+<summary>Where can I adjust my color settings?</summary>
+
+Color settings can be adjusted within the 'Theme settings' tab within your Shopify theme editor. Select the 'Colors' tab.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
 <summary>How can I change the accent colors in my theme settings?</summary>
 
 

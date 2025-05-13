@@ -12,6 +12,16 @@ Before adjusting typography settings, consider your brand's mission and identity
 
 <details>
 
+<summary>Where can I adjust my typography settings? </summary>
+
+Typography settings can be adjusted within the 'Theme settings' tab within your theme editor. Select the 'Typography' tab.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
 <summary>How can I upload a custom font?</summary>
 
 [https://help.brickspacelab.com/use-a-custom-font#installing-a-custom-font](https://help.brickspacelab.com/use-a-custom-font#installing-a-custom-font)
