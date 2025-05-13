@@ -8,6 +8,7 @@
 * [Theme settings](getting-started/theme-settings/README.md)
   * [Colors](getting-started/theme-settings/colors.md)
   * [Typography](getting-started/theme-settings/typography.md)
+  * [Borders](getting-started/theme-settings/borders.md)
 
 ## Guides
 
