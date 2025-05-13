@@ -4,6 +4,8 @@ Quick add allows customers to add products to their cart directly from product c
 
 
 
+### FAQs
+
 <details>
 
 <summary>Where can I adjust my quick add settings?</summary>
