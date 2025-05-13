@@ -29,7 +29,7 @@ Before customizing your theme, keep these best practices in mind:
 
 ### Setting up your theme for the first time
 
-If your new to Keystone we recommend setting up your global theme settings then going page-by-page to review and adjust your design and content.&#x20;
+If your new to Paper we recommend setting up your global theme settings then going page-by-page to review and adjust your design and content.&#x20;
 
 {% stepper %}
 {% step %}
