@@ -9,6 +9,7 @@
   * [Colors](getting-started/theme-settings/colors.md)
   * [Typography](getting-started/theme-settings/typography.md)
   * [Borders](getting-started/theme-settings/borders.md)
+  * [Quick Add](getting-started/theme-settings/quick-add.md)
 
 ## Guides
 
