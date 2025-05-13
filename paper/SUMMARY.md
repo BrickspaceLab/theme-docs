@@ -26,7 +26,7 @@
 * [Using device specific visibility](using-device-specific-visibility.md)
 * [Dynamic discount popups](dynamic-discount-popups.md)
 * [Disabling default ratings when using a third party app](disabling-default-ratings-when-using-a-third-party-app.md)
-* [Migrateing custom changes](migrateing-custom-changes.md)
+* [Migrating custom changes](migrating-custom-changes.md)
 * [Different ways to display option blocks](different-ways-to-display-option-blocks.md)
 * [Creating a Mapbox API key](creating-a-mapbox-api-key.md)
 
