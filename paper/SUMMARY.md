@@ -19,16 +19,17 @@
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
   * [Disabling "quick-add" for a product](guides/products/disabling-quick-add-for-a-product.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
-* [Color and option swatches](guides/color-and-option-swatches.md)
+  * [Color and option swatches](guides/products/color-and-option-swatches.md)
 
 ***
 
-* [Using device specific visibility](using-device-specific-visibility.md)
-* [Dynamic discount popups](dynamic-discount-popups.md)
-* [Disabling default ratings when using a third party app](disabling-default-ratings-when-using-a-third-party-app.md)
+* [Sitewide](sitewide/README.md)
+  * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
+  * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
+  * [Disabling default ratings when using a third party app](sitewide/disabling-default-ratings-when-using-a-third-party-app.md)
+  * [Different ways to display option blocks](sitewide/different-ways-to-display-option-blocks.md)
+  * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
 * [Migrating custom changes](migrating-custom-changes.md)
-* [Different ways to display option blocks](different-ways-to-display-option-blocks.md)
-* [Creating a Mapbox API key](creating-a-mapbox-api-key.md)
 
 ## Templates
 
