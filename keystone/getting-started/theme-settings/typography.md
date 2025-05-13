@@ -16,7 +16,7 @@ Before adjusting typography settings, consider your brand's mission and identity
 
 Typography settings can be adjusted within the 'Theme settings' tab within your theme editor. Select the 'Typography' tab.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

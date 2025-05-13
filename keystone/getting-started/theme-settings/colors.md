@@ -19,7 +19,7 @@ There are a handful of great resources online that can help guide your color sel
 
 Color settings can be adjusted within the 'Theme settings' tab within your Shopify theme editor. Select the 'Colors' tab.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

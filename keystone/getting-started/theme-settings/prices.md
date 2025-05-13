@@ -12,6 +12,20 @@ Keystone comes with a number of settings and features to customize how prices ar
 
 <details>
 
+<summary>Where can I adjust my price settings?</summary>
+
+1. **Navigate to Theme settings > Prices** – Open your theme by clicking **Customize**.
+2. Click the **gear icon** (⚙️) in the top-left corner to open **Theme Settings**.
+3. Scroll down and select **Prices**.
+4. Modify your price settings (format, currency, discounts, etc.) as needed.
+5. Click **Save** to apply your changes.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
 <summary>How do I include sales tax in product price and shipping rate?</summary>
 
 Taxes can be included in product prices. This is done inside your Shopify admin. Please refer to the [Shopify help center](https://help.shopify.com/en/manual/taxes/location) for more information.&#x20;
