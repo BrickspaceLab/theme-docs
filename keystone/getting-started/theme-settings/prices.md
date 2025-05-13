@@ -20,7 +20,7 @@ Keystone comes with a number of settings and features to customize how prices ar
 4. Modify your price settings (format, currency, discounts, etc.) as needed.
 5. Click **Save** to apply your changes.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
