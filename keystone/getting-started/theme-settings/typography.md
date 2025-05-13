@@ -28,7 +28,22 @@ Before adjusting typography settings, consider your brand's mission and identity
 
 
 
-### Getting started
+### Typography settings
+
+| Setting                   | Description                                                                                                                                                                                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Body font                 | Controls the primary font used for paragraph text and main content throughout your site. This font should be highly readable and will be the most commonly seen typeface on your pages.            |
+| Heading font              | Determines the font style used for all titles and section headers. Heading fonts often create visual hierarchy and can be more stylized than body text while maintaining readability.              |
+| Navigation font           | Sets the font style specifically for menu items, navigation links, and other wayfinding elements. This can match your body font or be distinctive to help users identify clickable elements.       |
+| Base font size            | Establishes the root text size that serves as a reference point for scaling all other text elements on your site. Adjusting this setting affects the overall text size across your theme.          |
+| Scale ratio               | Controls the proportional size difference between heading levels. A larger ratio creates more dramatic size differences between headings, while a smaller ratio results in more subtle variations. |
+| Text separator            | Defines the visual divider (such as a dot or line) used between text elements. These separators help create visual breaks in content and improve readability.                                      |
+| Heading capitalization    | Controls the case styling applied to all headings. This setting helps maintain consistency in how your headings appear across your site.                                                           |
+| Navigation capitalization | Determines how case is applied to menu text and navigation elements. Consistent capitalization in navigation improves usability and visual coherence.                                              |
+| Button capitalization     | Sets the case styling specifically for button text. This helps buttons maintain a consistent appearance throughout your site.                                                                      |
+| Icon style                | Determines the visual style of icons used throughout your theme. Icons play a key role in your theme's visual identity and enhance usability.                                                      |
+
+### Helpful tips
 
 {% stepper %}
 {% step %}
@@ -74,28 +89,6 @@ Check how fonts render on mobile, tablet, and desktop.
 {% endstep %}
 {% endstepper %}
 
-### Font settings
-
-Control the typography appearance throughout your theme.
-
-{% stepper %}
-{% step %}
-**Font Family**:
-
-* Maximum 2 fonts recommended.
-* Body Font: Main content.
-* Heading Font: All headings.
-* Navigation Font: Buttons/menus.
-{% endstep %}
-
-{% step %}
-**Sizing**:
-
-* Base Size: Reference point.
-* Scale Ratio: Heading proportions.
-{% endstep %}
-{% endstepper %}
-
 ### Icon styles
 
 Icons play a key role in your theme’s visual identity, enhancing usability and reinforcing brand style. Choose from multiple design options—such as sharp (modern, precise) or round (friendly, approachable)—to align with your brand’s aesthetic. Consistent icon styling ensures a polished, cohesive experience across your site.
@@ -111,69 +104,3 @@ These combinations work well together and can provide inspiration for your theme
 5. Nunito Sans + Optima Nova
 6. Work Sans + Crimson Text
 7. Source Sans Pro + Nunito
-
-### Advanced settings
-
-These options allow for further customization of your typography.
-
-{% stepper %}
-{% step %}
-**Body font**
-
-Primary font for paragraph text and content
-{% endstep %}
-
-{% step %}
-**Heading font**
-
-Font used for titles and section headers
-{% endstep %}
-
-{% step %}
-**Navigation font**&#x20;
-
-Font style for menu items and links
-{% endstep %}
-
-{% step %}
-**Base font size**&#x20;
-
-Root text size that scales all other elements
-{% endstep %}
-
-{% step %}
-**Scale ratio**&#x20;
-
-Adjusts proportional sizing between heading levels
-{% endstep %}
-
-{% step %}
-**Text separator**&#x20;
-
-Visual divider (dot/line) between text elements
-{% endstep %}
-
-{% step %}
-**Heading capitalization**&#x20;
-
-Controls case styling for headings
-{% endstep %}
-
-{% step %}
-**Navigation capitalization**
-
-Controls case styling for menu text
-{% endstep %}
-
-{% step %}
-**Button capitalization**
-
-Determines case styling for button text
-{% endstep %}
-
-{% step %}
-**Icon style**
-
-Choose between sharp (modern) or round (friendly) icons
-{% endstep %}
-{% endstepper %}
