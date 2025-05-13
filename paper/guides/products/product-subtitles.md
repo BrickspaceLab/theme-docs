@@ -1,18 +1,12 @@
-# Adding product subtitles
-
-## Paper: Adding product subtitles
-
-## Summary <a href="#h_cbe2ad58e7" id="h_cbe2ad58e7"></a>
-
-***
+# Product subtitles
 
 Taglines or subtitles can be included using Metafields. This can be used to show a short description for your product.
 
 [![](https://downloads.intercomcdn.com/i/o/1198966116/b431b8df4e0ebbacdcd5a4c9/CleanShot+2024-09-30+at+14_20_54%402x.png?expires=1744683300\&signature=cf007d8d0184a22219eab020ad5cb64906ce4ddbd45b48a6b486782e6e7a9aee\&req=dSEuHsB4m4BeX%2FMW1HO4zUk7KK0PrBO1PrzQWkHTe3hXkkpyGDzAYPoj1GWo%0ACQw%2B%2Bkyc4SjomEE4khc%3D%0A)](https://downloads.intercomcdn.com/i/o/1198966116/b431b8df4e0ebbacdcd5a4c9/CleanShot+2024-09-30+at+14_20_54%402x.png?expires=1744683300\&signature=cf007d8d0184a22219eab020ad5cb64906ce4ddbd45b48a6b486782e6e7a9aee\&req=dSEuHsB4m4BeX%2FMW1HO4zUk7KK0PrBO1PrzQWkHTe3hXkkpyGDzAYPoj1GWo%0ACQw%2B%2Bkyc4SjomEE4khc%3D%0A)
 
-## How to <a href="#h_d88a80d319" id="h_d88a80d319"></a>
+## &#x20;<a href="#h_d88a80d319" id="h_d88a80d319"></a>
 
-***
+## How to <a href="#h_d88a80d319" id="h_d88a80d319"></a>
 
 ### Enable setting <a href="#h_1d9f7ddad5" id="h_1d9f7ddad5"></a>
 
