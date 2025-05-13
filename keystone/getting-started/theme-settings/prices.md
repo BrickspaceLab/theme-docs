@@ -12,7 +12,7 @@ Keystone comes with a number of settings and features to customize how prices ar
 
 <details>
 
-<summary>How do I include sales tax in product price and shipping rate</summary>
+<summary>How do I include sales tax in product price and shipping rate?</summary>
 
 Taxes can be included in product prices. This is done inside your Shopify admin. Please refer to the [Shopify help center](https://help.shopify.com/en/manual/taxes/location) for more information.&#x20;
 
