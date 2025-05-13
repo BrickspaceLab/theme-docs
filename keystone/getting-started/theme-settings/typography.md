@@ -1,20 +1,48 @@
 # Typography
 
-### Before starting
-
-This section outlines important considerations for font selection in your theme.
+Choose fonts that match your brand style and enhance readability. Stick to 2-3 fonts to keep your design clean. Prioritize fast-loading fonts and check accessibility (good contrast, mobile-friendly). Pick styles that suit your audience - elegant serifs for luxury brands, clean sans-serifs for modern shops. Always preview on different devices.
 
 {% stepper %}
 {% step %}
-Choose fonts aligning with brand identity.
+**Align with brand identity**
+
+&#x20;Choose fonts that reflect your brand’s personality (e.g., modern, classic, playful).
 {% endstep %}
 
 {% step %}
-Consider customer perception.
+**Prioritize readability**
+
+&#x20;Ensure body text is clear and legible on all devices.
 {% endstep %}
 
 {% step %}
-Resource: [Font Selection Guide](https://example.com/font-guide).
+**Limit font pairings**
+
+Use 2–3 fonts max (e.g., one for headings, one for body text) to maintain consistency.
+{% endstep %}
+
+{% step %}
+**Consider performance**
+
+Opt for system fonts or lightweight web fonts to avoid slowing down your site.
+{% endstep %}
+
+{% step %}
+**Test accessibility**
+
+Ensure sufficient contrast ([WCAG standards](https://www.audioeye.com/lp/wcag-web-compliance/?utm_adgroup=WCAG-Test\&utm_source=google\&utm_medium=paidsearch\&utm_campaign=Generic-WCAG-Testing-Free-Site-Scan-97F\&utm_term=wcag%20test\&utm_content=\&hsa_acc=3628656526\&hsa_cam=20558467141\&hsa_grp=155189112404\&hsa_ad=722995104867\&hsa_src=g\&hsa_tgt=kwd-302642280442\&hsa_kw=wcag%20test\&hsa_mt=b\&hsa_net=adwords\&hsa_ver=3\&gad_source=1\&gad_campaignid=20558467141\&gbraid=0AAAAADkp9oAgY5lRKh-HbY7WjakyD4D85\&gclid=CjwKCAjwuIbBBhBvEiwAsNypvaAlnponeQImSyNHeCo8LU7djysPFF178lEcq1pkApDXR_YytunKmRoCnfMQAvD_BwE)) and scalable text for all users.
+{% endstep %}
+
+{% step %}
+**Match customer expectations**
+
+Luxury brands may use serifs; minimalist brands often prefer clean sans-serifs.
+{% endstep %}
+
+{% step %}
+**Preview across devices**
+
+Check how fonts render on mobile, tablet, and desktop.
 {% endstep %}
 {% endstepper %}
 
