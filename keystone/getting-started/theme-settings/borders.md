@@ -1,24 +1,24 @@
-# Theme Borders Setup
+# Borders
 
-#### Before Starting
+Border styling helps define your brand’s visual tone. Choose between rounded edges for a friendly, approachable look or sharp corners for a modern, bold aesthetic.
 
-* Borders impact brand perception:
-  * Rounded = Friendly
-  * Sharp = Strong/Professional
+### Design tips
 
-#### Border Radius
+{% stepper %}
+{% step %}
+Use consistent radius values (e.g., all 5px) for a harmonious look
+{% endstep %}
 
-1. **Button Radius**:
-   * 0px = Sharp corners
-   * 50px = Fully rounded
-2. **Input Radius**:
-   * Recommended: 0-10px
-3. **Element Radius**:
-   * Recommended: 0-10px
+{% step %}
+Combine sharp elements (0px) with some rounded components for visual interest
+{% endstep %}
 
-#### Border Width
+{% step %}
+Thicker borders (2px+) work well for high-contrast designs
+{% endstep %}
 
-* Standard: 1px
-* Minimalist: 0px
-* Bold: 2px
-* Affects all border elements
+{% step %}
+Borderless (0px width) creates a minimalist aesthetic\
+
+{% endstep %}
+{% endstepper %}
