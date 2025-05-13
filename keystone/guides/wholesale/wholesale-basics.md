@@ -27,7 +27,7 @@ Key functionalities include:
 {% hint style="info" %}
 **Restriction tags are case sensitive!**
 
-Restriction tags like `approved` are case-sensitive. For example, `approved` must be lowercase—`Approved` or `APPROVED` won't work.
+Restriction tags like `approved` are case-sensitive and must match exactly between the theme editor and tag system. For example, if the theme uses `Approved`, the tag must also be `Approved`—`approved` or `APPROVED` won't work.
 {% endhint %}
 
 #### Hiding Prices with Tags
