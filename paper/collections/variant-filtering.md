@@ -110,17 +110,15 @@ This is the same approach you would take if you wanted to filter by any other pr
 
 
 
-
-
-Caveats of metafield filtering
+### Caveats of metafield filtering
 
 If you use metafield swatch filtering you'll have to ensure you update your metafields for all products that you want to appear on this filter - this will NOT happen automatically even if category metafields and variant options are displaying swatches.
 
 
 
-### &#x20;\*A temporary fix for adjusting color swatch sizing <a href="#h_9af1582f1b" id="h_9af1582f1b"></a>
+### &#x20;A temporary fix for adjusting color swatch sizing <a href="#h_9af1582f1b" id="h_9af1582f1b"></a>
 
-1. Navigate to your theme editor >Theme settings > Custom css
+1. Go to **Online Store** > **Theme settings** > **Custom css**
 2.  Within your custom css block paste the following code:\
     ​\
     &#x200B;_&#x46;or color swatches/custom swatches_ (adjust the REM within height and width in increments of .1 for the best results) :
@@ -132,7 +130,7 @@ If you use metafield swatch filtering you'll have to ensure you update your meta
     }
     ```
 
-Upload missing swatch files
+**Upload missing swatch files**
 
 You may notice that not all of your color filters are appearing with swatches. If this is the case you may have to upload custom swatch files.
 
