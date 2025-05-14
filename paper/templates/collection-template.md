@@ -87,36 +87,37 @@ Each collection can be set up with nested navigation. This is useful if you have
 
 In this example clicking "Elastic" would navigate to a new page loading the "Elastic" collection page.
 
-[![](https://downloads.intercomcdn.com/i/o/1199099544/63f2e36bdd122a2aea0d5730/CleanShot+2024-09-30+at+16_23_07%402x.png?expires=1744682400\&signature=4c5d9a13368a5b114dd7310776cb855a7ca80a4a98ba248657c6b41a8371ece7\&req=dSEuH8l3lIRbXfMW1HO4zYR%2B7dY%2BmS2mc72vnqCuXaUbqa3VDfdXv7ScrQsX%0AIMvxNPwDzRM7PMdE2jg%3D%0A)](https://downloads.intercomcdn.com/i/o/1199099544/63f2e36bdd122a2aea0d5730/CleanShot+2024-09-30+at+16_23_07%402x.png?expires=1744682400\&signature=4c5d9a13368a5b114dd7310776cb855a7ca80a4a98ba248657c6b41a8371ece7\&req=dSEuH8l3lIRbXfMW1HO4zYR%2B7dY%2BmS2mc72vnqCuXaUbqa3VDfdXv7ScrQsX%0AIMvxNPwDzRM7PMdE2jg%3D%0A)
+<figure><img src="../.gitbook/assets/right.png" alt=""><figcaption></figcaption></figure>
 
-Create metafield definitions
+{% stepper %}
+{% step %}
+### Create metafields definitions
 
-1. Open up Settings and click Metafields.
-2. Click Collections then click Add definition.
-3. Set Name to Subcollections.
-4. Set Namespace and key to `my_fields.subcollections`.
-5. Click Select content type and select Single line text.
-6. Click Save.
+1. Go to **Settings** > **Metafields**
+2. Click **Collections** then click **Add definition**
+3. Set **Name** to **Subcollections**
+4. Set **Namespace** and key to `my_fields.subcollections`.
+5. Click **Select content type** and choose **Single line text**
+6. Click **Save**
+{% endstep %}
 
-Add data to collection metafield
+{% step %}
+### Add data to Collection metafield
 
-1. Open the collection you’d like to add a nested menu to
-2. Scroll to the bottom Metafields area.
-3.  Enter a text value.
-
-    * This text must be formatted in a specific way. Please ensure each menu item is separated by “&” then ensure each title and url for each item is separated by a “,”.
-    * This should look something like the below
-
-    ```
-    Tops,/collections/tops&
-    Bags,/collections/bags&
-    Shorts,/collections/shorts
-    ```
-4. Click Save.
+1. Open the collection you’d like to add a tag filtering too
+2. Scroll to the bottom **Metafields** area
+3. Enter a text value for each tag filter
+   * There's no need to include "All" as that will be the first link within tag filtering
+   * Each entry should match a tag that is present within your collection
+   * This text must be formatted in a specific way. Please ensure each menu item is separated by “&” then ensure each title and url for each item is separated by a “,”.
+   * It should look something like this:
+     * <pre><code><strong>Tops,/collections/tops&#x26;Bags,/collections/bags&#x26;Shorts,/collections/short
+       </strong></code></pre>
+4. Click **Save**
+{% endstep %}
+{% endstepper %}
 
 ## Adding blocks to a collection grid <a href="#h_a6cd48b9a0" id="h_a6cd48b9a0"></a>
-
-***
 
 The collection template can include optional blocks. These blocks are displayed in-grid alongside your products. This can be used to display a text block or a newsletter. Both of which are great for highlighting ongoing promotions.
 
