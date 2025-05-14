@@ -24,7 +24,7 @@ Shopify has recently made a number of improvements to metafields and how they wo
 
 1. Go to **Settings** > **Custom Data**
 2. Scroll down to **Metaobject** definitions then click **Add definition**
-3. Add a name and description to your metaobject.
+3. Add a name and description to your metaobject
    * You can use any name or description. E.g. "Swatch"
 4.  Add three fields to your metaobject
 
@@ -77,9 +77,13 @@ We now have to assign values so data is populated for our new metafields.
 {% step %}
 ### Add swatch filter from 'color' option <a href="#h_c284ce1b06" id="h_c284ce1b06"></a>
 
+{% hint style="info" %}
 You can add filters using color product options. This is a easy way to add filters but will require swatch files to be uploaded in a specific format. Swatches will only appear using this approach when the product option matches "color" - or a translation of color.
+{% endhint %}
+{% endstep %}
 
-Add filter using Search and discovery
+{% step %}
+### Add filter using Search and discovery
 
 1. Open the Search and discovery app.
 2. Navigate to filters and click "Add filter".
@@ -87,9 +91,6 @@ Add filter using Search and discovery
    * This is the same approach you would take if you wanted to filter by any other product option like size.
 4. Add a label.
    * You can use any name or description. E.g. "Color"
-5. Click save.
-
-
 {% endstep %}
 {% endstepper %}
 
