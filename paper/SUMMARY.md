@@ -17,17 +17,18 @@
   * [Product subtitles](guides/products/product-subtitles.md)
   * [Product badges](guides/products/product-badges.md)
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
-  * [Disabling "quick-add" for a product](guides/products/disabling-quick-add-for-a-product.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
   * [Variant swatches](guides/products/variant-swatches.md)
-  * [Variant filtering](guides/products/variant-filtering.md)
+  * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
 
 ***
 
+* [Collections](collections/README.md)
+  * [Variant filtering](collections/variant-filtering.md)
+  * [Disabling "quick-add" for a product](collections/disabling-quick-add-for-a-product.md)
 * [Sitewide](sitewide/README.md)
   * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
   * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
-  * [Disabling default ratings when using a third party app](sitewide/disabling-default-ratings-when-using-a-third-party-app.md)
   * [Different ways to display option blocks](sitewide/different-ways-to-display-option-blocks.md)
   * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
 * [Migrating custom changes](migrating-custom-changes.md)
