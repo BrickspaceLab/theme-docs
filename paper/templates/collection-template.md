@@ -14,45 +14,38 @@ layout:
 
 # Collection template
 
-## Paper: Using the collection template
-
-## Summary <a href="#h_807311542b" id="h_807311542b"></a>
-
-***
-
-The collection template is used to show a list of products.
-
 ## Customizing filters for your collection template <a href="#h_c21ffc98e1" id="h_c21ffc98e1"></a>
-
-***
 
 Collection templates in Paper are compatible with Shopify's official [Search & Discovery](https://apps.shopify.com/search-and-discovery) app. This app can be used to customize and extend the available filters for your store.
 
-Enable collection filters
+{% stepper %}
+{% step %}
+### Enable collection filters
 
-Collection filters can be enabled and disabled from the theme editor. If you aren't seeing your filters make sure you have this setting enabled.
+1. Go to **Online Store** > **Themes** > **Customize**
+2. From the dropdown in the center of the top bar select **Collections** > **Default** **collection**
+3. On the left hand side, select **Collection grid** in the theme sections
+4. Scroll down under **Display** and check **Enable filter**
+{% endstep %}
 
-1. Open the theme editor by clicking Customize next to the relevant theme.
-2. From the dropdown in the center of the top bar select Collections > Default collection.
-3. Select Collection grid from the theme sections.
-4. Scroll down under Display and check Enable filter
+{% step %}
+### Enable collection sorting
 
-Enable collection sorting
+1. Go to **Online Store** > **Themes** > **Customize**
+2. From the dropdown in the center of the top bar select **Collections** > **Default** **collection**
+3. On the left hand side, select **Collection grid** in the theme sections
+4. Scroll down under **Display** and check **Enable sort**
+{% endstep %}
 
-Collection sorting can be enabled and disabled from the theme editor. If you aren't seeing your sort options make sure you have this setting enabled.
+{% step %}
+### Customizing filtering options
 
-1. Open the theme editor by clicking Customize next to the relevant theme.
-2. From the dropdown in the center of the top bar select Collections > Default collection.
-3. Select Collection grid from the theme sections.
-4. Scroll down under Display and check Enable sort
-
-Customizing filtering options
-
-Use the [Search & Discovery](https://apps.shopify.com/search-and-discovery) app to adjust filters.
+1. Go to the [Search & Discovery](https://apps.shopify.com/search-and-discovery) app to adjust filters
+2. Hit **Save**
+{% endstep %}
+{% endstepper %}
 
 ## Adding simple tag filtering to a collection page <a href="#h_e872ff64e1" id="h_e872ff64e1"></a>
-
-***
 
 Using Paper you can update collection template to use tag based filtering. This is an easy way to surface sub-categories within a collection. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 
@@ -80,8 +73,6 @@ Add data to collection metafield
 4. Click Save.
 
 ## Adding a nested menu to a collection <a href="#h_dd72bae66a" id="h_dd72bae66a"></a>
-
-***
 
 Each collection can be set up with nested navigation. This is useful if you have a large collection with multiple sub-groupings within. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 

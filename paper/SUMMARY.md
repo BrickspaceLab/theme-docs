@@ -15,21 +15,21 @@
 
 * [Products](guides/products/README.md)
   * [Product badges](guides/products/product-badges.md)
-  * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
-  * [Variant swatches](guides/products/variant-swatches.md)
-  * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
   * [Product subtitles](guides/products/product-subtitles.md)
+  * [Variant swatches](guides/products/variant-swatches.md)
+  * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
+  * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
+  * [Option blocks](guides/products/option-blocks.md)
 
 ***
 
 * [Collections](collections/README.md)
   * [Variant filtering](collections/variant-filtering.md)
-  * [Disabling "quick-add" for a product](collections/disabling-quick-add-for-a-product.md)
+  * [Disabling Quick add](collections/disabling-quick-add.md)
 * [Sitewide](sitewide/README.md)
   * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
   * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
-  * [Different ways to display option blocks](sitewide/different-ways-to-display-option-blocks.md)
   * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
 * [Migrating custom changes](migrating-custom-changes.md)
 
