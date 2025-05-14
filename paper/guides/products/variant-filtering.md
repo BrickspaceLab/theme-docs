@@ -12,29 +12,7 @@ layout:
     visible: true
 ---
 
-# Color and option swatches
-
-Swatches are used to make variant selections easier and more intuitive for customers when they are selecting an option with color. Swatches appear throughout your theme in various places and can be used with custom images or hex code colors.
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-09-30 at 14.20.54@2x (1).png" alt=""><figcaption></figcaption></figure>
-
-## Using swatch options <a href="#h_d144139bc1" id="h_d144139bc1"></a>
-
-In order to display swatches on a product page or within a product card we can use metafield connected variant options. This might sound complicated but it's super easy to setup and works great out of the box.
-
-1. Go to the product you want to update.
-2. Scroll to **Category**&#x20;
-3. Select the Category of your Product
-4. Scroll to **Variants**
-5. Click **Add variant**&#x20;
-6. Add a new option like "Color" or "Material".
-7. Right of Option name, click matching metafield
-8. Enter Swatch names
-9. Hit **Save**
-
-{% hint style="info" %}
-From here you'll be able to change the hexcode or image of each swatch by clicking into it.
-{% endhint %}
+# Variant filtering
 
 <figure><img src="../../.gitbook/assets/options.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,11 +26,11 @@ Shopify has recently made a number of improvements to metafields and how they wo
 {% step %}
 ### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
 
-1. Go to **Settings** > Custom Data
-2. Scroll down to Metaobject definitions then click "Add definition".
+1. Go to **Settings** > **Custom Data**
+2. Scroll down to **Metaobject** definitions then click **Add definition**
 3. Add a name and description to your metaobject.
    * You can use any name or description. E.g. "Swatch"
-4.  Add three fields to your metaobject.
+4.  Add three fields to your metaobject
 
     * Label, color and image.
     * Label should be a required field using "Single line text" - Make sure to select "List of values" after clicking single line text.
@@ -77,7 +55,7 @@ We now have to assign values so data is populated for our new metafields.
 5. Click "Select type" then pick "Metaobject". Make sure to select "List of values" after clicking Metaobject.
 6. In the reference field enter the Metaobject you have just created.
 7. Assign values to each product
-8. Hit Save
+8. Hit **Save**
 
 <figure><img src="../../.gitbook/assets/meta.png" alt=""><figcaption></figcaption></figure>
 

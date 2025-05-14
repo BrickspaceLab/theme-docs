@@ -19,7 +19,8 @@
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
   * [Disabling "quick-add" for a product](guides/products/disabling-quick-add-for-a-product.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
-  * [Color and option swatches](guides/products/color-and-option-swatches.md)
+  * [Variant swatches](guides/products/variant-swatches.md)
+  * [Variant filtering](guides/products/variant-filtering.md)
 
 ***
 
