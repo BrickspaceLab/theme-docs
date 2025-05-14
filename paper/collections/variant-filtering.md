@@ -48,10 +48,11 @@ We now have to assign values so data is populated for our new metafields.
 3. Select **Add definition**
 4. Add a name and description to your new metafield.
    * You can use any name or description. E.g. "Swatch"
-5. Click "Select type" then pick "Metaobject". Make sure to select "List of values" after clicking Metaobject.
-6. In the reference field enter the Metaobject you have just created.
-7. Assign values to each product
-8. Hit **Save**
+5. Click **Select type** then pick **Metaobject**
+6. Choose **List of values**
+7. In the reference field enter the Metaobject you have just created
+8. Assign values to each product
+9. Hit **Save**
 
 <figure><img src="../.gitbook/assets/meta.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -59,19 +60,21 @@ We now have to assign values so data is populated for our new metafields.
 {% step %}
 ### Link metafields to products
 
-1. Find a product you want to update.
-2. Scroll down to "Product metafields" and add all the colors you'd like to highlight for this product
+1. Find a product you want to update
+2. Scroll down to **Product metafields**&#x20;
+3. Add the colors you'd like to highlight for this product
 {% endstep %}
 
 {% step %}
 ### Connect to filter
 
-1. Open the Search and discovery app.
-2. Navigate to filters and click "Add filter".
-3. Click "Select source" then look for the new product metafield you just created
-4. Add a label .
+1. Open the [**Search and discovery app**](https://apps.shopify.com/search-and-discovery)
+2. Navigate to **Filters**&#x20;
+3. Click **Add filter**
+4. Click **Select source,** then look for the new product metafield you just created
+5. Add a label
    * You can use any name or description. E.g. "Color" or "Material"
-5. Click save.
+6. Click **Save**
 {% endstep %}
 
 {% step %}
@@ -85,7 +88,7 @@ You can add filters using color product options. This is a easy way to add filte
 {% step %}
 ### Add filter using Search and discovery
 
-1. Open the Search and discovery app.
+1. Open the [**Search and discovery app**](https://apps.shopify.com/search-and-discovery)
 2. Navigate to filters and click "Add filter".
 3. Click "Select source" then look for the product option "Color".
    * This is the same approach you would take if you wanted to filter by any other product option like size.
