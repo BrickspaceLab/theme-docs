@@ -18,6 +18,10 @@ Your collection page filtering can be customized from the [Shopify Search and Di
 
 Shopify has recently made a number of improvements to metafields and how they work with swatches. This is great news for us because now swatches are much easier to manage and update.
 
+
+
+### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
+
 {% stepper %}
 {% step %}
 ### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
@@ -76,26 +80,35 @@ We now have to assign values so data is populated for our new metafields.
    * You can use any name or description. E.g. "Color" or "Material"
 6. Click **Save**
 {% endstep %}
+{% endstepper %}
 
-{% step %}
-### Add swatch filter from 'color' option <a href="#h_c284ce1b06" id="h_c284ce1b06"></a>
+
+
+### Add swatch filter from 'Color' option <a href="#h_c284ce1b06" id="h_c284ce1b06"></a>
 
 {% hint style="info" %}
 You can add filters using color product options. This is a easy way to add filters but will require swatch files to be uploaded in a specific format. Swatches will only appear using this approach when the product option matches "color" - or a translation of color.
 {% endhint %}
-{% endstep %}
 
-{% step %}
-### Add filter using Search and discovery
+
 
 1. Open the [**Search and discovery app**](https://apps.shopify.com/search-and-discovery)
-2. Navigate to filters and click "Add filter".
-3. Click "Select source" then look for the product option "Color".
-   * This is the same approach you would take if you wanted to filter by any other product option like size.
-4. Add a label.
-   * You can use any name or description. E.g. "Color"
-{% endstep %}
-{% endstepper %}
+2. Navigate to **Filters** and click **Add** **filter**
+3. Click **Select source** then look for the product option **Color**
+
+{% hint style="info" %}
+This is the same approach you would take if you wanted to filter by any other product option like size.
+{% endhint %}
+
+4. Add a **label**
+   1. You can use any name or description. E.g. "Color"
+5. Hit **Save**
+
+
+
+
+
+
 
 
 
