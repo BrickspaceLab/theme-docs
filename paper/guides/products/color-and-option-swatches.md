@@ -22,12 +22,19 @@ Swatches are used to make variant selections easier and more intuitive for custo
 
 In order to display swatches on a product page or within a product card we can use metafield connected variant options. This might sound complicated but it's super easy to setup and works great out of the box.
 
-1. Find a product you want to update.
-2. Update the "Category" field to match your product.
-3. Add a new option like "Color" or "Material".
-4. Ensure the option is connected to a metafield.
+1. Go to the product you want to update.
+2. Scroll to **Category**&#x20;
+3. Select the Category of your Product
+4. Scroll to **Variants**
+5. Click **Add variant**&#x20;
+6. Add a new option like "Color" or "Material".
+7. Right of Option name, click matching metafield
+8. Enter Swatch names
+9. Hit **Save**
 
+{% hint style="info" %}
 From here you'll be able to change the hexcode or image of each swatch by clicking into it.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/options.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,8 +47,6 @@ Shopify has recently made a number of improvements to metafields and how they wo
 {% stepper %}
 {% step %}
 ### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
-
-Create metaobject for your swatch
 
 1. Go to **Settings** > Custom Data
 2. Scroll down to Metaobject definitions then click "Add definition".
