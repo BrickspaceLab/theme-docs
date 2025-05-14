@@ -119,18 +119,44 @@ In this example clicking "Elastic" would navigate to a new page loading the "Ela
 
 ## Adding blocks to a collection grid <a href="#h_a6cd48b9a0" id="h_a6cd48b9a0"></a>
 
-The collection template can include optional blocks. These blocks are displayed in-grid alongside your products. This can be used to display a text block or a newsletter. Both of which are great for highlighting ongoing promotions.
+The collection template can include optional blocks. These blocks are displayed in-grid alongside your products. This can be used to display a text block or a newsletter. Both of which are great for highlighting ongoing promotions
 
-[![](https://downloads.intercomcdn.com/i/o/1199108757/6cb6ce302434e1ca891ba854/CleanShot+2024-09-30+at+16_33_14%402x.png?expires=1744682400\&signature=efea5fb5d0b6f603788e3062eeb32b7e847145202a7da7e5685fe175bc2991f0\&req=dSEuH8h%2BlYZaXvMW1HO4zRon81P7VX0Vg0kJsktTLR0yhWVr4xkE4VPpCTJH%0AObPX89DBF4XiYMNOZeY%3D%0A)](https://downloads.intercomcdn.com/i/o/1199108757/6cb6ce302434e1ca891ba854/CleanShot+2024-09-30+at+16_33_14%402x.png?expires=1744682400\&signature=efea5fb5d0b6f603788e3062eeb32b7e847145202a7da7e5685fe175bc2991f0\&req=dSEuH8h%2BlYZaXvMW1HO4zRon81P7VX0Vg0kJsktTLR0yhWVr4xkE4VPpCTJH%0AObPX89DBF4XiYMNOZeY%3D%0A)
+<figure><img src="../.gitbook/assets/highlights.png" alt=""><figcaption></figcaption></figure>
 
-1. Open the theme editor by clicking "Customize" next to the theme you're working on.
-2. From the dropdown in the center of the top bar select Collections > Default collection.
-3. Select Collection grid from the theme sections.
-4. Click Add Block then select either Newsletter or Content.
-5. Click into the newly created block.
-6. For the Index field enter the number position you want to display within the collection grid.
-   * Entering 1 will ensure this block is displayed as the first item in your grid.
-7. Update the content of your block as needed.
-8. Click Save.
+{% stepper %}
+{% step %}
+Go to **Online Store** > **Themes** > **Customize**
+{% endstep %}
+
+{% step %}
+From the dropdown in the center of the top bar select **Collections** > **Default collection**
+{% endstep %}
+
+{% step %}
+Select **Collection grid** from the theme sections
+{% endstep %}
+
+{% step %}
+Click **Add Block** then select either **Newsletter** or **Content**.
+{% endstep %}
+
+{% step %}
+Click into the newly created block
+{% endstep %}
+
+{% step %}
+For the Index field enter the number position you want to display within the collection grid.
+
+* Entering 1 will ensure this block is displayed as the first item in your grid.
+{% endstep %}
+
+{% step %}
+Update the content of your block as needed
+{% endstep %}
+
+{% step %}
+Hit **Save**
+{% endstep %}
+{% endstepper %}
 
 \
