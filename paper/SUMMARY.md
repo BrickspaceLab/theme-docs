@@ -14,12 +14,12 @@
 ## Guides
 
 * [Products](guides/products/README.md)
-  * [Product subtitles](guides/products/product-subtitles.md)
   * [Product badges](guides/products/product-badges.md)
-  * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
   * [Variant swatches](guides/products/variant-swatches.md)
   * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
+  * [Product subtitles](guides/products/product-subtitles.md)
+  * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
 
 ***
 
