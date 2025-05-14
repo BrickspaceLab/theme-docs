@@ -35,43 +35,54 @@ From here you'll be able to change the hexcode or image of each swatch by clicki
 
 Your collection page filtering can be customized from the [Shopify Search and Discovery app](https://apps.shopify.com/search-and-discovery). Using this app you can add new filters and customize how they appear on your theme.
 
-### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
-
 Shopify has recently made a number of improvements to metafields and how they work with swatches. This is great news for us because now swatches are much easier to manage and update.
+
+{% stepper %}
+{% step %}
+### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
 
 Create metaobject for your swatch
 
-1. Navigate to your Shopify settings page then click "Custom data".
+1. Go to **Settings** > Custom Data
 2. Scroll down to Metaobject definitions then click "Add definition".
 3. Add a name and description to your metaobject.
    * You can use any name or description. E.g. "Swatch"
-4. Add three fields to your metaobject.
-   * Label, color and image.
-   * Label should be a required field using "Single line text" - Make sure to select "List of values" after clicking single line text.
-   * Color is not required and uses "Color".
-   * Image is not required and uses "File" with "Accepts specific file types - Images" selected.
+4.  Add three fields to your metaobject.
 
-<figure><img src="../../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
-
+    * Label, color and image.
+    * Label should be a required field using "Single line text" - Make sure to select "List of values" after clicking single line text.
+    * Color is not required and uses "Color".
+    * Image is not required and uses "File" with "Accepts specific file types - Images" selected.
 
 
 
+    <figure><img src="../../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-Create metafield to link to metaobject
+{% step %}
+### Create metafield to link to metaobject
 
 We now have to assign values so data is populated for our new metafields.
 
-1. Navigate to your Shopify settings page then click "Custom data".
-2. Find and click "Product".
-3. Click "Add definition".
+1. Go to **Settings** > **Custom** **data**
+2. Click **Product**
+3. Select **Add definition**
 4. Add a name and description to your new metafield.
    * You can use any name or description. E.g. "Swatch"
 5. Click "Select type" then pick "Metaobject". Make sure to select "List of values" after clicking Metaobject.
 6. In the reference field enter the Metaobject you have just created.
-
-Assign values to each product
+7. Assign values to each product
+8. Hit Save
 
 <figure><img src="../../.gitbook/assets/meta.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+
 
 From here you can click into each product and make sure the new metafield is updated to correspond to the relevant options.
 
