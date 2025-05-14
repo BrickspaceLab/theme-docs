@@ -45,32 +45,41 @@ Collection templates in Paper are compatible with Shopify's official [Search & D
 {% endstep %}
 {% endstepper %}
 
-## Adding simple tag filtering to a collection page <a href="#h_e872ff64e1" id="h_e872ff64e1"></a>
+## Adding tag filtering to a collection page <a href="#h_e872ff64e1" id="h_e872ff64e1"></a>
 
 Using Paper you can update collection template to use tag based filtering. This is an easy way to surface sub-categories within a collection. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 
 In this example clicking "Wallets" would filter the current collection to only show products that contain the tag "wallets".
 
-[![](https://downloads.intercomcdn.com/i/o/1199092216/c430d1a1dcc74d1fb37d2f28/CleanShot+2024-09-30+at+16_16_28%402x.png?expires=1744682400\&signature=a30aba5f741eef6789cfdd1a9395cfc3922cc2dac49167e07a300a0937756a7d\&req=dSEuH8l3n4NeX%2FMW1HO4zYjyxPe4b1SDqVj4rtOIGjVpjcOAurcRjyEqk6D%2F%0AK1lvsHtAM%2B%2BGKDIf3lg%3D%0A)](https://downloads.intercomcdn.com/i/o/1199092216/c430d1a1dcc74d1fb37d2f28/CleanShot+2024-09-30+at+16_16_28%402x.png?expires=1744682400\&signature=a30aba5f741eef6789cfdd1a9395cfc3922cc2dac49167e07a300a0937756a7d\&req=dSEuH8l3n4NeX%2FMW1HO4zYjyxPe4b1SDqVj4rtOIGjVpjcOAurcRjyEqk6D%2F%0AK1lvsHtAM%2B%2BGKDIf3lg%3D%0A)
+<figure><img src="../.gitbook/assets/tag filter.png" alt=""><figcaption></figcaption></figure>
 
-Create metafield definitions
+{% stepper %}
+{% step %}
+### Create metafield definitions
 
-1. Open up Settings and click Custom data.
-2. Click Collections then click Add definition.
-3. Set Name to Subtags.
-4. Set Namespace and key to `custom.subtags`.
-5. Click Select content type and select Single line text.
-6. Click List of values.
-7. Click Save.
+1. Click **Collections** then click **Add** **definition**
+2. Set **Name** to **Subtags**
+3. Set **Namespace** and key to `custom.subtags`
+4. Click **Select content type** and select **Single line text**
+5. Click **List of values**
+6. Hit **Save**
+{% endstep %}
 
-Add data to collection metafield
+{% step %}
+### Add data to collection metafield
 
 1. Open the collection you’d like to add a tag filtering too
-2. Scroll to the bottom Metafields area.
+2. Scroll to the bottom **Metafields** area.
 3. Enter a text value for each tag filter
    * There's no need to include "All" as that will be the first link within tag filtering
    * Each entry should match a tag that is present within your collection
-4. Click Save.
+4. Hit **Save**
+{% endstep %}
+{% endstepper %}
+
+
+
+
 
 ## Adding a nested menu to a collection <a href="#h_dd72bae66a" id="h_dd72bae66a"></a>
 
