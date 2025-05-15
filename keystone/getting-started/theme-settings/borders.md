@@ -33,20 +33,7 @@ Border styling helps define your brand’s visual tone. Choose between rounded e
 
 ### Helpful tips
 
-{% stepper %}
-{% step %}
-Use consistent radius values (e.g., all 5px) for a harmonious look
-{% endstep %}
-
-{% step %}
-Combine sharp elements (0px) with some rounded components for visual interest
-{% endstep %}
-
-{% step %}
-Thicker borders (2px+) work well for high-contrast designs
-{% endstep %}
-
-{% step %}
-Borderless (0px width) creates a minimalist aesthetic
-{% endstep %}
-{% endstepper %}
+* Use consistent radius values (e.g., all 5px) for a harmonious look
+* Combine sharp elements (0px) with some rounded components for visual interest
+* Thicker borders (2px+) work well for high-contrast designs
+* Borderless (0px width) creates a minimalist aesthetic
