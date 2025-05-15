@@ -31,7 +31,11 @@ There are a handful of great resources online that can help guide your color sel
 
 <summary>How can I change the accent colors in my theme settings?</summary>
 
+Accent 1-3 represents darker shades of the **Body** color. You can find your Body color within the **Colors** drawer in your  **Theme settings** tab.  To use an accent color, you can set this within the **Color** settings of most **Section** blocks.
 
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Theme settings 'Color' tab</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>What the setting will look like within a Section</p></figcaption></figure>
 
 </details>
 
