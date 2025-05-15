@@ -35,7 +35,11 @@
 
 ## Templates
 
-* [Collection template](templates/collection-template.md)
+* [Collection template](templates/collection-template/README.md)
+  * [Customizing Filters](templates/collection-template/customizing-filters.md)
+  * [Adding Tag Filtering](templates/collection-template/adding-tag-filtering.md)
+  * [Adding Nested Menu](templates/collection-template/adding-nested-menu.md)
+  * [Collection Blocks](templates/collection-template/collection-blocks.md)
 
 ***
 

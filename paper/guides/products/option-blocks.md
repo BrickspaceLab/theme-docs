@@ -1,2 +1,6 @@
-# Different ways to display option blocks
+---
+hidden: true
+---
+
+# Option blocks
 
