@@ -4,10 +4,12 @@ Although it's possible to jump into Keystone and start picking colors, we recomm
 
 If you don't already have a set color palette for your brand, it's useful to spend some time deciding on this direction. You can use free color palette generators, such as [Coolors](https://coolors.co/generate), to help with this process.
 
-There are a handful of great resources online that can help guide your color selection process, including
+There are a handful of great resources online that can help guide your color selection process.
 
+{% hint style="info" %}
 * [Brand Colors: How to Choose the Perfect Palette](https://looka.com/blog/brand-colors/)
 * [Color Psychology: How Color Meanings Affect Your Brand](https://www.oberlo.com/blog/color-psychology-color-meanings)
+{% endhint %}
 
 
 

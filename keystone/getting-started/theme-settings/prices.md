@@ -1,10 +1,10 @@
 # Prices
 
+Keystone comes with a number of settings and features to customize how prices are displayed.&#x20;
+
 {% hint style="info" %}
 To learn more about how to hide prices based on customer tags visit [account-restrictions.md](../../guides/wholesale/account-restrictions.md "mention").&#x20;
 {% endhint %}
-
-Keystone comes with a number of settings and features to customize how prices are displayed.&#x20;
 
 
 

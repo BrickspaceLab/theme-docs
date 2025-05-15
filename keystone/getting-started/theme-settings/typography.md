@@ -4,7 +4,9 @@ Choose fonts that match your brand style and enhance readability. Stick to 1-2 f
 
 Before adjusting typography settings, consider your brand's mission and identity. Make sure any changes support the visual identity that resonates with your customers.
 
-* [How to Pick a Font for Your Brand: Guide to Choosing Fonts](https://www.masterclass.com/articles/how-to-pick-a-font)
+{% hint style="info" %}
+[How to Pick a Font for Your Brand: Guide to Choosing Fonts](https://www.masterclass.com/articles/how-to-pick-a-font)
+{% endhint %}
 
 
 
