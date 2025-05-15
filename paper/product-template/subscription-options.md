@@ -19,8 +19,42 @@ However, this may cause complications with your product templates if you've alre
 
 Disabling the default subscription options is possible if you'd like to stick to using a third-party widget. There a few more steps here.
 
-1. Create a new product template. In the theme editor click the top dropdown > Products > Create template. Label this template 'subscription' so you can remembe[r later.](http://later.click/)
-2. Click into the Product section then check Enable default selling plan widget
-3. Click into the Options block and click Remove block
-4. Go into your subscription app and follow instructions to install the subscription widget
-5. Assign the 'subscription' product template to all products that have a subscription plan
+{% stepper %}
+{% step %}
+Go to **Online** **Store** > **Themes** > **Customize**
+{% endstep %}
+
+{% step %}
+Click the top dropdown > **Products** > **Create template**
+{% endstep %}
+
+{% step %}
+Label this template 'subscription'
+{% endstep %}
+
+{% step %}
+On the left hand side, click into the **Product** section&#x20;
+{% endstep %}
+
+{% step %}
+Check **Enable default selling plan widget**
+{% endstep %}
+
+{% step %}
+On the left hand side, click into the **Options** block and click **Remove block**
+{% endstep %}
+
+{% step %}
+Go into your subscription app and follow instructions to install the subscription widget
+{% endstep %}
+
+{% step %}
+Assign the 'subscription' product template to all products that have a subscription plan
+{% endstep %}
+
+{% step %}
+Hit **Save**
+
+
+{% endstep %}
+{% endstepper %}
