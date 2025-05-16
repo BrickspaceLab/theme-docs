@@ -10,6 +10,26 @@ description: Kingpin demo files
 
 If you want to get a head start on your theme design this guide will help you copy the existing layout and settings from our demo stores.
 
+{% stepper %}
+{% step %}
+#### Open up theme editor
+
+In Shopify select Online store then click **Edit code** for the theme you'd like update.
+{% endstep %}
+
+{% step %}
+#### Duplicate theme
+
+It's always a good idea to have a backup.
+{% endstep %}
+
+{% step %}
+#### Copy changes
+
+Copy the below files and replace your existing file.
+{% endstep %}
+{% endstepper %}
+
 ### Section files
 
 <details>
