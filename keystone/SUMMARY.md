@@ -95,4 +95,5 @@
   * [v1.0.1](general/changelog/v1.0.1.md)
   * [v1.0.0](general/changelog/v1.0.0.md)
 * [Known issues and troubleshooting](general/known-issues-and-troubleshooting.md)
-* [Cloning a demo theme](general/cloning-a-demo-theme.md)
+* [Cloning a demo theme](general/cloning-a-demo-theme/README.md)
+  * [Kingpin](general/cloning-a-demo-theme/kingpin.md)
