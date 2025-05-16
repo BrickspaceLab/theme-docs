@@ -96,19 +96,17 @@ A guide to known issues, temporary fixes, and troubleshooting steps for our Shop
 
 #### Before Reporting Issues
 
-1. Clear your browser cache
-2. Test in an incognito/private window
-3. Disable third-party apps temporarily
-4. Check if the issue occurs on multiple devices
+* Clear your browser cache
+* Test in an incognito/private window
+* Disable third-party apps temporarily
+* Check if the issue occurs on multiple devices
 
-#### When Reporting Issues
+#### When reporting issues
 
-1. Include your theme version
-2. Provide steps to reproduce
-3. Share screenshots or videos
-4. List any relevant browser/device information
-
-
+* Include your theme version
+* Provide steps to reproduce
+* Share screenshots or videos
+* List any relevant browser/device information
 
 ### Version Compatibility
 
