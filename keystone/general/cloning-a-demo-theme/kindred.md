@@ -249,7 +249,7 @@ If you want to get a head start on your theme design this guide will help you co
 
 </details>
 
-### Template Files
+### Template files
 
 <details>
 
