@@ -1,3 +1,7 @@
+---
+description: Kindred demo files
+---
+
 # Kindred
 
 {% hint style="info" %}
