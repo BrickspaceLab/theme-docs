@@ -1,6 +1,12 @@
 # Known issues and troubleshooting
 
-### Prices Displaying Incorrectly <a href="#h_9b9f33b7e3" id="h_9b9f33b7e3"></a>
+A guide to known issues, temporary fixes, and troubleshooting steps for our Shopify themes. We maintain this documentation to help you resolve common problems and provide workarounds while we work on permanent solutions.
+
+<details>
+
+<summary><strong>Known issues</strong> </summary>
+
+#### Prices Displaying Incorrectly <a href="#h_9b9f33b7e3" id="h_9b9f33b7e3"></a>
 
 ***
 
@@ -11,14 +17,14 @@
 
 ***
 
-### Compare-at Price Displaying Incorrectly <a href="#h_ebaf37ad3c" id="h_ebaf37ad3c"></a>
+#### Compare-at Price Displaying Incorrectly <a href="#h_ebaf37ad3c" id="h_ebaf37ad3c"></a>
 
 * Issue: The percentage discount badge and strikeout price disappear when switching from the store’s default currency (e.g., GBP) to another currency.
   * Solution: Navigate to your Shopify admin > Settings > Markets > Preferences. Toggle off “Compare-at price hiding”.
 
 ***
 
-### Products Won’t Add to Cart <a href="#h_8b938dd482" id="h_8b938dd482"></a>
+#### Products Won’t Add to Cart <a href="#h_8b938dd482" id="h_8b938dd482"></a>
 
 * Issue: Products may not add to the cart due to inventory or template settings.
   * Solutions:
@@ -28,7 +34,7 @@
 
 ***
 
-### Broken Blog Grid <a href="#h_9f82677923" id="h_9f82677923"></a>
+#### Broken Blog Grid <a href="#h_9f82677923" id="h_9f82677923"></a>
 
 * Issue: The blog grid may break if “Enable summary” is turned on and the blog article contains extra or malformed HTML.
   * Solutions:
@@ -42,7 +48,7 @@
 
 ***
 
-### Empty Buttons <a href="#h_93c573a029" id="h_93c573a029"></a>
+#### Empty Buttons <a href="#h_93c573a029" id="h_93c573a029"></a>
 
 * Issue: Buttons with placeholder content may remain visible when they should be hidden.
   * Solutions:
@@ -58,7 +64,7 @@
 
 ***
 
-### Missing Login Buttons <a href="#h_5e00a2db9f" id="h_5e00a2db9f"></a>
+#### Missing Login Buttons <a href="#h_5e00a2db9f" id="h_5e00a2db9f"></a>
 
 * Issue: Login and account buttons may not be visible when setting up your Shopify account.
   * Solution:
@@ -69,3 +75,68 @@
        * Header
        * Mobile Menu
        * Footer
+
+</details>
+
+### Getting Help
+
+#### Support Channels
+
+1. **Documentation**
+   * Check our [main documentation](https://help.brickspacelab.com) for detailed guides
+   * Review [theme setup guides](https://help.brickspacelab.com/setup)
+2. **Community Support**
+   * Join our [Discord community](https://discord.gg/brickspacelab)
+   * Share experiences and solutions with other theme users
+3. **Technical Support**
+   * Create a support ticket through our [help center](https://help.brickspacelab.com/support)
+   * Include theme version and detailed issue description
+
+### Best Practices
+
+#### Before Reporting Issues
+
+1. Clear your browser cache
+2. Test in an incognito/private window
+3. Disable third-party apps temporarily
+4. Check if the issue occurs on multiple devices
+
+#### When Reporting Issues
+
+1. Include your theme version
+2. Provide steps to reproduce
+3. Share screenshots or videos
+4. List any relevant browser/device information
+
+
+
+### Version Compatibility
+
+#### Supported Versions
+
+* Current Version: 2.0.0
+* Minimum Supported: 1.8.0
+* Recommended: Always use the latest version
+
+#### Update Policy
+
+* Critical fixes: Released within 48 hours
+* Feature updates: Monthly release cycle
+* Security patches: Immediate release
+
+### Contributing
+
+We welcome contributions to improve our documentation and help other users. To contribute:
+
+1. Fork our documentation repository
+2. Create a new branch
+3. Submit a pull request with your changes
+4. Include detailed description of changes
+
+### Contact
+
+For urgent issues or security concerns: [https://brickspacelab.com/pages/contact](https://brickspacelab.com/pages/contact)
+
+* Email: support@brickspacelab.com
+* Discord: [Join our server](https://discord.gg/brickspacelab)
+* Support Hours: Monday-Friday, 9 AM - 5 PM EST
