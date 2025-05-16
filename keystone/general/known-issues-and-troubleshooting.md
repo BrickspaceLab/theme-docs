@@ -4,7 +4,7 @@ A guide to known issues, temporary fixes, and troubleshooting steps for our Shop
 
 <details>
 
-<summary><strong>Known issues</strong> </summary>
+<summary><strong>Known issues - Keystone 1.3.0</strong></summary>
 
 #### Prices Displaying Incorrectly <a href="#h_9b9f33b7e3" id="h_9b9f33b7e3"></a>
 
