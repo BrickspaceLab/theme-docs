@@ -97,3 +97,7 @@
 * [Known issues and troubleshooting](general/known-issues-and-troubleshooting.md)
 * [Cloning a demo theme](general/cloning-a-demo-theme/README.md)
   * [Kingpin](general/cloning-a-demo-theme/kingpin.md)
+  * [Kindred](general/cloning-a-demo-theme/kindred.md)
+  * [Page 2](general/cloning-a-demo-theme/page-2.md)
+  * [Page 1](general/cloning-a-demo-theme/page-1.md)
+  * [Page 3](general/cloning-a-demo-theme/page-3.md)

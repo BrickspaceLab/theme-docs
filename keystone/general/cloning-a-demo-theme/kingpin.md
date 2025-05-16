@@ -10,7 +10,7 @@ description: Kingpin demo files
 
 If you want to get a head start on your theme design this guide will help you copy the existing layout and settings from our demo stores.
 
-### Sections
+### Section files
 
 <details>
 
@@ -332,7 +332,7 @@ If you want to get a head start on your theme design this guide will help you co
 
 </details>
 
-### Templates
+### Template files
 
 <details>
 
