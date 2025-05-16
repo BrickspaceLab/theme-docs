@@ -1,3 +1,7 @@
+---
+description: Kingpin demo files
+---
+
 # Kingpin
 
 {% hint style="info" %}
@@ -6,7 +10,7 @@
 
 If you want to get a head start on your theme design this guide will help you copy the existing layout and settings from our demo stores.
 
-### Kingpin theme files
+### Sections
 
 <details>
 
@@ -327,6 +331,8 @@ If you want to get a head start on your theme design this guide will help you co
 ```
 
 </details>
+
+### Templates
 
 <details>
 
