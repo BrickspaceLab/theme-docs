@@ -1,4 +1,8 @@
-# Page 2
+---
+description: Knit demo files
+---
+
+# Knit
 
 {% hint style="info" %}
 💡 Tip: Duplicate your theme before making code changes. This will ensure you have a backup to revert to if needed.

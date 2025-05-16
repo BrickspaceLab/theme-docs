@@ -1,4 +1,8 @@
-# Page 3
+---
+description: Kettle demo files
+---
+
+# Kettle
 
 {% hint style="info" %}
 💡 Tip: Duplicate your theme before making code changes. This will ensure you have a backup to revert to if needed.
