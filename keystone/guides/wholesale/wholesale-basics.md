@@ -76,7 +76,7 @@ For more information on B2B accounts, visit: Shopify B2B Help.
 
 ### Displaying Different Prices to Different Customers Using Applications
 
-* Install a wholesale pricing app from the **Shopify App Store** (e.g., **B2B Wholesale Hub** or **Wholesale Pricing Discount B2B**).
+* Install a wholesale pricing app from the **Shopify App Store** (e.g., [**B2B Wholesale Hub** ](https://apps.shopify.com/wholesale-hub)or [**Wholesale Pricing Discount B2B**](https://apps.shopify.com/wholesale-pricing-discount)).
 * In the **Theme Editor**, navigate to **App Embeds** and toggle on your application.
 
 ### **Automating Wholesale Workflows**
@@ -88,6 +88,4 @@ You can use an application like [**Flow**](https://apps.shopify.com/flow) to aut
 * **Inventory alerts** – Get notified when wholesale products are low in stock
 * **Order approvals** – Require manual approval for large wholesale orders
 * **Post-purchase follow-ups** – Send thank you emails or invoices automatically
-
-For more information on setting up automation, visit: [`Shopify Flow Help Center`](https://help.shopify.com/en/manual/shopify-flow).
 
