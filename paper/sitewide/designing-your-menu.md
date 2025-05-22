@@ -1,0 +1,13 @@
+# Designing your menu
+
+## Menu Styling
+
+Menu blocks allow you to customize your store's navigation with interactive elements that enhance the shopping experience and provide additional functionality.
+
+| Setting     | Description                                                                                                                                                                                                                                      |                                                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Button      | <p>Adds a clickable button element that appears beside your cart and search bar.</p><p>Use buttons to highlight important actions or promotions that you want customers to take.</p>                                                             | <div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div> |
+| Card        | <p>Displays standard card content within a dropdown menu.</p><p>Cards can showcase featured content, promotions, or important information in a visually appealing format when customers interact with your navigation.</p>                       |                                                                                                          |
+| Columns     | <p>Increases the length and spans the full width of the page.</p><p>Adding a Columns block is useful when you want to organize dropdown content into multiple sections or when you need to extend your menu without adding specific content.</p> |                                                                                                          |
+| Products    | <p>Allows products to be displayed directly within dropdown menus.</p><p>This creates a visual shopping experience where customers can browse products without leaving the navigation area.</p>                                                  |                                                                                                          |
+| Collections | <p>Showcases collection items within dropdown menus.</p><p>Use this to help customers quickly discover and navigate to specific product categories or themed collections in your store.</p>                                                      |                                                                                                          |
