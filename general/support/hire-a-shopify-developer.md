@@ -16,7 +16,7 @@ Our team is available to build customizations and extend your Shopify theme with
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><strong>Theme customizations</strong></p><ul><li>Starting at $4900 USD</li></ul><ul><li>Build customizations on top of your existing Shopify theme.</li></ul></td><td><a href="https://brickspacelab.com/pages/theme-customization">https://brickspacelab.com/pages/theme-customization</a></td></tr><tr><td><p><strong>Theme setup</strong></p><ul><li>Starting at $3900 USD</li></ul><ul><li>Get your new Shopify theme setup by trusted experts.</li></ul></td><td><a href="../">..</a></td></tr></tbody></table>
 
 {% tabs %}
-{% tab title="Tab 2" %}
+{% tab title="Theme customization details" %}
 
 {% endtab %}
 
