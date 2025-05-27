@@ -15,7 +15,54 @@ Our team is available to build customizations and extend your Shopify theme with
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><strong>Theme customizations</strong></p><ul><li>Starting at $4900 USD</li></ul><ul><li>Build customizations on top of your existing Shopify theme.</li></ul></td><td><a href="https://brickspacelab.com/pages/theme-customization">https://brickspacelab.com/pages/theme-customization</a></td></tr><tr><td><p><strong>Theme setup</strong></p><ul><li>Starting at $3900 USD</li></ul><ul><li>Get your new Shopify theme setup by trusted experts.</li></ul></td><td><a href="../">..</a></td></tr></tbody></table>
 
+{% tabs %}
+{% tab title="Tab 2" %}
 
+{% endtab %}
+
+{% tab title="Theme setup details" %}
+## **Launch your new Shopify theme in a snap**
+
+✓ Get your Shopify theme setup by the same team that design and built your theme
+
+✓ Expertly crafted online store taking full advantage of built-in theme features
+
+✓ Designed optimized for conversion rate, AOV and a simple shopping UX
+
+**Description** • Setup up standard theme templates including the homepage, collection, collection list, product, and cart templates • Use design best-practices and leading [UX research](https://web.archive.org/web/20231203042453/https://baymard.com/) to create a conversion focused storefront. • Up to 2 custom templates such as an about, contact or FAQ page.   Setup would not include • Shipping, payment, taxes or other settings outside the theme editor • Uploading content, writing content, designing brand   Eligibility requirements • Collaborator access to your Shopify store - we'll send this request to you to approve • Products uploaded with all content (images, descriptions, etc) • Additional photography, text and list of pages needed
+
+**What's included** ⟶ Theme duplicate installed and setup for your brand ⟶ Homepage, navigation, collection, product, cart and contact us templates setup
+
+**Benefits** ⟶ Optimized theme to grow your business ⟶ Backed by industry-leading [UX research](https://web.archive.org/web/20231203042453/https://baymard.com/)
+
+* • Setup up standard theme templates including the homepage, collection, collection list, product, and cart templates
+* • Use design best-practices and leading [UX research](https://web.archive.org/web/20231203042453/https://baymard.com/) to create a conversion focused storefront.
+* • Up to 2 custom templates such as an about, contact or FAQ page.
+* • Shipping, payment, taxes or other settings outside the theme editor
+* • Uploading content, writing content, designing brand
+* • Collaborator access to your Shopify store - we'll send this request to you to approve
+* • Products uploaded with all content (images, descriptions, etc)
+* • Additional photography, text and list of pages needed
+
+**FAQ**
+
+**What is a Shopify theme setup?**
+
+Our Shopify theme setup is a premium service we offer. Our team will go in and setup your theme using best practices to bring your brand to life.
+
+**Can't I just do this myself?**
+
+Answer to help your customers feel more comfortable completing their purchase.
+
+**What do you need from me?**
+
+Answer to help your customers feel more comfortable completing their purchase.
+
+**What themes do you offer setups for?**
+
+Answer to help your customers feel more comfortable completing their purchase.
+{% endtab %}
+{% endtabs %}
 
 ### Our development partners <a href="#h_a3f4ea6baf" id="h_a3f4ea6baf"></a>
 
