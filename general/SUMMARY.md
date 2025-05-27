@@ -37,10 +37,6 @@
 * [Store access request](support/store-access-request.md)
 * [Hire a Shopify developer](support/hire-a-shopify-developer.md)
 
-***
-
-* [Page](page.md)
-
 ## Partners
 
 * [Theme affiliate program](partners/theme-affiliate-program.md)
