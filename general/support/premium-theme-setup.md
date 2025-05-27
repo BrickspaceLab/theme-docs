@@ -30,9 +30,7 @@
 * Products uploaded with all content (images, descriptions, etc)
 * Additional photography, text and list of pages needed
 
-
-
-&#x20;**Setup would not include**
+### **Setup would not include**
 
 • Shipping, payment, taxes or other settings outside the theme editor&#x20;
 
@@ -44,7 +42,7 @@
 
 
 
-**FAQ**
+### **FAQ**
 
 **What is a Shopify theme setup?**\
 Our Shopify theme setup is a premium service we offer. Our team will go in and set up your theme using best practices to bring your brand to life.
