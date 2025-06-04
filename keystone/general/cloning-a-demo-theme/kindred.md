@@ -221,50 +221,71 @@ Copy the below files and replace your existing file.
 <summary>sections/overlay-group.json</summary>
 
 ```json
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "type": "overlay",
+  "type": "custom.overlay",
   "name": "Overlay group",
   "sections": {
-    "theme_menu": {
-      "type": "theme__menu",
-      "custom_css": [],
+    "theme_tooltip": {
+      "type": "theme__tooltip",
+      "blocks": {
+        "71c48f59-2e6d-4190-8942-3924132a07ee": {
+          "type": "newsletter",
+          "settings": {
+            "content": "<p>Tell customers why they should subscribe to your newsletter.<\/p>",
+            "button_label": "Subscribe",
+            "disclaimer": "",
+            "success": "<p>Success! You’ve been subscribed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "71c48f59-2e6d-4190-8942-3924132a07ee"
+      ],
+      "disabled": true,
       "settings": {
-        "menu_links": "main-menu",
-        "menu_color_scheme": "color__bg-body color__text",
-        "menu_color_border": "color__border-divider-1",
-        "menu_enable_fullscreen": true,
-        "menu_animation": "animate--slide",
-        "menu_layout_y_alignment": "justify-start",
-        "menu_layout_x_alignment": "justify-between",
-        "menu_link_capitilization": "",
-        "menu_link_font": "type__body",
+        "button_label": "Sign up",
+        "button_icon": "",
+        "color_button": "btn btn--secondary",
+        "placement": "bottom-0 right-0",
         "visibility": ""
       }
     },
-    "theme_cart": {
-      "type": "theme__cart",
+    "theme_scrollup": {
+      "type": "theme__scroll-up",
+      "disabled": true,
       "settings": {
-        "color_scheme": "color__bg-body color__text",
-        "color_border": "color__border-divider-1",
-        "title": "Your Cart",
-        "button_label_empty": "Start your order",
-        "button_label_checkout": "Checkout",
-        "show_subtitle": true,
-        "show_terms": true,
-        "show_notes": true,
-        "show_estimator": true,
-        "subtotal_color_scheme": "color__bg-shade-1 color__text",
-        "button_checkout_color_scheme": "btn--small btn--primary w-full",
-        "button_empty_color_scheme": "btn--small btn--secondary w-full",
-        "visibility": ""
+        "scroll_up_style": "text",
+        "button_color": "btn btn--plain",
+        "visibility": "hidden md:block"
+      }
+    },
+    "theme_age-verification": {
+      "type": "theme__age-verification",
+      "disabled": true,
+      "settings": {
+        "age_verification_style": "full_date",
+        "age_limit": 1,
+        "heading": "Verify your age",
+        "content": "<p>Please confirm that you are over the age of 18 to proceed.<\/p>"
       }
     }
   },
   "order": [
-    "theme_menu",
-    "theme_cart"
+    "theme_tooltip",
+    "theme_scrollup",
+    "theme_age-verification"
   ]
 }
+
 ```
 
 </details>
