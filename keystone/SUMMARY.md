@@ -27,13 +27,10 @@
 * [Color and option swatches](guides/color-and-option-swatches.md)
 * [Device specific visibility](guides/device-specific-visibility.md)
 * [Discount popups](guides/discount-popups.md)
-
-## Templates
-
-* [Collection template](templates/collection-template.md)
-* [Product template](templates/product-template.md)
-* [Blog template](templates/blog-template.md)
-* [Article template](templates/article-template.md)
+* [Collection template](guides/collection-template.md)
+* [Product template](guides/product-template.md)
+* [Blog template](guides/blog-template.md)
+* [Article template](guides/article-template.md)
 
 ## Sections
 
