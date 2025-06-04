@@ -32,7 +32,7 @@
   * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
   * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
   * [Designing your menu](sitewide/designing-your-menu.md)
-* [Migrating custom changes](migrating-custom-changes.md)
+  * [Migrating custom changes](sitewide/migrating-custom-changes.md)
 
 ## Templates
 
