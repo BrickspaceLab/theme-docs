@@ -792,116 +792,181 @@ Copy the below files and replace your existing file.
 <summary>templates/article.json</summary>
 
 ```json
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "1638993982c4b842f5": {
+    "article_banner_48nKa3": {
       "type": "article__banner",
       "settings": {
-        "spacing_top": 100,
-        "spacing_bottom": 50,
-        "layout_image_height": 480,
+        "layout_y_spacing": "min-h-[100px] md:min-h-[150px]",
         "color_scheme": "color__bg-body color__text",
+        "color_text": "color__text",
         "color_border": "color__border-divider-1",
+        "enable_gradient": false,
+        "enable_background_overlay": false,
         "style_border": "",
-        "color_button": "btn",
+        "layout_y_alignment": "items-end",
+        "layout_x_alignment": "justify-start",
         "enable_margin": true,
-        "visibility": ""
+        "enable_max_width": true,
+        "visibility": "",
+        "enable_author": true,
+        "enable_date": true,
+        "enable_tags": false,
+        "enable_image": false
       }
     },
-    "1638994039e866359e": {
-      "type": "article__main",
+    "content_grid_qxE9Ym": {
+      "type": "content-grid",
       "blocks": {
-        "16389940393df01a3b-0": {
-          "type": "featured_image",
-          "settings": {
-            "spacing_top": 0,
-            "spacing_bottom": 10,
-            "color_scheme": "color__bg-body color__text",
-            "color_border": "color__border-divider-1",
-            "style_border": "",
-            "enable_margin": false,
-            "image_aspect_ratio": "aspect-[16/9]",
-            "image_object_fit": "cover",
-            "enable_image_caption": true
-          }
-        },
-        "16389940393df01a3b-1": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": true,
-            "blog_show_author": true,
-            "spacing_top": 30,
-            "spacing_bottom": 20,
-            "color_scheme": "color__bg-body color__text",
-            "color_border": "color__border-divider-1",
-            "style_border": "",
-            "enable_margin": false
-          }
-        },
-        "16389940393df01a3b-2": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share",
-            "spacing_top": 20,
-            "spacing_bottom": 20,
-            "color_scheme": "color__bg-body color__text",
-            "color_border": "color__border-divider-1",
-            "style_border": "",
-            "layout_x_alignment": "",
-            "enable_margin": false,
-            "share_facebook": true,
-            "share_twitter": true,
-            "share_pinterest": true
-          }
-        },
-        "16389940393df01a3b-3": {
+        "content_nVDTGP": {
           "type": "content",
           "settings": {
-            "spacing_top": 0,
-            "spacing_bottom": 20,
-            "color_scheme": "color__bg-body color__text",
-            "color_border": "color__border-divider-1",
-            "style_border": "",
-            "enable_margin": false
-          }
-        },
-        "next-previous": {
-          "type": "next-previous",
-          "settings": {
-            "spacing_top": 20,
-            "spacing_bottom": 20,
-            "color_scheme": "color__bg-body color__text",
-            "color_border": "color__border-divider-1",
-            "style_border": "",
-            "enable_margin": false
+            "heading": "",
+            "content": "<p></p><p>{{ article.title }}</p>",
+            "button_label": "",
+            "url": "",
+            "image_background": "{{ article.image }}",
+            "enable_autoplay": true,
+            "enable_mute_toggle": true,
+            "enable_loop": true,
+            "spacing_minimum_height": 500,
+            "enable_padding": true,
+            "color_scheme": "color__bg-overlay-1 color__text",
+            "color_border": "",
+            "color_button": "btn--small btn--outline",
+            "enable_gradient": true,
+            "layout_y_alignment": "justify-end",
+            "layout_x_alignment": "left",
+            "text_position": "below",
+            "layout_row_span": "row-span-1",
+            "layout_col_span": "col-span-1 md:col-span-1"
           }
         }
       },
       "block_order": [
-        "16389940393df01a3b-0",
-        "16389940393df01a3b-1",
-        "16389940393df01a3b-2",
-        "16389940393df01a3b-3",
-        "next-previous"
+        "content_nVDTGP"
+      ],
+      "settings": {
+        "heading": "",
+        "content": "",
+        "button_label": "",
+        "button_url": "",
+        "spacing_top": 0,
+        "spacing_bottom": 0,
+        "color_scheme": "color__bg-body",
+        "color_border": "color__border-divider-1",
+        "color_button": "btn btn--secondary",
+        "style_border": "",
+        "layout_row_desktop": 1,
+        "layout_row_mobile": 1,
+        "layout_x_alignment": "justify-between",
+        "enable_margin": true,
+        "enable_split": false,
+        "visibility": ""
+      }
+    },
+    "main": {
+      "type": "article__main",
+      "blocks": {
+        "6d44e560-358d-4232-8708-502806610136": {
+          "type": "breadcrumb",
+          "settings": {
+            "spacing_top": 50,
+            "spacing_bottom": 10,
+            "color_border": "color__border-divider-1",
+            "style_border": "",
+            "layout_x_alignment": "text-left"
+          }
+        },
+        "table_pj9eVt": {
+          "type": "table",
+          "settings": {
+            "spacing_top": 50,
+            "spacing_bottom": 10,
+            "color_border": "color__border-divider-1",
+            "style_border": "",
+            "position": "right"
+          }
+        },
+        "f7c49961-aaf7-41df-8711-43d3d5753948": {
+          "type": "article",
+          "settings": {
+            "spacing_top": 20,
+            "spacing_bottom": 50,
+            "color_border": "color__border-divider-1",
+            "style_border": "",
+            "layout_x_alignment": "justify-start"
+          }
+        },
+        "797ba560-2717-42ee-a1dc-547f7f40f214": {
+          "type": "share",
+          "settings": {
+            "spacing_top": 0,
+            "spacing_bottom": 50,
+            "color_border": "color__border-divider-1",
+            "style_border": "border--b-width",
+            "layout_x_alignment": "justify-start",
+            "position": "left"
+          }
+        },
+        "f5ee0741-2dcf-40c5-8755-319620ca5fa2": {
+          "type": "comment",
+          "settings": {
+            "spacing_top": 50,
+            "spacing_bottom": 50,
+            "color_border": "color__border-divider-1",
+            "style_border": "border--b-width",
+            "layout_x_alignment": "justify-start",
+            "position": "left"
+          }
+        },
+        "recent_articles_GWGD9F": {
+          "type": "recent_articles",
+          "settings": {
+            "articles_count": 2,
+            "spacing_top": 50,
+            "spacing_bottom": 50,
+            "layout_row_desktop": 2,
+            "layout_row_mobile": 1,
+            "position": "left"
+          }
+        }
+      },
+      "block_order": [
+        "6d44e560-358d-4232-8708-502806610136",
+        "table_pj9eVt",
+        "f7c49961-aaf7-41df-8711-43d3d5753948",
+        "797ba560-2717-42ee-a1dc-547f7f40f214",
+        "f5ee0741-2dcf-40c5-8755-319620ca5fa2",
+        "recent_articles_GWGD9F"
       ],
       "settings": {
         "spacing_top": 0,
-        "spacing_bottom": 100,
+        "spacing_bottom": 0,
         "color_scheme": "color__bg-body color__text",
         "color_border": "color__border-divider-1",
         "style_border": "",
-        "layout_width": 10,
         "enable_margin": true,
-        "enable_split": false,
         "visibility": ""
       }
     }
   },
   "order": [
-    "1638993982c4b842f5",
-    "1638994039e866359e"
+    "article_banner_48nKa3",
+    "content_grid_qxE9Ym",
+    "main"
   ]
 }
+
 ```
 
 </details>
