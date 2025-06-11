@@ -4,11 +4,10 @@
 
 ## Getting started
 
-* [Selecting theme colors](getting-started/selecting-theme-colors.md)
-
-***
-
-* [Theme typography](theme-typography.md)
+* [Theme basics](getting-started/theme-basics.md)
+* [Theme settings](getting-started/theme-settings/README.md)
+  * [Theme typography](getting-started/theme-settings/theme-typography.md)
+  * [Selecting theme colors](getting-started/theme-settings/selecting-theme-colors.md)
 
 ## Guides
 
