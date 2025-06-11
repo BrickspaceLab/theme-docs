@@ -25,6 +25,7 @@
   * [Dynamic discount popups](guides/sitewide/dynamic-discount-popups.md)
   * [Blog template](guides/sitewide/blog-template.md)
   * [Article template](guides/sitewide/article-template.md)
+  * [Search results](guides/sitewide/search-results.md)
 
 ## Sections
 
