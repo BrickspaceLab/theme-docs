@@ -46,6 +46,7 @@
   * [Designing your menu](sitewide/designing-your-menu.md)
   * [Migrating custom changes](sitewide/migrating-custom-changes.md)
   * [Blog template](sitewide/blog-template.md)
+  * [Search results](sitewide/search-results.md)
 
 ## Sections
 
