@@ -4,7 +4,7 @@ Each collection can be set up with nested navigation. This is useful if you have
 
 In this example clicking "Elastic" would navigate to a new page loading the "Elastic" collection page.
 
-<figure><img src="../../.gitbook/assets/right.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/right.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

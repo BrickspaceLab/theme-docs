@@ -21,39 +21,31 @@
   * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
   * [Option blocks](guides/products/option-blocks.md)
+  * [Dynamic variant images](guides/products/dynamic-variant-images.md)
+  * [Variant filtering](guides/products/variant-filtering.md)
+  * [Disabling Quick add](guides/products/disabling-quick-add.md)
+  * [Customizing Filters](guides/products/customizing-filters.md)
+  * [Gift cards](guides/products/gift-cards.md)
+  * [Quantity picker](guides/products/quantity-picker.md)
+  * [Subscription options](guides/products/subscription-options.md)
+  * [Sibling products](guides/products/sibling-products.md)
+  * [Bundled products](guides/products/bundled-products.md)
+  * [Custom fields](guides/products/custom-fields.md)
+  * [Content drawers](guides/products/content-drawers.md)
 
 ***
 
 * [Collections](collections/README.md)
-  * [Variant filtering](collections/variant-filtering.md)
-  * [Disabling Quick add](collections/disabling-quick-add.md)
+  * [Adding Tag Filtering](collections/adding-tag-filtering.md)
+  * [Adding Nested Menu](collections/adding-nested-menu.md)
+  * [Collection Blocks](collections/collection-blocks.md)
 * [Sitewide](sitewide/README.md)
   * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
   * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
   * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
   * [Designing your menu](sitewide/designing-your-menu.md)
   * [Migrating custom changes](sitewide/migrating-custom-changes.md)
-
-## Templates
-
-* [Collection template](templates/collection-template.md)
-  * [Customizing Filters](templates/collection-template/customizing-filters.md)
-  * [Adding Tag Filtering](templates/collection-template/adding-tag-filtering.md)
-  * [Adding Nested Menu](templates/collection-template/adding-nested-menu.md)
-  * [Collection Blocks](templates/collection-template/collection-blocks.md)
-
-***
-
-* [Product template](product-template/README.md)
-  * [Dynamic variant images](product-template/dynamic-variant-images.md)
-  * [Gift cards](product-template/gift-cards.md)
-  * [Quantity picker](product-template/quantity-picker.md)
-  * [Subscription options](product-template/subscription-options.md)
-  * [Sibling products](product-template/sibling-products.md)
-  * [Bundled products](product-template/bundled-products.md)
-  * [Custom fields](product-template/custom-fields.md)
-  * [Content drawers](product-template/content-drawers.md)
-* [Blog template](blog-template.md)
+  * [Blog template](sitewide/blog-template.md)
 
 ## Sections
 
