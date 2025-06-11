@@ -30,6 +30,7 @@
   * [Discount popups](guides/sitewide/discount-popups.md)
   * [Article template](guides/sitewide/article-template.md)
   * [Blog template](guides/sitewide/blog-template.md)
+  * [Search results](guides/sitewide/search-results.md)
 * [Wholesale](guides/wholesale/README.md)
   * [Wholesale basics](guides/wholesale/wholesale-basics.md)
   * [Account restrictions](guides/wholesale/account-restrictions.md)
