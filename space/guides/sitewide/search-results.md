@@ -1,7 +1,5 @@
 # Search results
 
-## Search results
-
 {% hint style="info" %}
 **Language Support**
 
