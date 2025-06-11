@@ -22,7 +22,3 @@ Copy the below files and replace your existing file.
 
 
 
-{% content-ref url="shimmer.md" %}
-[shimmer.md](shimmer.md)
-{% endcontent-ref %}
-
