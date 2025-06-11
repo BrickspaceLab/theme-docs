@@ -4,7 +4,7 @@ Using Paper you can update collection template to use tag based filtering. This 
 
 In this example clicking "Wallets" would filter the current collection to only show products that contain the tag "wallets".
 
-<figure><img src="../../.gitbook/assets/tag filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tag filter.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

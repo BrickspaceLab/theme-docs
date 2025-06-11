@@ -39,7 +39,7 @@ Shopify has recently made a number of improvements to metafields and how they wo
 
 
 
-    <figure><img src="../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -58,7 +58,7 @@ We now have to assign values so data is populated for our new metafields.
 8. Assign values to each product
 9. Hit **Save**
 
-<figure><img src="../.gitbook/assets/meta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/meta.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -140,4 +140,4 @@ Swatches will only appear automatically if the color name matches a default [CSS
 2. Upload a 64x64 jpg file for each swatch you want to replace.
    * Swatches must be named all lowercase and prepended with “swatch-”. For example, if your color variant is “Electric blue” you would name your file “swatch-electric-blue.jpg
 
-<figure><img src="../.gitbook/assets/swatches filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/swatches filter.png" alt=""><figcaption></figcaption></figure>
