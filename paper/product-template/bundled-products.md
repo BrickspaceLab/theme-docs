@@ -8,34 +8,37 @@ The bundle product template can be used to sell multiple products from a single 
 {% step %}
 **Create metafield definition**
 
-1. Navigate to Settings > Custom data > Products.
-2. Click Add definition.
+1. Navigate to **Settings** > **Custom** **data** > **Products**
+2. Click **Add definition**
 3. In the name field type “Product bundle”
 4. Ensure the namespace and key field is `custom.product_bundle`
-5. Set the data type as "Product" then select List of products
+5. Set the data type as "Product" then select **List** **of** **products**
+6. Hit **Save**
 {% endstep %}
 
 {% step %}
 **Create a bundle template**
 
-1. In the Shopify theme editor select from the top dropdown "Products".
-2. Click Add template.
-3. Enter a name.
+1. In the Shopify theme editor select from the top dropdown **Products**
+2. Click **Add template**
+3. Enter a name
    1. This can be anything. E.g. "Bundle"
-4. Click "Add block" inside the product section.
-5. Add "Bundled products" block.
-6. Make any other changes to your new template as needed.
+4. On the left hand side, look for **Product**
+5. Under **Product**, click **Add block**
+6. Choose **Bundled products**
+7. Hit **Save**
 {% endstep %}
 
 {% step %}
 **Create a bundle product**
 
-1. Create a new product on Shopify.
-2. Add images as needed - you'll likely want to include photos showcasing all the items in your bundle. Even better if you can get photos of all the products together to really highlight the "bundle" part.
-3. Set a price for the product - this should be the sum of all the items in the bundle.
-4. Uncheck Track quantity. This product won't actually be purchased itself instead it will act as a landing page where the products within the bundle are purchased.
-5. Scroll down to Metafields then click Product bundle.
-6. Click Select products and add as many products as you'd like to include in this bundle.
-7. On the right-hand side under Theme template select bundle (or a different template that you've created using the "Bundled products" block).
+1. Create a new product on Shopify
+2. Add images as needed - you'll likely want to include photos showcasing all the items in your bundle. Even better if you can get photos of all the products together to really highlight the "bundle" part
+3. Set a price for the product - this should be the sum of all the items in the bundle
+4. **Uncheck Track quantity**. This product won't actually be purchased itself instead it will act as a landing page where the products within the bundle are purchased
+5. Scroll down to **Metafields** then click **Product bundle**
+6. Click **Select products** and add as many products as you'd like to include in this bundle
+7. On the right-hand side under **Theme template** select **bundle** (or a different template that you've created using the "Bundled products" block)
+8. Hit **Save**
 {% endstep %}
 {% endstepper %}

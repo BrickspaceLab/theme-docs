@@ -20,28 +20,30 @@ If you have multiple versions of one product split into different product listin
 {% step %}
 **Enable the product block**
 
-1. Open the theme editor by clicking Customize next to the relevant theme.
+1. Go ton Online Store > Themes > Customize
 2. Navigate to the product template then click "Add block" within the "Product" section
 3. Move the block and add a label
    1. It's usually best to display the "Linked products" block above the "Buy buttons"
    2. Try adding a label that describes the additional linked products. If the additional products are variants of different color you could update the label to "Color".
+4. Hit **Save**
 {% endstep %}
 
 {% step %}
 **Create metafield definition**
 
-1. Navigate to Settings > Custom data > Products.
-2. Click Add definition.
-3. In the name field type “Linked collection”.
-4. Ensure the namespace and key field is `custom.linked_collection`.
-5. Set the data type as "Collection".
+1. Navigate to **Settings** > **Custom** **data** > **Products**
+2. Click **Add definition**
+3. In the name field type “Linked collection"
+4. Ensure the namespace and key field is `custom.linked_collection`
+5. Set the data type as "Collection"
+6. Hit **Save**
 {% endstep %}
 
 {% step %}
 **Update metafield**
 
-1. Navigate to the product you’d like to update.
-2. Scroll to the bottom and select a collection for the metafield.
-3. Click Save.
+1. Navigate to the product you’d like to update
+2. Scroll to the bottom and select a collection for the metafield
+3. Click **Save**
 {% endstep %}
 {% endstepper %}

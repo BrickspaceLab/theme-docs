@@ -4,6 +4,27 @@ Quick add allows customers to add products to their cart directly from product c
 
 
 
+### FAQs
+
+<details>
+
+<summary>Where can I adjust my quick add settings?</summary>
+
+1. **Navigate to Theme settings > Quick Add** - Open your theme by clicking **Customize**
+2. Click the **gear icon** (⚙️) in the top-left corner to open **Theme Settings**
+3. Scroll down and select **Quick Add**
+4. Modify your quick add settings (button style, position, behavior, etc.) as needed
+5. Click **Save** to apply your changes
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+
+
 ### Quick add settings
 
-<table><thead><tr><th>Setting</th><th>Description</th><th valign="top">Options</th></tr></thead><tbody><tr><td>Enable quick add on mobile</td><td>Controls whether the quick add feature is available on mobile devices. When enabled, mobile users can quickly add products to their cart from product listings without visiting the product page.</td><td valign="top"></td></tr><tr><td>Enable quick add on desktop</td><td>Controls whether the quick add feature is available on desktop devices. When enabled, desktop users can quickly add products to their cart from product listings without visiting the product page.</td><td valign="top"></td></tr></tbody></table>
+| Setting                     | Description                                                                                                                                                                                         |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Enable quick add on mobile  | Controls whether the quick add feature is available on mobile devices. When enabled, mobile users can quickly add products to their cart from product listings without visiting the product page.   |
+| Enable quick add on desktop | Controls whether the quick add feature is available on desktop devices. When enabled, desktop users can quickly add products to their cart from product listings without visiting the product page. |

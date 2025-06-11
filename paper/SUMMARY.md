@@ -14,26 +14,33 @@
 ## Guides
 
 * [Products](guides/products/README.md)
-  * [Product subtitles](guides/products/product-subtitles.md)
   * [Product badges](guides/products/product-badges.md)
-  * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
-  * [Disabling "quick-add" for a product](guides/products/disabling-quick-add-for-a-product.md)
+  * [Product subtitles](guides/products/product-subtitles.md)
+  * [Variant swatches](guides/products/variant-swatches.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
-  * [Color and option swatches](guides/products/color-and-option-swatches.md)
+  * [Disabling default ratings when using a third party app](guides/products/disabling-default-ratings-when-using-a-third-party-app.md)
+  * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
+  * [Option blocks](guides/products/option-blocks.md)
 
 ***
 
+* [Collections](collections/README.md)
+  * [Variant filtering](collections/variant-filtering.md)
+  * [Disabling Quick add](collections/disabling-quick-add.md)
 * [Sitewide](sitewide/README.md)
   * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
   * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
-  * [Disabling default ratings when using a third party app](sitewide/disabling-default-ratings-when-using-a-third-party-app.md)
-  * [Different ways to display option blocks](sitewide/different-ways-to-display-option-blocks.md)
   * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
-* [Migrating custom changes](migrating-custom-changes.md)
+  * [Designing your menu](sitewide/designing-your-menu.md)
+  * [Migrating custom changes](sitewide/migrating-custom-changes.md)
 
 ## Templates
 
 * [Collection template](templates/collection-template.md)
+  * [Customizing Filters](templates/collection-template/customizing-filters.md)
+  * [Adding Tag Filtering](templates/collection-template/adding-tag-filtering.md)
+  * [Adding Nested Menu](templates/collection-template/adding-nested-menu.md)
+  * [Collection Blocks](templates/collection-template/collection-blocks.md)
 
 ***
 
@@ -88,6 +95,7 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
+  * [v8.0.2](general/changelog/v8.0.2.md)
   * [v8.0.1](general/changelog/v8.0.1.md)
   * [v8.0.0](general/changelog/v8.0.0.md)
   * [v7.6.2](general/changelog/v7.6.2.md)
