@@ -92,6 +92,7 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
+  * [v8.0.3](general/changelog/v8.0.3.md)
   * [v8.0.2](general/changelog/v8.0.2.md)
   * [v8.0.1](general/changelog/v8.0.1.md)
   * [v8.0.0](general/changelog/v8.0.0.md)
