@@ -88,9 +88,10 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
-  * [v1.3.2](general/changelog/v1.3.0.md)
-  * [v1.3.1](general/changelog/v1.3.0-1.md)
-  * [v1.3.0](general/changelog/v1.3.0-2.md)
+  * [v1.4.0](general/changelog/v1.3.0.md)
+  * [v1.3.2](general/changelog/v1.3.0-1.md)
+  * [v1.3.1](general/changelog/v1.3.0-2.md)
+  * [v1.3.0](general/changelog/v1.3.0-3.md)
   * [v1.2.0](general/changelog/v1.2.0.md)
   * [v1.1.0](general/changelog/v1.1.0.md)
   * [v1.0.1](general/changelog/v1.0.1.md)
