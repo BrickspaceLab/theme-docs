@@ -121,6 +121,16 @@ The Content drawer block allows you to display a link that opens a slide-out dra
    * Select a page that uses plain text. If you select a page that has custom sections it may not work within the slide-out drawer.
 6. Click Save in the top right
 
+
+
+#### Clean Size Charts
+
+If you're looking for a more features to showcase size charts on your product page we recommend [Clean Size Charts](https://apps.shopify.com/size-charts-by-clean-canvas).&#x20;
+
+A powerful tool for creating clean, customizable size charts that look great on any product page. Clean Size Charts automates the setup process by generating measurement guides and size conversions, and it also supports more advanced setups like country-specific charts and multiple size systems—perfect for growing or international stores.
+
+
+
 ## Using the custom field product block <a href="#h_8ff467d33f" id="h_8ff467d33f"></a>
 
 ***
