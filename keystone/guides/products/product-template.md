@@ -122,6 +122,14 @@ The Content Drawer block displays a link that opens a slide-out drawer for addit
 5. Add a title and select a page with plain text content.
 6. Click Save.
 
+
+
+#### Clean Size Charts
+
+If you're looking for a more features to showcase size charts on your product page we recommend [Clean Size Charts](https://apps.shopify.com/size-charts-by-clean-canvas).&#x20;
+
+A powerful tool for creating clean, customizable size charts that look great on any product page. Clean Size Charts automates the setup process by generating measurement guides and size conversions, and it also supports more advanced setups like country-specific charts and multiple size systems—perfect for growing or international stores.
+
 ***
 
 ### Using the Custom Field Product Block <a href="#h_c945d0359a" id="h_c945d0359a"></a>
