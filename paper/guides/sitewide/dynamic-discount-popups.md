@@ -4,11 +4,7 @@ If you're already using automatic discounts. This is a neat little feature to en
 
 This will display a popup with your discount and the "Custom text" message
 
-
-
-<figure><img src="../.gitbook/assets/dissy.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/dissy.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

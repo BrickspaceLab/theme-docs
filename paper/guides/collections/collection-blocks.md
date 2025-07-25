@@ -2,7 +2,7 @@
 
 The collection template can include optional blocks. These blocks are displayed in-grid alongside your products. This can be used to display a text block or a newsletter. Both of which are great for highlighting ongoing promotions
 
-<figure><img src="../.gitbook/assets/highlights.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/highlights.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

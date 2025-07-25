@@ -4,7 +4,7 @@
 
 Using Paper you can update blog template to use tag based filtering. This is an easy way to surface sub-categories within a blog. For example, you may can show filters to view blogs posts with specific tags
 
-<figure><img src="../.gitbook/assets/blog.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/blog.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
