@@ -22,6 +22,7 @@
   * [Replace "Add to cart"](guides/products/replace-add-to-cart.md)
   * [Disable quick add](guides/products/disable-quick-add.md)
   * [Product template](guides/products/product-template.md)
+  * [Hide out of stock variants](guides/products/hide-out-of-stock-variants.md)
 * [Collections](guides/collections/README.md)
   * [Collection template](guides/collections/collection-template.md)
 * [Sitewide](guides/sitewide/README.md)
