@@ -12,10 +12,10 @@
 ## Guides
 
 * [Products](guides/products/README.md)
-  * [Adding product subtitles](guides/products/adding-product-subtitles.md)
-  * [Adding product badges](guides/products/adding-product-badges.md)
-  * [Replacing "Add to cart" for a product](guides/products/replacing-add-to-cart-for-a-product.md)
-  * [Disable "quick add" for a product](guides/products/disable-quick-add-for-a-product.md)
+  * [Product subtitles](guides/products/adding-product-subtitles.md)
+  * [Product badges](guides/products/adding-product-badges.md)
+  * [Replacing "Add to cart"](guides/products/replacing-add-to-cart-for-a-product.md)
+  * [Disable "quick add"](guides/products/disable-quick-add-for-a-product.md)
   * [Product template](guides/products/product-template.md)
 * [Collections](guides/collections/README.md)
   * [Collection template](guides/collections/collection-template.md)
