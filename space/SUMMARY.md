@@ -17,6 +17,7 @@
   * [Replacing "Add to cart"](guides/products/replacing-add-to-cart-for-a-product.md)
   * [Disable "quick add"](guides/products/disable-quick-add-for-a-product.md)
   * [Product template](guides/products/product-template.md)
+  * [Variant swatches](guides/products/variant-swatches.md)
 * [Collections](guides/collections/README.md)
   * [Collection template](guides/collections/collection-template.md)
 * [Sitewide](guides/sitewide/README.md)
