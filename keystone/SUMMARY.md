@@ -29,6 +29,7 @@
   * [Color and option swatches](guides/sitewide/color-and-option-swatches.md)
   * [Device specific visibility](guides/sitewide/device-specific-visibility.md)
   * [Discount popups](guides/sitewide/discount-popups.md)
+  * [Designing your menu](guides/sitewide/designing-your-menu.md)
   * [Article template](guides/sitewide/article-template.md)
   * [Blog template](guides/sitewide/blog-template.md)
   * [Search results](guides/sitewide/search-results.md)
