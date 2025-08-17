@@ -8,15 +8,15 @@ Go to **Online** **Store** > **Themes** > **Customize**
 {% endstep %}
 
 {% step %}
-From the dropdown in the top bar select **Products** > **Default** **Product**
+From the dropdown in the top bar select **Products** > **Default product**
 {% endstep %}
 
 {% step %}
-In the **Product** section click into the **Buy buttons** block
+In the **Product** section, click into the **Buy buttons** block
 {% endstep %}
 
 {% step %}
-Scroll down to and enable **Show quantity input**
+Scroll down and enable **Show quantity input**
 {% endstep %}
 
 {% step %}

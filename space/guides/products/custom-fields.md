@@ -12,19 +12,19 @@ Go to **Online** **Store** > **Themes** > **Customize**
 {% step %}
 From the dropdown in the top bar select Product
 
-You may want to create a new product template, if you want your custom field to show up on every product page then you can use the default product template. Otherwise you would want to create a new template.
+You may want to create a new product template. If you want your custom field to show up on every product page, use the default product template. Otherwise, create a new template.
 {% endstep %}
 
 {% step %}
-On the lefthand side click **Add** **block** then select **Custom** **field**
+On the left-hand side, click **Add block** then select **Custom field**
 {% endstep %}
 
 {% step %}
-Add a label and check Enable required field if you want to make this a mandatory field to use
+Add a label and check **Enable required field** if you want to make this a mandatory field
 {% endstep %}
 
 {% step %}
-Reposition the block - it’s best to place this just above the Buy buttons block
+Reposition the block. It’s best to place this just above the **Buy buttons** block
 {% endstep %}
 
 {% step %}

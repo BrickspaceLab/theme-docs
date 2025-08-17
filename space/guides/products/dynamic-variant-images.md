@@ -9,7 +9,7 @@ Enabling “Show selected variant images only” will update your product pages 
 1. Go to **Online Store** > **Themes** > **Customize**
 2. From the dropdown in the center of the top bar select **Products** > **Default product**
 3. In **Theme sections** select **Product main**
-4. Scroll down and toggle on **Show selected variant images onl**
+4. Scroll down and toggle on **Show selected variant images only**
 {% endstep %}
 
 {% step %}

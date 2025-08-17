@@ -1,7 +1,5 @@
 # Content drawers
 
-## Content drawers
-
 The Content drawer block allows you to display a link that opens a slide-out drawer. Use it to conveniently showcase product details such as sizing charts or ingredient lists.
 
 {% stepper %}

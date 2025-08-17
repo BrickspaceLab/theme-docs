@@ -1,6 +1,6 @@
 # Sibling products
 
-Paper supports two methods to display products as swatch options. This is helpful if you want to split one product into seperate listing but maintain visibility for each option. When this is setup customers will see sibling products as options so they can easily select different options or colors.
+Space supports two methods to display products as swatch options. This is helpful if you want to split one product into separate listings but maintain visibility for each option. When this is set up, customers will see sibling products as options so they can easily select different options or colors.
 
 #### Using the Combined listing app <a href="#h_2bcf225838" id="h_2bcf225838"></a>
 
@@ -16,7 +16,7 @@ If you have multiple versions of one product split into different product listin
 {% step %}
 **Enable the product block**
 
-1. Go ton Online Store > Themes > Customize
+1. Go to Online Store > Themes > Customize
 2. Navigate to the product template then click "Add block" within the "Product" section
 3. Move the block and add a label
    1. It's usually best to display the "Linked products" block above the "Buy buttons"
@@ -27,7 +27,7 @@ If you have multiple versions of one product split into different product listin
 {% step %}
 **Create metafield definition**
 
-1. Navigate to **Settings** > **Custom** **data** > **Products**
+1. Navigate to **Settings** > **Custom data** > **Products**
 2. Click **Add definition**
 3. In the name field type “Linked collection"
 4. Ensure the namespace and key field is `custom.linked_collection`
