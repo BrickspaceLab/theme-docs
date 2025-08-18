@@ -23,6 +23,12 @@
 ## Developer guides
 
 * [Advanced customizations](developer-guides/advanced-customizations.md)
+  * [Adding custom liquid](developer-guides/advanced-customizations/adding-custom-liquid.md)
+  * [Adding custom CSS](developer-guides/advanced-customizations/adding-custom-css.md)
+  * [Popular CSS customizations](developer-guides/advanced-customizations/popular-css-customizations.md)
+  * [Adding custom JavaScript](developer-guides/advanced-customizations/adding-custom-javascript.md)
+  * [Access theme functions and data](developer-guides/advanced-customizations/access-theme-functions-and-data.md)
+  * [Show variant metafields for selected variant](developer-guides/advanced-customizations/show-variant-metafields-for-selected-variant.md)
 
 ***
 

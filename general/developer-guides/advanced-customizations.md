@@ -65,161 +65,33 @@ For more advanced customizations we recommend using the a theme toolkit. Our too
 
 #### Adding custom liquid <a href="#h_f5e30552ba" id="h_f5e30552ba"></a>
 
-The Custom liquid section can be used to add any code snippet to a template. This is a great way to add app install scripts if an app requires manual installation. This is a great approach to take - your theme code remains un-edited and you still have access to easily update the theme.
-
-{% stepper %}
-{% step %}
-**Add Custom liquid section**
-
-* Click **Add section**.
-* Click **Custom liquid** to add the section.
-
-{% hint style="info" %}
-If you want to install a code snippet across your entire site then you can move your section to the Footer group.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-**Add your code**
-
-* Paste in your code.
-* Remove the section padding and borders.
-* This section renders liquid so if you plan to add JavaScript or CSS you'll need to include that within a `<script>` or a `style` tag.
-{% endstep %}
-
-{% step %}
-### Save your changes
-
-Click **Save**
-{% endstep %}
-{% endstepper %}
+See: `general/developer-guides/advanced-customizations/adding-custom-liquid.md`
 
 
 
 #### Adding custom CSS
 
-Custom CSS can be applied to your Shopify theme by using the built-in [custom CSS](https://help.shopify.com/en/manual/online-store/themes/theme-structure/extend/add-css) feature in your theme editor. For advanced users who have more experience with development, you can use our development toolkits. Using Custom CSS through the theme editor will maintain your themes original code - this means you'll still be able to update the theme easily.
+See: `general/developer-guides/advanced-customizations/adding-custom-css.md`
 
 
 
 #### Popular CSS customizations
 
-Custom CSS can be used in a variety of ways and is the perfect option for minor customizations. Here are a few guides for commonly requested customizations.
-
-<details>
-
-<summary>Change the background color for a section</summary>
-
-1. Navigate to the section you want to edit.
-2. In the settings panel scroll to the bottom and open **Custom CSS**.
-3. Alternatively, if you want to apply this change across your entire store front navigate to **Theme settings > Custom CSS**
-4. Paste the following code in the input field and update the color value to any hex color code.
-
-```css
-section { background-color: #000000; }
-```
-
-</details>
-
-<details>
-
-<summary>Change the color of section section headings</summary>
-
-1. Navigate to the section you want to edit.
-2. In the settings panel scroll to the bottom and open **Custom CSS**.
-3. Alternatively, if you want to apply this change across your entire store front navigate to **Theme settings > Custom CSS**
-4. Paste the following code in the input field and update the color value to any hex color code. E.g. `#000000` could be changed to `#ffffff`.
-
-```css
-h3 { color: #000000; }
-```
-
-</details>
-
-<details>
-
-<summary>Change the color of a button</summary>
-
-1. Navigate to the section you want to edit.
-
-1) In the settings panel scroll to the bottom and open **Custom CSS**.
-2) Alternatively, if you want to apply this change across your entire store front navigate to **Theme settings > Custom CSS**
-3) Paste the following code in the input field and update the color value to any hex color code.
-   * In the below example, `#000000` can be replaced to change the background of the button, `#ffffff` can be replaced to change the text color of the bottom
-
-```css
-.btn { background: #000000; border: #000000; color: #ffffff; }
-```
-
-</details>
-
-<details>
-
-<summary>Adjust the size of a button</summary>
-
-1. Navigate to the section you want to edit.
-
-1) In the settings panel scroll to the bottom and open **Custom CSS**.
-2) Alternatively, if you want to apply this change across your entire store front navigate to **Theme settings > Custom CSS**
-3) Paste in the following code. Adjust any of the values to change the button as needed
-
-```css
-.btn { font-size: 24px; padding: 10px 30px; }
-```
-
-</details>
+See: `general/developer-guides/advanced-customizations/popular-css-customizations.md`
 
 
 
 #### Adding custom JavaScript
 
-Since our themes are built using Alpine it's often best to consider adding functionality through Alpine first. We can use Alpine to add functionality by writing code directly inside the liquid markup.
-
-For more advanced customizations we recommend using our development toolkits.
+See: `general/developer-guides/advanced-customizations/adding-custom-javascript.md`
 
 
 
 #### **Access theme functions and data**
 
-If you are integrating your Shopify theme with a third-party app you may want to access some of the globally available functions. Since our themes utilize [Alpine.js](https://alpinejs.dev/) this is done a bit differently than normal.
-
-The first step is to access the app object. This object contains all the exposed functions and is stored in the \_x\_dataStack array of the html element. Here is how to access it:
-
-```javascript
-var app = document.querySelectorAll('html')[0]._x_dataStack[0];
-```
-
-From here you can call any of the functions available in the . For example if you want to call cart.updateCart() you could do the following.
-
-```javascript
-app.updateCart(true);
-```
+See: `general/developer-guides/advanced-customizations/access-theme-functions-and-data.md`
 
 #### Show variant metafields for selected variant
 
-Display variant-specific metafields when a shopper selects a variant on the product page. This uses Alpine's `x-show` to conditionally render content for the active variant and can be added via a `Custom liquid` section.
-
-{% hint style="info" %}
-Replace `custom.short_description` with your metafield namespace and key. Ensure the metafield exists on each variant you want to display.
-{% endhint %}
-
-1. In the theme editor, add a `Custom liquid` section to your product template.
-2. Paste the snippet below and adjust the markup/metafield as needed.
-3. Save and preview. Switch variants to see content update.
-
-```liquid
-{% for variant in product.variants %}
-  <div x-show="current_variant_id == {{ variant.id }}">
-    {{ variant.title }}
-    {% if variant.metafields.custom.short_description %}
-      – {{ variant.metafields.custom.short_description }}
-    {% endif %}
-  </div>
-{% endfor %}
-```
-
-Notes:
-
-- `current_variant_id` is managed by the theme's Alpine state and updates on selection.
-- Duplicate the inner block to output multiple metafields.
+See: `general/developer-guides/advanced-customizations/show-variant-metafields-for-selected-variant.md`
 
