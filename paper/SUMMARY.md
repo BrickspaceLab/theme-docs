@@ -32,30 +32,28 @@
   * [Bundled products](guides/products/bundled-products.md)
   * [Custom fields](guides/products/custom-fields.md)
   * [Content drawers](guides/products/content-drawers.md)
-
-***
-
-* [Collections](collections/README.md)
-  * [Adding Tag Filtering](collections/adding-tag-filtering.md)
-  * [Adding Nested Menu](collections/adding-nested-menu.md)
-  * [Collection Blocks](collections/collection-blocks.md)
-* [Sitewide](sitewide/README.md)
-  * [Using device specific visibility](sitewide/using-device-specific-visibility.md)
-  * [Dynamic discount popups](sitewide/dynamic-discount-popups.md)
-  * [Creating a Mapbox API key](sitewide/creating-a-mapbox-api-key.md)
-  * [Designing your menu](sitewide/designing-your-menu.md)
-  * [Migrating custom changes](sitewide/migrating-custom-changes.md)
-  * [Blog template](sitewide/blog-template.md)
-  * [Search results](sitewide/search-results.md)
+  * [Hide out of stock variants](guides/products/hide-out-of-stock-variants.md)
+* [Collections](guides/collections/README.md)
+  * [Adding Tag Filtering](guides/collections/adding-tag-filtering.md)
+  * [Adding Nested Menu](guides/collections/adding-nested-menu.md)
+  * [Collection Blocks](guides/collections/collection-blocks.md)
+* [Sitewide](guides/sitewide/README.md)
+  * [Using device specific visibility](guides/sitewide/using-device-specific-visibility.md)
+  * [Dynamic discount popups](guides/sitewide/dynamic-discount-popups.md)
+  * [Creating a Mapbox API key](guides/sitewide/creating-a-mapbox-api-key.md)
+  * [Designing your menu](guides/sitewide/designing-your-menu.md)
+  * [Migrating custom changes](guides/sitewide/migrating-custom-changes.md)
+  * [Blog template](guides/sitewide/blog-template.md)
+  * [Search results](guides/sitewide/search-results.md)
 
 ## Sections
 
 ***
 
-* [Sitewide](sitewide-1/README.md)
-  * [Header](sitewide-1/header.md)
-  * [Cart drawer](sitewide-1/cart-drawer.md)
-  * [Custom liquid](sitewide-1/custom-liquid.md)
+* [Sitewide](sitewide/README.md)
+  * [Header](sitewide/header.md)
+  * [Cart drawer](sitewide/cart-drawer.md)
+  * [Custom liquid](sitewide/custom-liquid.md)
 * [Navigation](navigation/README.md)
   * [Navigation slider](navigation/navigation-slider.md)
 * [Content and Media](content-and-media/README.md)
@@ -92,6 +90,8 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
+  * [v8.0.4](general/changelog/v8.0.4.md)
+  * [v8.0.3](general/changelog/v8.0.3.md)
   * [v8.0.2](general/changelog/v8.0.2.md)
   * [v8.0.1](general/changelog/v8.0.1.md)
   * [v8.0.0](general/changelog/v8.0.0.md)

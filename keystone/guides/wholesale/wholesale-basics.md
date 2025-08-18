@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Wholesale basics
 
 Keystone offers robust features for creating a wholesale or B2B storefront. These features allow you to restrict access to certain products, pages, and pricing information, ensuring an exclusive experience for approved customers.

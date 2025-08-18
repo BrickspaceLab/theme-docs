@@ -14,6 +14,10 @@ layout:
 
 # Space documentation
 
+{% embed url="https://www.youtube.com/watch?t=2s&v=bRRpwXN6Itc" %}
+
+
+
 ### Helpful links
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Getting started</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Guides</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Templates</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Sections</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Common issues</td><td><a href="general/known-issues-and-troubleshooting/">known-issues-and-troubleshooting</a></td></tr></tbody></table>
