@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,8 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
     visible: true
 ---
 
@@ -20,12 +23,10 @@ layout:
 If you are not comfortable making code changes, we highly recommend [hiring an expert developer](../support/hire-a-shopify-developer.md).
 {% endhint %}
 
-Our Shopify themes are built with developers in mind. We use a familiar tools so you can take any of our existing themes and customize them quickly.&#x20;
+Our Shopify themes are built with developers in mind. We use a familiar tools so you can take any of our existing themes and customize them quickly.
 
 * **Easily extendable**: We've built our themes with a modular approach, so it's super simple to extend and customize. We use Tailwind to give you an easy approach to styling, and Alpine to add interactivity without weighing you down.
 * **Meets all standards**: Our themes meets all the [requirements](https://shopify.dev/docs/themes/store/requirements) for the Shopify theme store.
-
-
 
 ### FAQs
 
@@ -33,7 +34,7 @@ Our Shopify themes are built with developers in mind. We use a familiar tools so
 
 <summary>When is the right time to make code customizations?</summary>
 
-If you've tried using all the built-in functionality and still find your theme is missing core functionality that you need then customizations are your best option. Making changes directly to your theme will give you full control to change things how you need.&#x20;
+If you've tried using all the built-in functionality and still find your theme is missing core functionality that you need then customizations are your best option. Making changes directly to your theme will give you full control to change things how you need.
 
 </details>
 
@@ -41,13 +42,9 @@ If you've tried using all the built-in functionality and still find your theme i
 
 <summary>Should I hire someone to make code customizations?</summary>
 
-Yes. If you aren't familiar with coding or have never built a Shopify theme then it's going to be a bit tricky. If you want to do code changes on your own - make sure you save a backup and consult your favourite ai assitant.&#x20;
+Yes. If you aren't familiar with coding or have never built a Shopify theme then it's going to be a bit tricky. If you want to do code changes on your own - make sure you save a backup and consult your favourite ai assitant.
 
 </details>
-
-
-
-
 
 ### Making code changes to your Shopify theme <a href="#h_36e940604c" id="h_36e940604c"></a>
 
@@ -61,37 +58,4 @@ For more advanced customizations we recommend using the a theme toolkit. Our too
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Paper toolkit</td><td><a href="https://github.com/BrickspaceLab/paper-toolkit">https://github.com/BrickspaceLab/paper-toolkit</a></td></tr><tr><td>Space toolkit</td><td><a href="https://github.com/BrickspaceLab/space-toolkit">https://github.com/BrickspaceLab/space-toolkit</a></td></tr><tr><td>Keystone toolkit</td><td><a href="https://github.com/BrickspaceLab/keystone-toolkit">https://github.com/BrickspaceLab/keystone-toolkit</a></td></tr></tbody></table>
 
-
-
-#### Adding custom liquid <a href="#h_f5e30552ba" id="h_f5e30552ba"></a>
-
-See: `general/developer-guides/advanced-customizations/adding-custom-liquid.md`
-
-
-
-#### Adding custom CSS
-
-See: `general/developer-guides/advanced-customizations/adding-custom-css.md`
-
-
-
-#### Popular CSS customizations
-
-See: `general/developer-guides/advanced-customizations/popular-css-customizations.md`
-
-
-
-#### Adding custom JavaScript
-
-See: `general/developer-guides/advanced-customizations/adding-custom-javascript.md`
-
-
-
-#### **Access theme functions and data**
-
-See: `general/developer-guides/advanced-customizations/access-theme-functions-and-data.md`
-
-#### Show variant metafields for selected variant
-
-See: `general/developer-guides/advanced-customizations/show-variant-metafields-for-selected-variant.md`
-
+#### &#x20;<a href="#h_f5e30552ba" id="h_f5e30552ba"></a>
