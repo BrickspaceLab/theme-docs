@@ -16,7 +16,6 @@
   * [Product badges](guides/products/adding-product-badges.md)
   * [Replacing "Add to cart"](guides/products/replacing-add-to-cart-for-a-product.md)
   * [Disable "quick add"](guides/products/disable-quick-add-for-a-product.md)
-  * [Product template](guides/products/product-template.md)
   * [Variant swatches](guides/products/variant-swatches.md)
   * [Fixed buy buttons](guides/products/fixed-buy-buttons.md)
   * [Replacing “Add to cart”](guides/products/replacing-add-to-cart.md)
