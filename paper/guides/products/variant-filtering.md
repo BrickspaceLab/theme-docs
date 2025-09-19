@@ -4,7 +4,14 @@ Your collection page filtering can be customized from the [Shopify Search and Di
 
 Shopify has recently made a number of improvements to metafields and how they work with swatches. This is great news for us because now swatches are much easier to manage and update.
 
+-----
 
+**See also:**
+
+- For a guide on what happens when variant options are unavailable or out of stock—and how the theme signals "Sold Out", check the [Known Issues & Troubleshooting](https://help.brickspacelab.com/paper/general/known-issues-and-troubleshooting) page and our [Fixed Buy Buttons guide](https://help.brickspacelab.com/paper/guides/products/fixed-buy-buttons).
+- See the [Paper v7.0.0 blog post](https://brickspacelab.com/blogs/shopify/everything-new-we-released-in-paper-v7-0-0) for screenshots and a full breakdown of changes.
+
+-----
 
 ### Add swatch filter from metafield <a href="#h_4f300afd17" id="h_4f300afd17"></a>
 
@@ -17,15 +24,12 @@ Shopify has recently made a number of improvements to metafields and how they wo
 3. Add a name and description to your metaobject
    * You can use any name or description. E.g. "Swatch"
 4.  Add three fields to your metaobject
-
     * Label, color and image.
     * Label should be a required field using "Single line text" - Make sure to select "List of values" after clicking single line text.
     * Color is not required and uses "Color".
     * Image is not required and uses "File" with "Accepts specific file types - Images" selected.
 
-
-
-    <figure><img src="../../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/swatch.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -68,15 +72,11 @@ We now have to assign values so data is populated for our new metafields.
 {% endstep %}
 {% endstepper %}
 
-
-
 ### Add swatch filter from 'Color' option <a href="#h_c284ce1b06" id="h_c284ce1b06"></a>
 
 {% hint style="info" %}
 You can add filters using color product options. This is a easy way to add filters but will require swatch files to be uploaded in a specific format. Swatches will only appear using this approach when the product option matches "color" - or a translation of color.
 {% endhint %}
-
-
 
 1. Open the [**Search and discovery app**](https://apps.shopify.com/search-and-discovery)
 2. Navigate to **Filters** and click **Add** **filter**
@@ -90,24 +90,16 @@ This is the same approach you would take if you wanted to filter by any other pr
    1. You can use any name or description. E.g. "Color"
 5. Hit **Save**
 
-
-
-
-
-
-
 ### Caveats of metafield filtering
 
 If you use metafield swatch filtering you'll have to ensure you update your metafields for all products that you want to appear on this filter - this will NOT happen automatically even if category metafields and variant options are displaying swatches.
 
-
-
-### &#x20;A temporary fix for adjusting color swatch sizing <a href="#h_9af1582f1b" id="h_9af1582f1b"></a>
+###  A temporary fix for adjusting color swatch sizing <a href="#h_9af1582f1b" id="h_9af1582f1b"></a>
 
 1. Go to **Online Store** > **Theme settings** > **Custom css**
-2.  Within your custom css block paste the following code:\
-    ​\
-    &#x200B;_&#x46;or color swatches/custom swatches_ (adjust the REM within height and width in increments of .1 for the best results) :
+2.  Within your custom css block paste the following code:
+    
+    _For color swatches/custom swatches_ (adjust the REM within height and width in increments of .1 for the best results) :
 
     ```
     .btn.btn--plain {
