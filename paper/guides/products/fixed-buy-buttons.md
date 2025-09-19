@@ -1,2 +1,3 @@
 # Fixed buy buttons
 
+For details about variant selection quirks and how "Unavailable" is shown on buy buttons, see [Paper theme Known Issues and Troubleshooting](https://help.brickspacelab.com/paper/general/known-issues-and-troubleshooting). This explains what to expect when picking variants that are out of stock and how the "Sold Out Indication" setting changes behavior. For a detailed walkthrough with screenshots, check our [blog post on Paper v7.0.0](https://brickspacelab.com/blogs/shopify/everything-new-we-released-in-paper-v7-0-0).
