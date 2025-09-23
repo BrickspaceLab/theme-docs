@@ -4,17 +4,17 @@ Product badges can be used to highlight key information about products. Badges c
 
 <figure><img src="../../.gitbook/assets/badges.png" alt=""><figcaption></figcaption></figure>
 
+
+
+## Using product tags
+
 {% stepper %}
 {% step %}
 Open the product you’d like to update in Shopify
-
-
 {% endstep %}
 
 {% step %}
 Scroll down to **Tags**
-
-
 {% endstep %}
 
 {% step %}
@@ -25,6 +25,59 @@ Enter “badge\_Your badge text”
 
 {% step %}
 Click **Save**
+{% endstep %}
+{% endstepper %}
+
+## Using product metafields
+
+{% stepper %}
+{% step %}
+Navigate to Settings > Custom data > Products
+{% endstep %}
+
+{% step %}
+Click Add definition
+
+
+{% endstep %}
+
+{% step %}
+In the name field enter "Product badge"
+
+
+{% endstep %}
+
+{% step %}
+\
+Ensure the namespace and key field is `custom.badge`
+
+
+{% endstep %}
+
+{% step %}
+Select Type and choose "Single line text"
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="287"><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+## Update metafield
+
+{% stepper %}
+{% step %}
+Navigate to the product you’d like to update
+
+
+{% endstep %}
+
+{% step %}
+Scroll to the bottom and enter in text for the “Button text” metafield
+
+
+{% endstep %}
+
+{% step %}
+Click Save
 
 
 {% endstep %}
