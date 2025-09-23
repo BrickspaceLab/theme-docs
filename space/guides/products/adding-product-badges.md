@@ -1,4 +1,4 @@
-# Adding product badges
+# Product badges
 
 ## Space: Adding product badges
 
@@ -30,6 +30,9 @@ Create metafield definition
 2. Click Add definition
 3. In the name field enter "Product badge"
 4. Ensure the namespace and key field is `custom.badge`
+5. Select Type and choose "Single line text"&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="287"><figcaption></figcaption></figure>
 
 Update metafield
 

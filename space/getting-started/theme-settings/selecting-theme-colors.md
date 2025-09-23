@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Selecting theme colors
 
 ### Getting started <a href="#h_7a0d84a38a" id="h_7a0d84a38a"></a>

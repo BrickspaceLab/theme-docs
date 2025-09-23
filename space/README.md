@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Space documentation
 
 {% embed url="https://www.youtube.com/watch?t=2s&v=bRRpwXN6Itc" %}
