@@ -1,4 +1,4 @@
-# Adding product badges
+# Product badges
 
 Product badges highlight key product information, helping customers quickly identify special items. Use tags or metafields to display custom badges.
 
@@ -28,6 +28,10 @@ _Note: Also works with:_
    * Set:
      * Name: `Product badge`
      * Namespace/key: `custom.badge`
+     * Type: `Single line text`&#x20;
+     *
+
+         <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="287"><figcaption></figcaption></figure>
 2. **Add Badge to Product**
    * Edit product
    * Scroll to **Metafields** at bottom
