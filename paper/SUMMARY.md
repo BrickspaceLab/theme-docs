@@ -90,6 +90,7 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
+  * [v8.1.0](general/changelog/v8.1.0.md)
   * [v8.0.5](general/changelog/v8.0.5.md)
   * [v8.0.4](general/changelog/v8.0.4.md)
   * [v8.0.3](general/changelog/v8.0.3.md)
@@ -140,5 +141,3 @@
   * [Poster](general/cloning-a-demo-theme/poster.md)
   * [Parts](general/cloning-a-demo-theme/parts.md)
   * [Pastel](general/cloning-a-demo-theme/pastel.md)
-  * [Page 3](general/cloning-a-demo-theme/page-3.md)
-  * [Page 4](general/cloning-a-demo-theme/page-4.md)
