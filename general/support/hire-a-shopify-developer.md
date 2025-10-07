@@ -17,8 +17,6 @@ Our team is available to build customizations and extend your Shopify theme with
 
 #### **Theme setup**
 
-* Starting at $3900
-
 ✓ Get your Shopify theme setup by the same team that design and built your theme
 
 ✓ Expertly crafted online store taking full advantage of built-in theme features
@@ -70,8 +68,6 @@ Our team is available to build customizations and extend your Shopify theme with
 
 
 #### **Theme customizations**
-
-* Starting at $4900
 
 ✓ Build customizations on top of your existing Shopify theme
 
