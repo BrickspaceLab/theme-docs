@@ -4,14 +4,44 @@ Shopify subscriptions can be a bit tricky to setup. This guide will walk you thr
 
 ***
 
+### Built-in subscription features <a href="#h_built_in_features" id="h_built_in_features"></a>
+
+Keystone has **built-in subscription support** that works with Shopify's native selling plan groups. The theme automatically integrates with Shopify subscription apps (like Recharge, Bold Subscriptions, etc.) through Shopify's Selling Plans API.
+
+**What's included:**
+
+* **Subscription Selector** - Two display layout options available in theme settings:
+  * Buttons layout
+  * Dropdowns layout
+* **Purchase Options** - Customers can choose between:
+  * One-time purchase
+  * Subscription plans with recurring deliveries
+* **Subscription Details Display** - Automatically shows:
+  * Subscription group names
+  * Individual selling plans within each group
+  * Savings/discounts (e.g., "Save up to X%")
+  * Delivery frequency options
+  * Per-delivery pricing
+
+**How it works:**
+
+1. Install and configure a Shopify subscription app or set up selling plans in your Shopify admin
+2. Assign subscription plans to your products
+3. The theme automatically displays subscription options on product pages
+4. Configure the display style in **Theme Settings** > **Product Options** > **Plan selection**
+
+The subscription functionality is implemented in `snippets/product__options.liquid` and `snippets/product__add.liquid` for seamless integration.
+
+***
+
 ### Using the built-in subscription options <a href="#h_10340383b3" id="h_10340383b3"></a>
 
-Our Shopify themes come with built in subscription options. We recommend using this approach as you'll have more control over the experience and can customize this with the help of a developer.
+We recommend using the built-in subscription options as you'll have more control over the experience and can customize this with the help of a developer.
 
 However, this may cause complications with your product templates if you've already installed a third-party subscription widget.
 
 * Ensure the third party subscription widget is disabled
-* Ensure the product block Options is included on your product template
+* Ensure the product block **Options** is included on your product template
 
 ***
 
