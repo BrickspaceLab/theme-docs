@@ -1,16 +1,14 @@
-# Article template
+# Article table of contents
 
-## Keystone: Using the article template
-
-***
-
-### Summary <a href="#h_f148c76f3e" id="h_f148c76f3e"></a>
-
-The article template is used to showcase the content of a blog post. It includes features like a Table of Contents to improve navigation and readability.
+## Keystone: Showing a table of contents in blog articles
 
 ***
 
-### Showing a Table of Contents <a href="#h_a13ca42db6" id="h_a13ca42db6"></a>
+### Summary <a href="#h_a13ca42db6" id="h_a13ca42db6"></a>
+
+Add a table of contents to your blog articles to improve navigation and readability.
+
+***
 
 ### Create Metafield Definition <a href="#h_08597968ff" id="h_08597968ff"></a>
 
@@ -26,7 +24,7 @@ The article template is used to showcase the content of a blog post. It includes
 
 ### Update Metafield Values <a href="#h_1246d7a49d" id="h_1246d7a49d"></a>
 
-1. Navigate to the blog post you’d like to update.
+1. Navigate to the blog post you'd like to update.
 2. Scroll to the bottom and click Show all next to metafields.
 3. Enter values for each heading you want to appear in your table of contents.
 
@@ -40,10 +38,11 @@ The article template is used to showcase the content of a blog post. It includes
 
 ### Update Headings <a href="#h_f46e698855" id="h_f46e698855"></a>
 
-1. In Shopify, navigate to the blog post you’d like to update.
+1. In Shopify, navigate to the blog post you'd like to update.
 2. Click the Show HTML icon on your blog content.
 3. Add `id="HEADING-NAME"` to your heading tags. The `id` attribute should match the table of contents.
    * Example: `<h1 id="your-heading-text">Your Heading Text</h1>`.
 4. Save your changes.
 
 [![](https://downloads.intercomcdn.com/i/o/1200396515/e07b0686cf8333df4de12f10/CleanShot+2024-10-01+at+13_48_22%402x.png?expires=1744916400\&signature=d710b68c58bcccbded8cbafc65c3c890b0742062b4ed447a670fdbd29c083fd6\&req=dSInFsp3m4ReXPMW1HO4zfEMOZL3q3uWwB8wmqAlo1s6IJgY0WbDdvNTIRil%0ATynoxhvL8Qs%2FDWRmTE4%3D%0A)](https://downloads.intercomcdn.com/i/o/1200396515/e07b0686cf8333df4de12f10/CleanShot+2024-10-01+at+13_48_22%402x.png?expires=1744916400\&signature=d710b68c58bcccbded8cbafc65c3c890b0742062b4ed447a670fdbd29c083fd6\&req=dSInFsp3m4ReXPMW1HO4zfEMOZL3q3uWwB8wmqAlo1s6IJgY0WbDdvNTIRil%0ATynoxhvL8Qs%2FDWRmTE4%3D%0A)\
+
