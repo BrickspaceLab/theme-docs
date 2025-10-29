@@ -55,8 +55,6 @@
   * [Minimum order amount](guides/wholesale/minimum-order-amount.md)
   * [Wholesale pricing apps](guides/wholesale/wholesale-pricing-apps.md)
   * [Automate with Flow](guides/wholesale/automate-with-flow.md)
-  * [Wholesale basics (OLD)](guides/wholesale/wholesale-basics.md)
-  * [Account restrictions (OLD)](guides/wholesale/account-restrictions.md)
 
 ## Sections
 
