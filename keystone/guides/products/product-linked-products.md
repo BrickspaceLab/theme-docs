@@ -1,16 +1,6 @@
-# Sibling products
+# Linked products block
 
-Keystone supports two methods to display products as swatch options. This is helpful if you want to split one product into seperate listing but maintain visibility for each option. When this is setup customers will see sibling products as options so they can easily select different options or colors.&#x20;
-
-***
-
-### Using the Combined listing app <a href="#h_2bcf225838" id="h_2bcf225838"></a>
-
-The app can be used to link multiple product together. Visit the Shopify help center to [learn more about this feature](https://www.shopify.com/enterprise/blog/combined-listings?utm_campaign=winter24edition\&utm_channel=W24-editions-website\&utm_content=W24E\&utm_medium=W24E-page\&utm_source=editions).
-
-***
-
-### Using the Linked products block <a href="#h_cca672d346" id="h_cca672d346"></a>
+### Overview <a href="#h_cca672d346" id="h_cca672d346"></a>
 
 If you have multiple versions of one product split into different product listing it may be hard for customers to find the option they want. Using the "Linked products" block you can display additional products as options on your product page.
 
