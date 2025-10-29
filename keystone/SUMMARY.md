@@ -21,7 +21,7 @@
   * [Custom content for tables](guides/products/custom-content-for-tables.md)
   * [Replace "Add to cart"](guides/products/replace-add-to-cart.md)
   * [Disable quick add](guides/products/disable-quick-add.md)
-  * [Hide out of stock variants](guides/products/hide-out-of-stock-variants.md)
+  * [Hide out of stock options](guides/products/hide-out-of-stock-variants.md)
   * [Request a quote](guides/products/product-request-quote.md)
   * [Dynamic variant images](guides/products/product-variant-images.md)
   * [Subscription options](guides/products/product-subscriptions.md)

@@ -71,7 +71,7 @@ Navigate to the product you’d like to update
 {% endstep %}
 
 {% step %}
-Scroll to the bottom and enter in text for the “Button text” metafield
+Scroll to the bottom and enter in text for the "Product badge" metafield
 
 
 {% endstep %}

@@ -32,7 +32,7 @@
   * [Bundled products](guides/products/bundled-products.md)
   * [Custom fields](guides/products/custom-fields.md)
   * [Content drawers](guides/products/content-drawers.md)
-  * [Hide out of stock variants](guides/products/hide-out-of-stock-variants.md)
+  * [Hide out of stock options](guides/products/hide-out-of-stock-variants.md)
 * [Collections](guides/collections/README.md)
   * [Adding Tag Filtering](guides/collections/adding-tag-filtering.md)
   * [Adding Nested Menu](guides/collections/adding-nested-menu.md)

@@ -35,7 +35,7 @@ _Note: Also works with:_
 2. **Add Badge to Product**
    * Edit product
    * Scroll to **Metafields** at bottom
-   * Enter badge text in **Button text** field
+   * Enter badge text in **Product badge** field
    * Click **Save**
 
 #### Best Practices

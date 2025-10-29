@@ -36,8 +36,8 @@ Create metafield definition
 
 Update metafield
 
-1. Navigate to the product you’d like to update
-2. Scroll to the bottom and enter in text for the “Button text” metafield
+1. Navigate to the product you'd like to update
+2. Scroll to the bottom and enter in text for the "Product badge" metafield
 3. Click Save
 
 \
