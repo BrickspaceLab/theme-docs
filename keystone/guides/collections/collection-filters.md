@@ -1,30 +1,29 @@
-# Collection filters and sorting
+# Customizing Filters
 
-## Keystone: Customizing filters and sorting for your collection pages
-
-***
-
-### Summary <a href="#h_112795271e" id="h_112795271e"></a>
-
-The collection template can display products in a grid or list view with customizable filters and sorting options. Use Shopify's Search & Discovery app to customize and extend filters for your store.
+Collection templates in Keystone are compatible with Shopify's official [Search & Discovery](https://apps.shopify.com/search-and-discovery) app. This app can be used to customize and extend the available filters for your store.
 
 ***
 
-### Enable Collection Filters <a href="#h_4ce2072a99" id="h_4ce2072a99"></a>
+### Enable collection filters <a href="#h_4ce2072a99" id="h_4ce2072a99"></a>
 
-1. Open the Theme Editor by clicking Customize next to the relevant theme.
-2. From the dropdown in the top bar, select Collections > Default Collection.
-3. Select Collection Grid from the theme sections.
-4. Scroll down under Display and check Enable Filter.
+1. Go to **Online Store** > **Themes** > **Customize**
+2. From the dropdown in the center of the top bar select **Collections** > **Default collection**
+3. On the left hand side, select **Collection grid** in the theme sections
+4. Scroll down under **Display** and check **Enable filter**
 
-### Enable Collection Sorting <a href="#h_996b2729f7" id="h_996b2729f7"></a>
+***
 
-1. Open the Theme Editor by clicking Customize next to the relevant theme.
-2. From the dropdown in the top bar, select Collections > Default Collection.
-3. Select Collection Grid from the theme sections.
-4. Scroll down under Display and check Enable Sort.
+### Enable collection sorting <a href="#h_996b2729f7" id="h_996b2729f7"></a>
 
-### Customizing Filtering Options <a href="#h_a77dda2981" id="h_a77dda2981"></a>
+1. Go to **Online Store** > **Themes** > **Customize**
+2. From the dropdown in the center of the top bar select **Collections** > **Default collection**
+3. On the left hand side, select **Collection grid** in the theme sections
+4. Scroll down under **Display** and check **Enable sort**
 
-* Use the Search & Discovery app to adjust and customize filters.
+***
+
+### Customizing filtering options <a href="#h_a77dda2981" id="h_a77dda2981"></a>
+
+1. Go to the [Search & Discovery](https://apps.shopify.com/search-and-discovery) app to adjust filters
+2. Hit **Save**
 

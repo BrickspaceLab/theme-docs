@@ -1,25 +1,27 @@
-# Product content drawer
+# Content drawers
 
-## Keystone: Using the content drawer product block
-
-***
-
-### Summary <a href="#h_965f789548" id="h_965f789548"></a>
-
-The Content Drawer block displays a link that opens a slide-out drawer for additional product details (e.g., sizing charts or ingredient lists).
+The Content drawer block allows you to display a link that opens a slide-out drawer. Use it to conveniently showcase product details such as sizing charts or ingredient lists.
 
 ***
 
-### Enable Feature <a href="#h_83e23f3648" id="h_83e23f3648"></a>
+### Open the theme editor <a href="#h_83e23f3648" id="h_83e23f3648"></a>
 
-1. Open the Theme Editor by clicking Customize next to the relevant theme.
-2. From the dropdown in the top bar, select Product.
-3. Click Add Block and select Content Drawer.
-4. In the Option field, enter the text that matches the product option you want to display this next to (e.g., `size`).
-5. Add a title and select a page with plain text content.
-6. Click Save.
+1. Go to **Online Store** > **Themes** > **Customize**
+2. From the dropdown in the top bar select **Product**
 
+***
 
+### Add the Content drawer block <a href="#h_965f789548" id="h_965f789548"></a>
+
+1. On the lefthand side click **Add block** then select **Content drawer**
+2. In the Option field enter the text that matches the product option you want to display this next to.
+   * This is an optional field. Leaving this empty will ensure the block is displayed where the block is placed rather than beside the option.
+   * E.g. if you want to display this next to Size then enter 'size' in the Option field. If no option is specified this block will be shown in the order it appears in the product template.
+3. Add a title and select page content
+   * Select a page that uses plain text. If you select a page that has custom sections it may not work within the slide-out drawer.
+4. Hit **Save**
+
+***
 
 #### Clean Size Charts
 

@@ -1,31 +1,28 @@
-# Collection tag filtering
+# Adding Tag Filtering
 
-## Keystone: Adding simple tag filtering to a collection page
+Using Keystone you can update collection template to use tag based filtering. This is an easy way to surface sub-categories within a collection. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 
-***
-
-### Summary <a href="#h_91da1e090e" id="h_91da1e090e"></a>
-
-Tag-based filtering allows you to surface sub-categories within a collection (e.g., filtering "Shirts" to show only products tagged with "shirts").
+In this example clicking "Wallets" would filter the current collection to only show products that contain the tag "wallets".
 
 ***
 
-### Create Metafield Definitions <a href="#h_c08c24e0e9" id="h_c08c24e0e9"></a>
+### Create metafield definitions <a href="#h_c08c24e0e9" id="h_c08c24e0e9"></a>
 
-1. Open Settings and click Custom Data.
-2. Click Collections, then click Add Definition.
-3. Set Name to `Subtags`.
-4. Set Namespace and Key to `custom.subtags`.
-5. Click Select Content Type and choose Single line text.
-6. Select List of values.
-7. Click Save.
+1. Click **Collections** then click **Add definition**
+2. Set **Name** to **Subtags**
+3. Set **Namespace** and key to `custom.subtags`
+4. Click **Select content type** and select **Single line text**
+5. Click **List of values**
+6. Hit **Save**
 
-### Add Data to Collection Metafield <a href="#h_93ef75d6a0" id="h_93ef75d6a0"></a>
+***
 
-1. Open the collection you'd like to add tag filtering to.
-2. Scroll to the Metafields area at the bottom.
-3. Enter a text value for each tag filter.
-   * Note: Do not include "All" as it will be the first link in the tag filtering.
-   * Ensure each entry matches a tag present within your collection.
-4. Click Save.
+### Add data to collection metafield <a href="#h_93ef75d6a0" id="h_93ef75d6a0"></a>
+
+1. Open the collection you'd like to add a tag filtering too
+2. Scroll to the bottom **Metafields** area.
+3. Enter a text value for each tag filter
+   * There's no need to include "All" as that will be the first link within tag filtering
+   * Each entry should match a tag that is present within your collection
+4. Hit **Save**
 

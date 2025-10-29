@@ -1,31 +1,31 @@
-# Collection nested menu
+# Adding Nested Menu
 
-## Keystone: Adding a nested menu to a collection
+Each collection can be set up with nested navigation. This is useful if you have a large collection with multiple sub-groupings within. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 
-***
-
-### Summary <a href="#h_4151a05ae8" id="h_4151a05ae8"></a>
-
-Nested navigation is useful for large collections with multiple sub-groupings (e.g., "Accessories" with links to "Wallets," "Phone Cases," and "Bags").
+In this example clicking "Elastic" would navigate to a new page loading the "Elastic" collection page.
 
 ***
 
-### Create Metafield Definitions <a href="#h_8713c28b98" id="h_8713c28b98"></a>
+### Create metafields definitions <a href="#h_8713c28b98" id="h_8713c28b98"></a>
 
-1. Open Settings and click Metafields.
-2. Click Collections, then click Add Definition.
-3. Set Name to `Subcollections`.
-4. Set Namespace and Key to `my_fields.subcollections`.
-5. Click Select Content Type and choose Single line text.
-6. Click Save.
+1. Go to **Settings** > **Metafields**
+2. Click **Collections** then click **Add definition**
+3. Set **Name** to **Subcollections**
+4. Set **Namespace** and key to `my_fields.subcollections`.
+5. Click **Select content type** and choose **Single line text**
+6. Click **Save**
 
-### Add Data to Collection Metafield <a href="#h_6bebd429e6" id="h_6bebd429e6"></a>
+***
 
-1. Open the collection you'd like to add a nested menu to.
-2. Scroll to the Metafields area at the bottom.
-3. Enter text values formatted as follows:
-   * Separate each menu item with `&`.
-   * Separate each title and URL with `,`.
-   * Example: `Tops,/collections/tops&Bags,/collections/bags&Shorts,/collections/shorts`.
-4. Click Save.
+### Add data to Collection metafield <a href="#h_6bebd429e6" id="h_6bebd429e6"></a>
+
+1. Open the collection you'd like to add a tag filtering too
+2. Scroll to the bottom **Metafields** area
+3. Enter a text value for each tag filter
+   * There's no need to include "All" as that will be the first link within tag filtering
+   * Each entry should match a tag that is present within your collection
+   * This text must be formatted in a specific way. Please ensure each menu item is separated by "&" then ensure each title and url for each item is separated by a ",".
+   * It should look something like this:
+     * `Tops,/collections/tops&Bags,/collections/bags&Shorts,/collections/short`
+4. Click **Save**
 

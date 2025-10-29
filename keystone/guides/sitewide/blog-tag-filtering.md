@@ -1,34 +1,29 @@
-# Blog tag filtering
+# Blog template
 
-## Keystone: Adding simple tag filtering to a blog page
-
-***
-
-### Summary <a href="#h_5c0c3d6b07" id="h_5c0c3d6b07"></a>
-
-Add tag-based filtering to your blog page to help visitors discover content by category or topic.
+Using Keystone you can update blog template to use tag based filtering. This is an easy way to surface sub-categories within a blog. For example, you may can show filters to view blogs posts with specific tags
 
 ***
 
-### Create Metafield Definitions <a href="#h_e63ae7877d" id="h_e63ae7877d"></a>
+### Create metafield definitions <a href="#h_e63ae7877d" id="h_e63ae7877d"></a>
 
-1. Open Settings and click Metafields.
-2. Click Collections.
-3. Click Add Definition.
-4. Set Name to `Subtags`.
-5. Set Namespace and Key to `custom.subtags`.
-6. Click Select Content Type and choose Single line text.
-7. Select List of values.
-8. Click Save.
+1. Open up **Settings** > **Custom data**
+2. Click **Blogs**
+3. Click **Add definition**
+4. Set **Name** to **Subtags**
+5. Set **Namespace** and key to "custom.subtags"
+6. Click **Select** content type
+7. Click **Single line text**
+8. Click **List of values**
+9. Hit **Save**
 
-### Add Data to Collection Metafield <a href="#h_aa153fc621" id="h_aa153fc621"></a>
+***
 
-1. Open the collection you'd like to add tag filtering to.
-2. Scroll to the Metafields area at the bottom.
-3. Enter a text value for each tag filter.
-   * Note: There's no need to include "All" as it will be the first link in the tag filtering.
-   * Ensure each entry matches a tag present within your collection.
-4. Click Save.
+### Add data to blog metafield <a href="#h_aa153fc621" id="h_aa153fc621"></a>
 
-\
+1. Go to **Online Store** > **Blog posts** > **Manage blogs**
+2. Scroll to the bottom **Metafields** area
+3. Enter a text value for each tag filter
+   * There's no need to include "All" as that will be the first link within tag filtering
+   * Each entry should match a tag that is present within your collection
+4. Hit **Save**
 
