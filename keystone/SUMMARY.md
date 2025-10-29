@@ -47,8 +47,16 @@
   * [Blog template](guides/sitewide/blog-tag-filtering.md)
   * [Search results](guides/sitewide/search-results.md)
 * [Wholesale](guides/wholesale/README.md)
-  * [Wholesale basics](guides/wholesale/wholesale-basics.md)
-  * [Account restrictions](guides/wholesale/account-restrictions.md)
+  * [Hide prices](guides/wholesale/hide-prices.md)
+  * [Hide products](guides/wholesale/hide-products.md)
+  * [Hide blog posts](guides/wholesale/hide-blog-posts.md)
+  * [Customer approval](guides/wholesale/customer-approval.md)
+  * [Full site restriction](guides/wholesale/full-site-restriction.md)
+  * [Minimum order amount](guides/wholesale/minimum-order-amount.md)
+  * [Wholesale pricing apps](guides/wholesale/wholesale-pricing-apps.md)
+  * [Automate with Flow](guides/wholesale/automate-with-flow.md)
+  * [Wholesale basics (OLD)](guides/wholesale/wholesale-basics.md)
+  * [Account restrictions (OLD)](guides/wholesale/account-restrictions.md)
 
 ## Sections
 
