@@ -44,7 +44,7 @@
   * [Quick re‑order](guides/sitewide/quick-reorder.md)
   * [Designing your menu](guides/sitewide/designing-your-menu.md)
   * [Article table of contents](guides/sitewide/article-table-of-contents.md)
-  * [Blog template](guides/sitewide/blog-tag-filtering.md)
+  * [Blog tag filtering](guides/sitewide/blog-tag-filtering.md)
   * [Search results](guides/sitewide/search-results.md)
 * [Wholesale](guides/wholesale/README.md)
   * [Hide prices](guides/wholesale/hide-prices.md)
