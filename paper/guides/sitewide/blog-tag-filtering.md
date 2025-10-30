@@ -1,6 +1,4 @@
-# Blog template
-
-### Adding simple tag filtering to a blog page <a href="#h_a1ed6cccf4" id="h_a1ed6cccf4"></a>
+# Adding simple tag filtering to a blog page
 
 Using Paper you can update blog template to use tag based filtering. This is an easy way to surface sub-categories within a blog. For example, you may can show filters to view blogs posts with specific tags
 
@@ -8,7 +6,7 @@ Using Paper you can update blog template to use tag based filtering. This is an 
 
 {% stepper %}
 {% step %}
-### Create metafield definitions
+## Create metafield definitions
 
 1. Open up **Settings** > **Custom data**
 2. Click **Blogs**
@@ -22,7 +20,7 @@ Using Paper you can update blog template to use tag based filtering. This is an 
 {% endstep %}
 
 {% step %}
-### Add data to collection metafield
+## Add data to collection metafield
 
 1. Go to **Online** **Store** > **Blog** **posts** > **Manage** **blogs**
 2. Scroll to the bottom **Metafields** area
