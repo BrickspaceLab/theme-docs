@@ -43,7 +43,7 @@
   * [Creating a Mapbox API key](guides/sitewide/creating-a-mapbox-api-key.md)
   * [Designing your menu](guides/sitewide/designing-your-menu.md)
   * [Migrating custom changes](guides/sitewide/migrating-custom-changes.md)
-  * [Blog template](guides/sitewide/blog-template.md)
+  * [Blog tag filtering](guides/sitewide/blog-tag-filtering.md)
   * [Search results](guides/sitewide/search-results.md)
 
 ## Sections
