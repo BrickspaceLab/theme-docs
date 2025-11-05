@@ -21,7 +21,7 @@ A quick, 30-minute video review of your store. Our team walks through your site,
 
 ↳ $100 usd
 
-[↳ Book your theme roast\
+[↳ Book your theme roast
 ](https://brickspacelab.com/products/theme-roast)
 
 #### **Theme roadmap**
