@@ -15,7 +15,32 @@ Our team is available to build customizations and extend your Shopify theme with
 
 
 
+#### **Theme roast**
+
+A quick, 30-minute video review of your store. Our team walks through your site, pinpointing what’s working, what’s confusing customers, and what’s costing you conversions. You’ll get access to the video review with actionable tips of what to improve.
+
+↳ $100 usd
+
+[↳ Book your theme roast\
+](https://brickspacelab.com/products/theme-roast)
+
+#### **Theme roadmap**
+
+This is the full audit service. We review your entire ecommerce flow - from homepage to checkout then grade your UI and UX against industry benchmarks. You’ll walk away with a detailed roadmap of what to improve and in what order.
+
+↳ Starting at $3900 usd
+
+[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
+
+
+
 #### **Theme setup**
+
+Get your shopify theme set up by the team that built it. We’ll configure everything to take full advantage of built-in features, and make sure your store looks polished and ready to launch.
+
+↳ Starting at $3900 usd
+
+[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
 
 ✓ Get your Shopify theme setup by the same team that design and built your theme
 
@@ -68,6 +93,12 @@ Our team is available to build customizations and extend your Shopify theme with
 
 
 #### **Theme customizations**
+
+Need something custom? Our team can build custom layouts, features and tweak your theme to really bring your storefront to life.&#x20;
+
+↳ Starting at $4900 usd
+
+[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
 
 ✓ Build customizations on top of your existing Shopify theme
 
