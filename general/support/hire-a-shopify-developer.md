@@ -30,7 +30,17 @@ This is the full audit service. We review your entire ecommerce flow - from home
 
 ↳ Starting at $3900 usd
 
-[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
+[↳ Book discovery call](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
+
+
+
+#### **Theme retainer**
+
+Prepay for a set number of development hours to help manage and maintain your Shopify store.
+
+↳ Starting at $3000 usd
+
+[↳ Book discovery call](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
 
 
 
@@ -40,7 +50,7 @@ Get your shopify theme set up by the team that built it. We’ll configure every
 
 ↳ Starting at $3900 usd
 
-[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
+[↳ Book discovery call](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
 
 ✓ Get your Shopify theme setup by the same team that design and built your theme
 
@@ -98,7 +108,7 @@ Need something custom? Our team can build custom layouts, features and tweak you
 
 ↳ Starting at $4900 usd
 
-[↳ Book a discovery meeting](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
+[↳ Book discovery call](https://cal.com/brickspacelab/meeting?overlayCalendar=true)
 
 ✓ Build customizations on top of your existing Shopify theme
 
