@@ -17,7 +17,7 @@ Our support includes bug fixes and questions about built-in features and functio
 ### What we don't cover
 
 * ❌ Support for integrations or third party apps (Contact the app developer for help as it is their responsibility to handle app installation.)
-* ❌ Fixing and troubleshooting issues related to custom theme code.
+* ❌ Fixing and troubleshooting issues related to custom theme code or generative blocks.
 * ❌ Transferring customizations to an updated theme.
 * ❌ Issues with the Shopify admin.
 * ❌ Design or code customizations.
