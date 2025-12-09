@@ -39,6 +39,7 @@ The Collage grid section creates a flexible grid layout of customizable content 
 | Enable margin        | Whether to include horizontal margin around the section                       |
 | Enable split         | Whether to split the section into a fixed header and scrollable content       |
 | Visibility           | Control on which devices the section appears (all, mobile only, desktop only) |
+| Account visibility   | Controls when the section is displayed based on customer login status (always, logged out, logged in but not approved, logged in and approved). Available in theme version 2.0.1 or later. |
 
 ### Block settings
 

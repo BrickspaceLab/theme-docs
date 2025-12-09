@@ -27,6 +27,35 @@ This section is responsible for rendering and managing the account drawer functi
 | Main section color scheme | Sets the background and text color for the main content area of the account drawer |
 | Main section border color | Controls the border color for the main content area of the account drawer          |
 
+### Theme settings
+
+{% hint style="info" %}
+**Version requirement:** Custom account and login URLs are available in Keystone theme version 2.0.1 or later.
+{% endhint %}
+
+#### Custom account URL
+
+You can specify a custom URL for account pages in **Theme Settings > Account**. This is helpful if you want to create a custom page with a legacy signup form and force users to go to that page when accessing their account.
+
+**Setup:**
+1. Navigate to **Theme Settings** (gear icon in the theme editor)
+2. Open the **Account** section
+3. Set **Account icon behavior** to **"Redirect"** (this setting only appears when redirect is selected)
+4. Enter your custom URL in the **Custom account URL** field
+
+**Note:** The Custom account URL setting only appears when "Account icon behavior" is set to "Redirect".
+
+#### Custom login URL
+
+You can specify a custom URL for login and signup pages in **Theme Settings > Account**. This is helpful if you want to create a custom page with the legacy signup form and force users to go to that page when signing up.
+
+**Setup:**
+1. Navigate to **Theme Settings** (gear icon in the theme editor)
+2. Open the **Account** section
+3. Enter your custom URL in the **Custom login URL** field
+
+**Important:** This URL will override the default login and signup forms throughout the theme, including in the header, footer, menu, product pages, blog items, and product grids.
+
 ### Block settings
 
 #### Announcement

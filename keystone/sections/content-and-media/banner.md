@@ -43,6 +43,7 @@ The Banner section is a versatile component that displays a background image or 
 | Enable border margin         | Adds margin around borders                                        |
 | Enable max width             | Limits the width of text content for better readability           |
 | Visibility                   | Controls whether banner appears on desktop, mobile, or both       |
+| Account visibility           | Controls when the banner is displayed based on customer login status (always, logged out, logged in but not approved, logged in and approved). Available in theme version 2.0.1 or later. |
 
 ### Block settings
 
