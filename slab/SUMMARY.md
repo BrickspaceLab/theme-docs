@@ -1,22 +1,29 @@
 # Table of contents
 
 * [Slab documentation](README.md)
-  * [Table of contents](slab/summary.md)
-  * [getting-started](slab/getting-started/README.md)
-    * [Theme basics](slab/getting-started/theme-basics.md)
-    * [Theme settings](slab/getting-started/theme-settings.md)
-  * [general](slab/general/README.md)
-    * [Changelog](slab/general/changelog.md)
-    * [Cloning a demo theme](slab/general/cloning-a-demo-theme.md)
-    * [Known issues and troubleshooting](slab/general/known-issues-and-troubleshooting.md)
-  * [guides](slab/guides/README.md)
-    * [Collections](slab/guides/collections.md)
-    * [Products](slab/guides/products.md)
-    * [Sitewide](slab/guides/sitewide.md)
-    * [Wholesale](slab/guides/wholesale.md)
-  * [sections](slab/sections/README.md)
-    * [Content and Media](slab/sections/content-and-media.md)
-    * [Forms](slab/sections/forms.md)
-    * [Navigation](slab/sections/navigation.md)
-    * [Products and Collections](slab/sections/products-and-collections.md)
-    * [Sitewide](slab/sections/sitewide.md)
+
+## Getting started
+
+* [Theme basics](getting-started/theme-basics.md)
+* [Theme settings](getting-started/theme-settings/README.md)
+
+## Guides
+
+* [Products](guides/products/README.md)
+* [Collections](guides/collections/README.md)
+* [Sitewide](guides/sitewide/README.md)
+* [Wholesale](guides/wholesale/README.md)
+
+## Sections
+
+* [Sitewide](sections/sitewide/README.md)
+* [Navigation](sections/navigation/README.md)
+* [Content and Media](sections/content-and-media/README.md)
+* [Products and Collections](sections/products-and-collections/README.md)
+* [Forms](sections/forms/README.md)
+
+## General
+
+* [Changelog](general/changelog/README.md)
+* [Known issues and troubleshooting](general/known-issues-and-troubleshooting/README.md)
+* [Cloning a demo theme](general/cloning-a-demo-theme/README.md)
