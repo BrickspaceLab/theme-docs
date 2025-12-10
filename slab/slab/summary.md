@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Slab documentation](./)
+* [Slab documentation](../)
 
 ## Getting started
 
