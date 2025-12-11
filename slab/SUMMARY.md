@@ -108,17 +108,21 @@
 ## Blocks
 
 * [Blocks overview](blocks/README.md)
-* [Rich text](blocks/richtext.md)
-* [Image](blocks/image.md)
-* [Icon](blocks/icon.md)
-* [Container](blocks/g__container.md)
-* [Table row](blocks/_g__table-row.md)
-* [Divider](blocks/divider.md)
-* [Discount](blocks/discount.md)
-* [Countdown](blocks/countdown.md)
-* [Liquid](blocks/liquid.md)
-* [Breadcrumbs](blocks/breadcrumbs.md)
-* [Logo](blocks/logo.md)
+* [Basics](blocks/basics/README.md)
+  * [Rich text](blocks/basics/richtext.md)
+  * [Image](blocks/basics/image.md)
+  * [Icon](blocks/basics/icon.md)
+  * [Logo](blocks/basics/logo.md)
+  * [Liquid](blocks/basics/liquid.md)
+  * [Divider](blocks/basics/divider.md)
+* [Layout](blocks/layout/README.md)
+  * [Container](blocks/layout/g__container.md)
+  * [Table row](blocks/layout/_g__table-row.md)
+* [Navigation](blocks/navigation/README.md)
+  * [Breadcrumbs](blocks/navigation/breadcrumbs.md)
+* [Marketing](blocks/marketing/README.md)
+  * [Discount](blocks/marketing/discount.md)
+  * [Countdown](blocks/marketing/countdown.md)
 
 ## General
 
