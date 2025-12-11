@@ -108,84 +108,49 @@
 ## Blocks
 
 * [Blocks overview](blocks/README.md)
-* [_avatar-image](blocks/_avatar-image.md)
-* [_g__cart-progress-tier](blocks/_g__cart-progress-tier.md)
-* [_g__flex-item](blocks/_g__flex-item.md)
-* [_g__grid-item](blocks/_g__grid-item.md)
-* [_g__grid-paginateitem](blocks/_g__grid-paginateitem.md)
-* [_g__hotspot-spot](blocks/_g__hotspot-spot.md)
-* [_g__map-item](blocks/_g__map-item.md)
-* [_g__menu-item](blocks/_g__menu-item.md)
-* [_g__slider-item](blocks/_g__slider-item.md)
-* [_g__tab-item](blocks/_g__tab-item.md)
-* [_g__table-cell](blocks/_g__table-cell.md)
-* [_g__table-row](blocks/_g__table-row.md)
-* [_grid-articles](blocks/_grid-articles.md)
-* [_grid-collections](blocks/_grid-collections.md)
-* [_grid-gallery](blocks/_grid-gallery.md)
-* [_grid-products](blocks/_grid-products.md)
-* [_grid-recent](blocks/_grid-recent.md)
-* [_grid-recommendations](blocks/_grid-recommendations.md)
-* [_layout__blog](blocks/_layout__blog.md)
-* [_layout__collection](blocks/_layout__collection.md)
-* [_layout__list-collections](blocks/_layout__list-collections.md)
-* [_layout__search](blocks/_layout__search.md)
-* [_pagination](blocks/_pagination.md)
-* [_slider-articles](blocks/_slider-articles.md)
-* [_slider-collections](blocks/_slider-collections.md)
-* [_slider-gallery](blocks/_slider-gallery.md)
-* [_slider-products](blocks/_slider-products.md)
-* [_slider-recent](blocks/_slider-recent.md)
-* [_slider-recommendations](blocks/_slider-recommendations.md)
-* [_tags](blocks/_tags.md)
-* [account-b2b](blocks/account-b2b.md)
-* [account-orders](blocks/account-orders.md)
-* [account-profile](blocks/account-profile.md)
-* [article-comments](blocks/article-comments.md)
-* [article-date](blocks/article-date.md)
-* [breadcrumbs](blocks/breadcrumbs.md)
-* [cart-count](blocks/cart-count.md)
-* [cart-discount](blocks/cart-discount.md)
-* [cart-fulltotals](blocks/cart-fulltotals.md)
-* [cart-notes](blocks/cart-notes.md)
-* [cart-price](blocks/cart-price.md)
-* [cart-results](blocks/cart-results.md)
-* [cart-share](blocks/cart-share.md)
-* [cart-summary](blocks/cart-summary.md)
-* [checkbox-upsell](blocks/checkbox-upsell.md)
-* [checkout-approval](blocks/checkout-approval.md)
+
+### Basics
+
 * [countdown](blocks/countdown.md)
 * [discount](blocks/discount.md)
-* [divider](blocks/divider.md)
-* [error](blocks/error.md)
-* [filter](blocks/filter.md)
-* [filter-tags](blocks/filter-tags.md)
-* [form-input](blocks/form-input.md)
-* [form-response](blocks/form-response.md)
 * [g__accordion](blocks/g__accordion.md)
-* [g__age-verification](blocks/g__age-verification.md)
-* [g__article-card](blocks/g__article-card.md)
 * [g__avatars](blocks/g__avatars.md)
 * [g__button](blocks/g__button.md)
-* [g__cart-progress](blocks/g__cart-progress.md)
-* [g__checkout](blocks/g__checkout.md)
-* [g__collection-card](blocks/g__collection-card.md)
-* [g__contact](blocks/g__contact.md)
-* [g__container](blocks/g__container.md)
 * [g__dropdown](blocks/g__dropdown.md)
 * [g__hotspot](blocks/g__hotspot.md)
 * [g__map](blocks/g__map.md)
-* [g__menu-dropdown](blocks/g__menu-dropdown.md)
-* [g__menu-page](blocks/g__menu-page.md)
-* [g__newsletter](blocks/g__newsletter.md)
-* [g__password](blocks/g__password.md)
-* [g__product-card](blocks/g__product-card.md)
 * [g__share](blocks/g__share.md)
 * [g__video](blocks/g__video.md)
-* [g__visibility](blocks/g__visibility.md)
 * [icon](blocks/icon.md)
 * [image](blocks/image.md)
 * [image-comparison](blocks/image-comparison.md)
+* [logo](blocks/logo.md)
+* [payment-icons](blocks/payment-icons.md)
+* [richtext](blocks/richtext.md)
+* [shop-login](blocks/shop-login.md)
+* [social-icons](blocks/social-icons.md)
+
+### Cards
+
+* [g__article-card](blocks/g__article-card.md)
+* [g__collection-card](blocks/g__collection-card.md)
+* [g__product-card](blocks/g__product-card.md)
+
+### Containers
+
+* [g__container](blocks/g__container.md)
+
+### Forms
+
+* [form-input](blocks/form-input.md)
+* [g__age-verification](blocks/g__age-verification.md)
+* [g__contact](blocks/g__contact.md)
+* [g__newsletter](blocks/g__newsletter.md)
+* [g__password](blocks/g__password.md)
+
+### Layout
+
+* [divider](blocks/divider.md)
 * [layout__flex](blocks/layout__flex.md)
 * [layout__float](blocks/layout__float.md)
 * [layout__grid](blocks/layout__grid.md)
@@ -195,18 +160,27 @@
 * [layout__slider](blocks/layout__slider.md)
 * [layout__tab](blocks/layout__tab.md)
 * [layout__table](blocks/layout__table.md)
-* [liquid](blocks/liquid.md)
-* [localization-label](blocks/localization-label.md)
-* [logo](blocks/logo.md)
+
+### Navigation
+
+* [breadcrumbs](blocks/breadcrumbs.md)
+* [filter](blocks/filter.md)
+* [filter-tags](blocks/filter-tags.md)
+* [g__menu-dropdown](blocks/g__menu-dropdown.md)
+* [g__menu-page](blocks/g__menu-page.md)
 * [menu](blocks/menu.md)
+* [_pagination](blocks/_pagination.md)
+* [_tags](blocks/_tags.md)
+
+### Overlays
+
 * [overlay__alert](blocks/overlay__alert.md)
 * [overlay__drawer](blocks/overlay__drawer.md)
 * [overlay__popup](blocks/overlay__popup.md)
 * [overlay__sidebar](blocks/overlay__sidebar.md)
-* [payment-icons](blocks/payment-icons.md)
-* [picker-audio](blocks/picker-audio.md)
-* [picker-country](blocks/picker-country.md)
-* [picker-language](blocks/picker-language.md)
+
+### Products
+
 * [product-badges](blocks/product-badges.md)
 * [product-bundles](blocks/product-bundles.md)
 * [product-buy](blocks/product-buy.md)
@@ -220,15 +194,83 @@
 * [product-sibling-options](blocks/product-sibling-options.md)
 * [product-subscription](blocks/product-subscription.md)
 * [product-swatches](blocks/product-swatches.md)
-* [render-quick-buy](blocks/render-quick-buy.md)
-* [render-quick-edit](blocks/render-quick-edit.md)
-* [richtext](blocks/richtext.md)
+
+### Cart
+
+* [cart-count](blocks/cart-count.md)
+* [cart-discount](blocks/cart-discount.md)
+* [cart-fulltotals](blocks/cart-fulltotals.md)
+* [cart-notes](blocks/cart-notes.md)
+* [cart-price](blocks/cart-price.md)
+* [cart-results](blocks/cart-results.md)
+* [cart-share](blocks/cart-share.md)
+* [cart-summary](blocks/cart-summary.md)
+* [checkbox-upsell](blocks/checkbox-upsell.md)
+* [checkout-approval](blocks/checkout-approval.md)
+* [g__cart-progress](blocks/g__cart-progress.md)
+* [g__checkout](blocks/g__checkout.md)
+
+### Search
+
 * [search-input](blocks/search-input.md)
 * [search-results](blocks/search-results.md)
 * [search-summary](blocks/search-summary.md)
+
+### Blog
+
+* [article-comments](blocks/article-comments.md)
+* [article-date](blocks/article-date.md)
+
+### All Pagination
+
+* [_grid-articles](blocks/_grid-articles.md)
+* [_grid-collections](blocks/_grid-collections.md)
+* [_grid-gallery](blocks/_grid-gallery.md)
+* [_grid-products](blocks/_grid-products.md)
+* [_grid-recent](blocks/_grid-recent.md)
+* [_grid-recommendations](blocks/_grid-recommendations.md)
+* [_layout__blog](blocks/_layout__blog.md)
+* [_layout__collection](blocks/_layout__collection.md)
+* [_layout__list-collections](blocks/_layout__list-collections.md)
+* [_layout__search](blocks/_layout__search.md)
+* [_slider-articles](blocks/_slider-articles.md)
+* [_slider-collections](blocks/_slider-collections.md)
+* [_slider-gallery](blocks/_slider-gallery.md)
+* [_slider-products](blocks/_slider-products.md)
+* [_slider-recent](blocks/_slider-recent.md)
+* [_slider-recommendations](blocks/_slider-recommendations.md)
+
+### Utility
+
+* [account-b2b](blocks/account-b2b.md)
+* [account-orders](blocks/account-orders.md)
+* [account-profile](blocks/account-profile.md)
+* [error](blocks/error.md)
+* [form-response](blocks/form-response.md)
+* [g__visibility](blocks/g__visibility.md)
+* [liquid](blocks/liquid.md)
+* [localization-label](blocks/localization-label.md)
+* [picker-audio](blocks/picker-audio.md)
+* [picker-country](blocks/picker-country.md)
+* [picker-language](blocks/picker-language.md)
+* [render-quick-buy](blocks/render-quick-buy.md)
+* [render-quick-edit](blocks/render-quick-edit.md)
 * [shared-discount](blocks/shared-discount.md)
-* [shop-login](blocks/shop-login.md)
-* [social-icons](blocks/social-icons.md)
+
+### Private Blocks
+
+* [_avatar-image](blocks/_avatar-image.md)
+* [_g__cart-progress-tier](blocks/_g__cart-progress-tier.md)
+* [_g__flex-item](blocks/_g__flex-item.md)
+* [_g__grid-item](blocks/_g__grid-item.md)
+* [_g__grid-paginateitem](blocks/_g__grid-paginateitem.md)
+* [_g__hotspot-spot](blocks/_g__hotspot-spot.md)
+* [_g__map-item](blocks/_g__map-item.md)
+* [_g__menu-item](blocks/_g__menu-item.md)
+* [_g__slider-item](blocks/_g__slider-item.md)
+* [_g__tab-item](blocks/_g__tab-item.md)
+* [_g__table-cell](blocks/_g__table-cell.md)
+* [_g__table-row](blocks/_g__table-row.md)
 
 ## General
 
