@@ -105,6 +105,21 @@
   * [Sign-up form](sections/forms/sign-up-form.md)
   * [Tool tip](sections/forms/tool-tip.md)
 
+## Blocks
+
+* [Blocks overview](blocks/README.md)
+* [Rich text](blocks/richtext.md)
+* [Image](blocks/image.md)
+* [Icon](blocks/icon.md)
+* [Container](blocks/g__container.md)
+* [Table row](blocks/_g__table-row.md)
+* [Divider](blocks/divider.md)
+* [Discount](blocks/discount.md)
+* [Countdown](blocks/countdown.md)
+* [Liquid](blocks/liquid.md)
+* [Breadcrumbs](blocks/breadcrumbs.md)
+* [Logo](blocks/logo.md)
+
 ## General
 
 * [Changelog](general/changelog/README.md)
