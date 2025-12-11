@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Theme basics
+# Theme settings
 
