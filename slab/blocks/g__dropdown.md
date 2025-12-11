@@ -17,7 +17,7 @@ A customizable dropdown overlay component that creates an accessible, animated d
 
 ## Compatible blocks
 
-The following blocks can be nested within this block:
+The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
 
 - [Container](g__container.md)
 

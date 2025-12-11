@@ -17,7 +17,7 @@ A customizable store locator block that displays a map with markers for each sto
 
 ## Compatible blocks
 
-The following blocks can be nested within this block:
+The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
 
 - [Location](_g__map-item.md)
 

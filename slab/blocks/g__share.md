@@ -17,7 +17,7 @@ A customizable share component that allows users to easily share content to soci
 
 ## Compatible blocks
 
-The following blocks can be nested within this block:
+The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
 
 - [Container](g__container.md)
 
