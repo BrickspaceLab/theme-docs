@@ -15,11 +15,11 @@ A customizable dropdown overlay component that creates an accessible, animated d
 - Create mobile-friendly navigation patterns
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
-- All theme blocks
+- Container
 
 
 ## Block settings

@@ -15,11 +15,11 @@ A banner block that can display interactive hotspot links overlaid on an image, 
 - Display product details through image hotspots
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
-- Spot (private block)
+- Spot
 
 
 ## Block settings

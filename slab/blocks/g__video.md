@@ -15,11 +15,11 @@ A customizable video block component that supports both native and custom video 
 - Add instructional or educational videos
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
-- All theme blocks
+- Container
 
 
 ## Block settings

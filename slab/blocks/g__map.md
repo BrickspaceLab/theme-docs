@@ -15,11 +15,11 @@ A customizable store locator block that displays a map with markers for each sto
 - Build contact pages with map integration
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
-- Location (private block)
+- Location
 
 
 ## Block settings

@@ -43,17 +43,40 @@ Private blocks (prefixed with `_`) have restricted usage. Document:
 
 **Skip this section entirely for public blocks** (no underscore prefix).
 
-### 5. Child blocks (conditional)
+### 5. Compatible blocks (conditional)
 
-**Only include this section if the block contains `g__` in the filename or uses `{% content_for 'blocks' %}`.**
+**Only include this section if the block can accept nested blocks. Check for:**
+- `{% content_for 'blocks' %}` in the Liquid file
+- `{% content_for 'block', type: ... %}` in the Liquid file
+- `"blocks"` array in the schema with `"type": "@theme"` or `"type": "@app"`
 
-Group blocks can nest child blocks within them. Output a simple bulleted list of the first-level nested blocks:
+**Determining compatible blocks:**
 
-- Use the intro sentence: "This block includes the following nested blocks:"
-- List only the immediate child blocks (not their children)
-- Use friendly translated block names (e.g., "Container" not "g__container")
-- If `"type": "@theme"` is in the schema, list "All theme blocks"
-- If `"type": "@app"` is in the schema, list "App blocks"
+1. **If schema contains `"blocks": [{ "type": "@theme" }]`**:
+   - Use: "These blocks can be used inside this block:"
+   - List: "All theme blocks"
+
+2. **If schema contains `"blocks": [{ "type": "@app" }]`**:
+   - Use: "These blocks can be used inside this block:"
+   - List: "App blocks"
+
+3. **If schema contains both `"type": "@theme"` and `"type": "@app"`**:
+   - Use: "These blocks can be used inside this block:"
+   - List: "All theme blocks" and "App blocks" on separate lines
+
+4. **If Liquid file contains `{% content_for 'blocks' %}`** (without type restriction):
+   - Use: "These blocks can be used inside this block:"
+   - List: "All theme blocks"
+
+5. **If Liquid file contains `{% content_for 'block', type: 'g__container' %}`**:
+   - Use: "These blocks can be used inside this block:"
+   - List: "Container"
+
+6. **If Liquid file contains `{% content_for 'block', type: 'specific_block_type' %}`**:
+   - Use: "These blocks can be used inside this block:"
+   - List the specific block type using friendly translated names (e.g., "Container" not "g__container", "Product card" not "g__product-card")
+
+**Use friendly translated block names** (e.g., "Container" not "g__container", "Product card" not "g__product-card"). Look up block names in `locales/en.default.schema.json` under the `blocks` key.
 
 **Skip this section entirely for blocks that don't support nesting.**
 
@@ -120,6 +143,13 @@ A brief description of what this block does and its primary purpose.
 - Third common use case
 
 
+## Compatible blocks
+
+These blocks can be used inside this block:
+
+- Container
+
+
 ## Block settings
 
 ### Content settings
@@ -161,9 +191,9 @@ A container block for organizing product information in a structured layout.
 This is a private block that can only be used within the product section (`sections/main__product.liquid`). It provides the structured container for product-specific blocks and is not intended for use in other contexts.
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
 - Product title
 - Product price
@@ -224,6 +254,13 @@ The JSON structure uses nested objects, so `t:general.settings.font_size.label` 
 For a block with multiple setting categories (e.g., `blocks/g__video.liquid`):
 
 ```markdown
+## Compatible blocks
+
+These blocks can be used inside this block:
+
+- Container
+
+
 ## Block settings
 
 ### Content settings

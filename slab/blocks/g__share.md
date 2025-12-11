@@ -15,11 +15,11 @@ A customizable share component that allows users to easily share content to soci
 - Provide quick sharing options for articles
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+These blocks can be used inside this block:
 
-- All theme blocks
+- Container
 
 
 ## Block settings
