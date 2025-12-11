@@ -17,7 +17,7 @@ A customizable share component that allows users to easily share content to soci
 
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
 - Container
 

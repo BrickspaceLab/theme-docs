@@ -17,7 +17,7 @@ A banner block that can display interactive hotspot links overlaid on an image, 
 
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
 - Spot
 

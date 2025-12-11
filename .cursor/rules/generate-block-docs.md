@@ -53,27 +53,27 @@ Private blocks (prefixed with `_`) have restricted usage. Document:
 **Determining compatible blocks:**
 
 1. **If schema contains `"blocks": [{ "type": "@theme" }]`**:
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks"
 
 2. **If schema contains `"blocks": [{ "type": "@app" }]`**:
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "App blocks"
 
 3. **If schema contains both `"type": "@theme"` and `"type": "@app"`**:
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks" and "App blocks" on separate lines
 
 4. **If Liquid file contains `{% content_for 'blocks' %}`** (without type restriction):
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks"
 
 5. **If Liquid file contains `{% content_for 'block', type: 'g__container' %}`**:
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "Container"
 
 6. **If Liquid file contains `{% content_for 'block', type: 'specific_block_type' %}`**:
-   - Use: "These blocks can be used inside this block:"
+   - Use: "The following blocks can be nested within this block:"
    - List the specific block type using friendly translated names (e.g., "Container" not "g__container", "Product card" not "g__product-card")
 
 **Use friendly translated block names** (e.g., "Container" not "g__container", "Product card" not "g__product-card"). Look up block names in `locales/en.default.schema.json` under the `blocks` key.
@@ -193,7 +193,7 @@ This is a private block that can only be used within the product section (`secti
 
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
 - Product title
 - Product price
@@ -256,7 +256,7 @@ For a block with multiple setting categories (e.g., `blocks/g__video.liquid`):
 ```markdown
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
 - Container
 

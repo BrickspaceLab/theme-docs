@@ -17,7 +17,7 @@ A customizable video block component that supports both native and custom video 
 
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
 - Container
 
