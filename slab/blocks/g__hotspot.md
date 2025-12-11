@@ -19,7 +19,7 @@ A banner block that can display interactive hotspot links overlaid on an image, 
 
 The following blocks can be nested within this block:
 
-- Spot
+- [Spot](_g__hotspot-spot.md)
 
 
 ## Block settings

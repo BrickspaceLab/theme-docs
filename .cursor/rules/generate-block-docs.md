@@ -70,13 +70,17 @@ Private blocks (prefixed with `_`) have restricted usage. Document:
 
 5. **If Liquid file contains `{% content_for 'block', type: 'g__container' %}`**:
    - Use: "The following blocks can be nested within this block:"
-   - List: "Container"
+   - List: `[Container](g__container.md)`
 
 6. **If Liquid file contains `{% content_for 'block', type: 'specific_block_type' %}`**:
    - Use: "The following blocks can be nested within this block:"
-   - List the specific block type using friendly translated names (e.g., "Container" not "g__container", "Product card" not "g__product-card")
+   - List the specific block type as a clickable markdown link using friendly translated names
+   - Format: `[Block Name](block-filename.md)` where the filename matches the block type (e.g., `[Container](g__container.md)`, `[Product card](g__product-card.md)`, `[Spot](_g__hotspot-spot.md)`)
+   - For private blocks (starting with `_`), use the full filename including the underscore prefix
 
 **Use friendly translated block names** (e.g., "Container" not "g__container", "Product card" not "g__product-card"). Look up block names in `locales/en.default.schema.json` under the `blocks` key.
+
+**Make compatible blocks clickable**: Always format specific block types as markdown links to their documentation files. Use relative paths (e.g., `[Container](g__container.md)`). For generic categories like "All theme blocks" or "App blocks", keep them as plain text (not links).
 
 **Skip this section entirely for blocks that don't support nesting.**
 
@@ -145,9 +149,9 @@ A brief description of what this block does and its primary purpose.
 
 ## Compatible blocks
 
-These blocks can be used inside this block:
+The following blocks can be nested within this block:
 
-- Container
+- [Container](g__container.md)
 
 
 ## Block settings
@@ -195,11 +199,11 @@ This is a private block that can only be used within the product section (`secti
 
 The following blocks can be nested within this block:
 
-- Product title
-- Product price
-- Product options
-- Buy buttons
-- Product description
+- [Product title](product-title.md)
+- [Product price](product-price.md)
+- [Product options](product-options.md)
+- [Buy buttons](buy-buttons.md)
+- [Product description](product-description.md)
 
 
 ## Block settings
@@ -258,7 +262,7 @@ For a block with multiple setting categories (e.g., `blocks/g__video.liquid`):
 
 The following blocks can be nested within this block:
 
-- Container
+- [Container](g__container.md)
 
 
 ## Block settings
