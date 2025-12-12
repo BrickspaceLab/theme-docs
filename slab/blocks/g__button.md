@@ -18,7 +18,7 @@ A customizable button component that renders a link styled as a button with vari
 
 ## Compatible blocks
 
-The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
+The following blocks can be nested within this block:
 
 - [Rich text](richtext.md)
 - [Icon](icon.md)

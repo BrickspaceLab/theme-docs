@@ -17,10 +17,23 @@ A simple horizontal divider component that provides visual separation between co
 
 ## Block settings
 
+### Spacing
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Top spacing | Spacing above the divider | 0 - 300 px (default: 0) |
 | Bottom spacing | Spacing below the divider | 0 - 300 px (default: 0) |
-| Border color | Controls the color of the divider line | Body, Subtle (default), Strong, Primary, Secondary, Tertiary, None |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border color | Controls the color of the divider line | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

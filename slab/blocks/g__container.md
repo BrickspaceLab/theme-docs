@@ -24,12 +24,10 @@ The Container block is used extensively throughout the theme to create structure
 
 ## Compatible blocks
 
-The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
+The following blocks can be nested within this block:
 
 - All theme blocks
 - App blocks
-
-**Note:** "All theme blocks" and "App blocks" are categories that include all available theme or app blocks. Specific block documentation can be found in their individual block pages.
 
 
 ## Block settings
