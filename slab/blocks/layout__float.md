@@ -1,8 +1,10 @@
 # Float
 
+
 ## Overview
 
-A float block that wraps other theme or app blocks and positions them absolutely according to x and y coordinate settings.
+A float block that wraps other theme or app blocks and positions them absolutely according to x and y coordinate settings. Supports responsive positioning for different desktop and mobile layouts with rotation effects for dynamic floating content.
+
 
 ## Common use cases
 
@@ -11,29 +13,56 @@ A float block that wraps other theme or app blocks and positions them absolutely
 - Use responsive positioning for different desktop and mobile layouts
 - Apply rotation effects for dynamic floating content
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
+
+The following blocks can be nested within this block:
 
 - All theme blocks
 - App blocks
 
+
 ## Block settings
+
+### Color
 
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Color scheme | Controls the background and text colors | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent (default) |
-| Color border | Controls the border color | Body (default), Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
+| Color scheme | Controls the background and text colors | • Body<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent (default) |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
 | Enable color difference | Applies mix-blend-difference for visual contrast | Checkbox (default: false) |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
-| Vertical alignment (desktop) | Vertical position percentage on desktop | 0 - 100 % (default: 50) |
-| Horizontal alignment (desktop) | Horizontal position percentage on desktop | 0 - 100 % (default: 50) |
-| Width (desktop) | Width of the floating block as viewport percentage | 5 - 100 % (default: 30) |
-| Rotation (desktop) | Rotation angle in degrees | 0 - 360 deg (default: 15) |
-| Vertical alignment (mobile) | Vertical position percentage on mobile | 0 - 100 % (default: 50) |
-| Horizontal alignment (mobile) | Horizontal position percentage on mobile | 0 - 100 % (default: 50) |
-| Width (mobile) | Width of the floating block as viewport percentage | 5 - 100 % (default: 70) |
-| Rotation (mobile) | Rotation angle in degrees | 0 - 360 deg (default: 15) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
-| Scroll animation | Adds scroll-triggered animations | None (default), Fade, Slide up, Slide down, Slide left, Slide right, Zoom |
 
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Layout (desktop)
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Vertical alignment | Vertical position percentage on desktop | 0 - 100 % (default: 50) |
+| Horizontal alignment | Horizontal position percentage on desktop | 0 - 100 % (default: 50) |
+| Width | Width of the floating block as viewport percentage | 5 - 100 % (default: 30) |
+| Rotation | Rotation angle in degrees | 0 - 360 deg (default: 15) |
+
+
+### Layout (mobile)
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Vertical alignment | Vertical position percentage on mobile | 0 - 100 % (default: 50) |
+| Horizontal alignment | Horizontal position percentage on mobile | 0 - 100 % (default: 50) |
+| Width | Width of the floating block as viewport percentage | 5 - 100 % (default: 70) |
+| Rotation | Rotation angle in degrees | 0 - 360 deg (default: 15) |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
+| Scroll animation | Adds scroll-triggered animations | • None (default)<br>• Fade<br>• Slide up<br>• Slide down<br>• Slide left<br>• Slide right<br>• Zoom |

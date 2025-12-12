@@ -15,22 +15,35 @@ A customizable popup modal component that displays content in an overlay trigger
 - Use appropriate color contrast for overlay background
 
 
-## Child blocks
+## Compatible blocks
 
-This block includes the following nested blocks:
+The following blocks can be nested within this block:
 
-- Container (for popup content)
+- [Container](g__container.md) (for popup content)
 
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Overlay preset | Select a preset overlay ID or use a custom one | Account, Search, Menu, Primary cart, Alternative cart, Age verification, Quick buy, Quick edit, Custom (default) |
-| Overlay ID | Custom identifier for the overlay (used to trigger it programmatically) | Text input. Visible when overlay preset is "Custom" |
+| Overlay preset | Select a preset overlay ID or use a custom one | • Account<br>• Search<br>• Menu<br>• Primary cart<br>• Alternative cart<br>• Age verification<br>• Quick buy<br>• Quick edit<br>• Custom (default) |
+| Overlay ID | Custom identifier for the overlay (used to trigger it programmatically) | Text input<br><br>Visible when overlay preset is "Custom" |
 | Show close button | Displays a close button in the popup | Checkbox (default: false) |
 | Enable full background | Makes the popup background cover the entire viewport | Checkbox (default: false) |
-| Color scheme | Controls the background and text color combination | Body, Neutral, Accent 1 (default), Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent |
-| Border color | Controls the border color | Subtle (default), Strong, None |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text color combination | • Body<br>• Neutral<br>• Accent 1 (default)<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Border color | Controls the border color | • Subtle (default)<br>• Strong<br>• None |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

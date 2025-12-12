@@ -1,8 +1,10 @@
 # Fixed
 
+
 ## Overview
 
-A flexible overlay container component that allows positioning child blocks in fixed positions on the screen corners. Supports both app and theme blocks with customizable corner positioning and z-index control.
+A flexible overlay container component that allows positioning child blocks in fixed positions on the screen corners. Supports both app and theme blocks with customizable corner positioning and z-index control. Ideal for chat widgets, promotional banners, or notification elements.
+
 
 ## Common use cases
 
@@ -10,25 +12,52 @@ A flexible overlay container component that allows positioning child blocks in f
 - Configure position and spacing using the block settings
 - Control visibility for different device sizes
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
+
+The following blocks can be nested within this block:
 
 - All theme blocks
 - App blocks
 
+
 ## Block settings
+
+### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable padding | Adds padding around the overlay content | Checkbox (default: true) |
-| Gap size | Controls spacing between child blocks | None, Default (default), XS, SM, MD, LG, XL |
-| Color scheme | Controls the background and text colors | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent (default: Accent 1) |
-| Color border | Controls the border color | Body (default), Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
-| Rotation | Rotates the overlay content | None (default), Right 90°, Left 90° |
-| Horizontal position | Controls horizontal positioning of the overlay | Left (default), Center, Right |
+| Gap size | Controls spacing between child blocks | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
+
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text colors | • Body<br>• Neutral<br>• Accent 1 (default)<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Rotation | Rotates the overlay content | • None (default)<br>• Right 90°<br>• Left 90° |
+| Horizontal position | Controls horizontal positioning of the overlay | • Left (default)<br>• Center<br>• Right |
 | Vertical position | Controls vertical position as percentage from top | 0 - 100 % (default: 100) |
 | Enable margin | Applies margin based on theme settings | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

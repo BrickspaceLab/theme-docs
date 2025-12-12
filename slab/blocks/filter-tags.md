@@ -17,17 +17,48 @@ Displays a block of filter tags sourced from a collection or blog metafield, all
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Metafield tags | Metafield reference for tags (namespace.key format) | Text input |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Top spacing | Spacing above the tags | 0 - 30 px (default: 0) |
 | Bottom spacing | Spacing below the tags | 0 - 30 px (default: 0) |
 | Enable horizontal padding | Adds horizontal padding around the tags | Checkbox (default: false) |
-| Gap size | Spacing between tags | None, Default (default), Xs, Sm, Md, Lg, Xl |
-| Text color | Controls the text color of tags | Default (default), Alternative, Primary, Secondary, Tertiary, Neutral, Shade |
-| Font family | Controls the font family used for tags | Standard, Heading, Subheading, Accent. Visible when font size contains 'type--' |
-| Font size | Controls the font size of tags | Smaller, Small, Default (default), Big, Bigger, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Heading 6 |
-| Layout | Controls the tag layout direction | Stacked, Inline (default) |
-| Horizontal alignment | Controls horizontal alignment | Left (default), Center, Right |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
+| Gap size | Spacing between tags | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Text color | Controls the text color of tags | • Default (default)<br>• Alternative<br>• Primary<br>• Secondary<br>• Tertiary<br>• Neutral<br>• Shade |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Font family | Controls the font family used for tags | • Standard<br>• Heading<br>• Subheading<br>• Accent<br><br>Visible when font size contains 'type--' |
+| Font size | Controls the font size of tags | • Smaller<br>• Small<br>• Default (default)<br>• Big<br>• Bigger<br>• Heading 1<br>• Heading 2<br>• Heading 3<br>• Heading 4<br>• Heading 5<br>• Heading 6 |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Layout | Controls the tag layout direction | • Stacked<br>• Inline (default) |
+| Horizontal alignment | Controls horizontal alignment | • Left (default)<br>• Center<br>• Right |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

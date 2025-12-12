@@ -18,15 +18,40 @@ A comprehensive breadcrumb navigation component that displays the current page's
 
 ## Block settings
 
+### Spacing
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the breadcrumbs | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the breadcrumbs | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the breadcrumbs | Checkbox (default: false) |
-| Color scheme | Controls the background color scheme | Body (default), Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent |
-| Text color | Controls the text color | Default (default), Alternative, Primary background, Primary foreground, Secondary background, Secondary foreground, Tertiary background, Tertiary foreground, Neutral background, Neutral foreground, Shade |
-| Font family | Controls the font family used for the breadcrumbs | Standard (default), Heading, Subheading, Accent. Visible when font size contains 'type--' |
-| Font size | Controls the font size of the breadcrumbs | Smaller, Small, Default, Big, Bigger, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Heading 6 |
-| Horizontal alignment | Controls horizontal alignment | Left (default), Center, Right |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background color scheme | • Body<br>• Neutral<br>• Accent 1 (default)<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Text color | Controls the text color | • Default (default)<br>• Alternative<br>• Primary background<br>• Primary foreground<br>• Secondary background<br>• Secondary foreground<br>• Tertiary background<br>• Tertiary foreground<br>• Neutral background<br>• Neutral foreground<br>• Shade |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Font family | Controls the font family used for the breadcrumbs | • Standard (default)<br>• Heading<br>• Subheading<br>• Accent<br><br>Visible when font size contains 'type--' |
+| Font size | Controls the font size of the breadcrumbs | • Smaller<br>• Small<br>• Default (default)<br>• Big<br>• Bigger<br>• Heading 1<br>• Heading 2<br>• Heading 3<br>• Heading 4<br>• Heading 5<br>• Heading 6 |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Horizontal alignment | Controls horizontal alignment | • Left (default)<br>• Center<br>• Right |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
