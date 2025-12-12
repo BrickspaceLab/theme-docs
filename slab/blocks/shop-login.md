@@ -16,13 +16,32 @@ A block that displays a login button for the shop.
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Button type | Select the type of button to display | Login (default), Follow |
+| Button type | Select the type of button to display | • Login (default)<br>• Follow |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the button | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the button | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the button | Checkbox (default: false) |
-| Horizontal alignment | Controls horizontal text alignment | Left (default), Center, Right. Visible when enable full width is false or button type is "follow" |
-| Enable full width | Makes the button span the full width of its container | Checkbox (default: false). Visible when button type is "login" |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Horizontal alignment | Controls horizontal text alignment | • Left (default)<br>• Center<br>• Right<br><br>Visible when enable full width is false or button type is "follow" |
+| Enable full width | Makes the button span the full width of its container | Checkbox (default: false)<br><br>Visible when button type is "login" |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

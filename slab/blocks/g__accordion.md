@@ -1,8 +1,10 @@
 # Accordion
 
+
 ## Overview
 
 A collapsible accordion container that provides an expandable/collapsible content area with a header button. Uses Alpine.js for toggle functionality and includes smooth animations when enabled.
+
 
 ## Common use cases
 
@@ -11,14 +13,18 @@ A collapsible accordion container that provides an expandable/collapsible conten
 - Group related content that can be expanded on demand
 - Enable pre-opened option to show content by default
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Container (for accordion label)
-- Container (for accordion content)
+The following blocks can be nested within this block:
+
+- [Container](g__container.md) (for accordion label)
+- [Container](g__container.md) (for accordion content)
+
 
 ## Block settings
+
+### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
@@ -26,10 +32,27 @@ This block includes the following nested blocks:
 | Enable horizontal padding | Adds horizontal padding around the accordion | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the accordion | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the accordion | Checkbox (default: false) |
-| Color scheme | Controls the background and text colors | Body (default), Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent |
-| Color border | Controls the border color | Body (default), Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
+
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text colors | • Body (default)<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable pre opened | Opens the accordion by default | Checkbox (default: false) |
 | Enable single open | Allows only one accordion item to be open at a time | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
-
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

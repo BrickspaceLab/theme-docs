@@ -16,12 +16,31 @@ A customizable discount code display component that allows users to easily copy 
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Discount code | The discount code to display | Text input (default: SAVE10) |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the content | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the content | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the content | Checkbox (default: false) |
-| Button color | Controls the color style of the copy button | Primary, Secondary (default), Tertiary, Neutral, Plain, Outline, Inverted outline, Blur |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Button color | Controls the color style of the copy button | • Primary<br>• Secondary (default)<br>• Tertiary<br>• Neutral<br>• Plain<br>• Outline<br>• Inverted outline<br>• Blur |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
