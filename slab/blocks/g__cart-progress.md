@@ -1,39 +1,75 @@
 # Progress bar
 
+
 ## Overview
 
-A cart progress block that displays a visual progress bar showing how close customers are to reaching free shipping or other cart value thresholds. Includes tier indicators and dynamic messaging based on cart value.
+A dynamic cart progress bar that displays visual progress toward cart-based rewards or discounts. Shows a progress bar with tier indicators and customizable messages based on cart value. Uses Alpine.js for real-time cart calculations and displays tier messages when thresholds are reached.
+
 
 ## Common use cases
 
-- Encourage customers to add more items to reach free shipping thresholds
-- Configure multiple tiers for different reward levels
-- Display progress visually with customizable colors and messaging
-- Use with tier blocks to define specific thresholds and messages
+- Encourage customers to reach free shipping thresholds
+- Display progress toward discount tiers or rewards
+- Show visual indicators for cart value milestones
+- Customize tier messages and thresholds for different reward levels
+- Use in cart drawers or checkout pages to incentivize additional purchases
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Progress tier
+The following blocks can be nested within this block:
+
+- [Progress tier](_g__cart-progress-tier.md)
+
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Progress bar calculation | Select which cart value to use for progress calculation | Subtotal, Total (default) |
+| Progress bar calculation | Method used to calculate progress | • Subtotal<br>• Total (default) |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the progress bar | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the progress bar | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the progress bar | Checkbox (default: false) |
 | Enable internal padding | Adds internal padding to the tier message | Checkbox (default: true) |
-| Gap size | Controls spacing between child blocks | None, Default (default), XS, SM, MD, LG, XL |
-| Color bar | Controls the color scheme for the progress bar fill | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary (default), Secondary, Tertiary, Blur, Transparent |
-| Color scheme | Controls the background and text colors for the tier message | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent (default: Neutral) |
-| Color text | Controls the text color | Default (default), Alternative, Primary background, Primary foreground, Secondary background, Secondary foreground, Tertiary background, Tertiary foreground, Neutral background, Neutral foreground, Shade |
-| Color border | Controls the border color | Body (default), Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
-| Font family | Controls the font family | Standard (default), Heading, Subheading, Accent. Visible when font size contains type-- |
-| Font size | Controls the font size | Smaller, Small, Default (default), Big, Bigger, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Heading 6 |
-| Horizontal alignment | Controls horizontal text alignment | Left (default), Center, Right |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
+| Gap size | Spacing between progress bar elements | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color bar | Controls the progress bar fill color | • Body<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Color scheme | Controls the background and text colors for tier messages | • Body<br>• Neutral (default)<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Color text | Controls the text color for tier messages | • Default (default)<br>• Alternative<br>• Primary background<br>• Primary foreground<br>• Secondary background<br>• Secondary foreground<br>• Tertiary background<br>• Tertiary foreground<br>• Neutral background<br>• Neutral foreground<br>• Shade |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Font family | Font family for tier messages | • Standard<br>• Heading<br>• Subheading<br>• Accent<br><br>Visible when font size contains type-- |
+| Font size | Font size for tier messages | • Smaller<br>• Small (default)<br>• Default<br>• Big<br>• Bigger<br>• Heading 1<br>• Heading 2<br>• Heading 3<br>• Heading 4<br>• Heading 5<br>• Heading 6 |
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Horizontal alignment | Controls horizontal alignment of the progress bar | • Left (default)<br>• Center<br>• Justify<br>• Right |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

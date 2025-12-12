@@ -53,27 +53,27 @@ Private blocks (prefixed with `_`) have restricted usage. Document:
 **Determining compatible blocks:**
 
 1. **If schema contains `"blocks": [{ "type": "@theme" }]`**:
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks"
 
 2. **If schema contains `"blocks": [{ "type": "@app" }]`**:
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "App blocks"
 
 3. **If schema contains both `"type": "@theme"` and `"type": "@app"`**:
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks" and "App blocks" on separate lines
 
 4. **If Liquid file contains `{% content_for 'blocks' %}`** (without type restriction):
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List: "All theme blocks"
 
 5. **If Liquid file contains `{% content_for 'block', type: 'g__container' %}`**:
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List: `[Container](g__container.md)`
 
 6. **If Liquid file contains `{% content_for 'block', type: 'specific_block_type' %}`**:
-   - Use: "The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:"
+   - Use: "The following blocks can be nested within this block:"
    - List the specific block type as a clickable markdown link using friendly translated names
    - Format: `[Block Name](block-filename.md)` where the filename matches the block type (e.g., `[Container](g__container.md)`, `[Product card](g__product-card.md)`, `[Spot](_g__hotspot-spot.md)`)
    - For private blocks (starting with `_`), use the full filename including the underscore prefix
@@ -197,7 +197,7 @@ This is a private block that can only be used within the product section (`secti
 
 ## Compatible blocks
 
-The following blocks can be nested within this block - click the listed blocks below for more detailed documentation:
+The following blocks can be nested within this block:
 
 - [Product title](product-title.md)
 - [Product price](product-price.md)
