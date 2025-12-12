@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Contact support
 
 Email support is available Monday to Friday with a typical 3-day response time. For immediate answers visit join the developer [community on Discord](https://discord.gg/4qdBFhmzCR). Shopify support is often the best option for platform issues or third party integrations.

@@ -32,11 +32,9 @@ To display ratings and reviews properly in our Shopify themes, a standard metafi
 
 {% code title="component__rating.liquid" %}
 ```liquid
-{% raw %}
 {% assign rating = product.metafields.loox.avg_rating | times: 1 %}
 {% assign rating_count = product.metafields.loox.num_reviews  %}
 {% assign max = 5 %}
-{% endraw %}
 ```
 {% endcode %}
 {% endstep %}

@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,8 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
     visible: true
 ---
 
@@ -37,10 +40,8 @@ If you want to install a code snippet across your entire site then you can move 
 {% endstep %}
 
 {% step %}
-### Save your changes
+#### Save your changes
 
 Click **Save**
 {% endstep %}
 {% endstepper %}
-
-

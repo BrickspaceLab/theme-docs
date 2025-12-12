@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Improve page speed
 
 ### How does page speed impact your business <a href="#h_029076d4e0" id="h_029076d4e0"></a>

@@ -39,45 +39,36 @@ Please ensure you have a valid license to use the font you are trying to install
 * Open up the theme editor and select `theme__styles.liquid` from within the snippets folder
 *   Add the below code after the `{% style %}` tag. Be sure to replace `MY_FONT` with your font name and ensure the URLs are correctly linking to your uploaded font.
 
-    {% code title="theme__styles.liquid" %}
-    ```css
-    @font-face { 
+    <pre class="language-css" data-title="theme__styles.liquid"><code class="lang-css">@font-face { 
       font-family: "MY_FONT"; 
       src: url('{{ "MY_FONT.woff2" | file_url }}') format("woff2"),  
         url('{{ "MY_FONT.woff" | file_url }}') format("woff"); 
     }
-    ```
-    {% endcode %}
+    </code></pre>
 
 
 
 *   From here you can include your font by updating the below code inside the same file. The variables `--type-font-body-family` , `--type-font-header-family` and `--type-font-nav-family` control the font family used for body, headings and navigation text.
 
-    {% code title="theme__styles.liquid" %}
-    ```css
-    --type-font-body-family: {{ settings.type_font_body.family }}, {{ settings.type_font_body.fallback_families }};
+    <pre class="language-css" data-title="theme__styles.liquid"><code class="lang-css">--type-font-body-family: {{ settings.type_font_body.family }}, {{ settings.type_font_body.fallback_families }};
     --type-font-body-style: {{ settings.type_font_body.style }}; 
     --type-font-body-weight: {{ settings.type_font_body.weight }}; 
     --type-font-header-family: {{ settings.type_font_heading.family }}, {{ settings.type_font_heading.fallback_families }};
     --type-font-header-style: {{ settings.type_font_heading.style }}; --type-font-header-weight: {{ settings.type_font_heading.weight }}; 
     --type-font-nav-family: {{ settings.type_font_nav.family }}, {{ settings.type_font_nav.fallback_families }};
-    ```
-    {% endcode %}
+    </code></pre>
 
 
 
 *   The updated code should look something like this
 
-    {% code title="theme__styles.liquid" %}
-    ```css
-    --type-font-body-family: 'MY_FONT';
+    <pre class="language-css" data-title="theme__styles.liquid"><code class="lang-css">--type-font-body-family: 'MY_FONT';
     --type-font-body-style: {{ settings.type_font_body.style }};
     --type-font-body-weight: {{ settings.type_font_body.weight }}; 
     --type-font-header-family: 'MY_FONT'; 
     --type-font-header-style: {{ settings.type_font_heading.style }}; --type-font-header-weight: {{ settings.type_font_heading.weight }}; 
     --type-font-nav-family: 'MY_FONT';
-    ```
-    {% endcode %}
+    </code></pre>
 {% endstep %}
 {% endstepper %}
 

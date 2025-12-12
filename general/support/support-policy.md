@@ -23,8 +23,7 @@ Our support includes bug fixes and questions about built-in features and functio
 * ❌ Design or code customizations.
 * ❌ Installing theme updates.
 
-\
-
+<br>
 
 ### Support limitations
 
