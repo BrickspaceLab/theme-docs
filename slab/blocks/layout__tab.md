@@ -1,36 +1,66 @@
 # Tabs
 
+
 ## Overview
 
-A flexible container component that provides customizable tab layout options for child blocks. Ability to show multiple containers that can be toggled with tabs.
+A flexible container component that provides customizable tab layout options for child blocks. Ability to show multiple containers that can be toggled with tabs. Uses Alpine.js for tab switching functionality with smooth transitions between tab content.
+
 
 ## Common use cases
 
-- Organize content into separate tabbed sections
+- Organize content into multiple tabbed sections
 - Create product detail tabs (description, specifications, reviews)
-- Group related content that can be toggled between
-- Use comma-separated tab names to define tab labels
+- Display different content views that can be toggled
+- Group related information into separate tab panels
+- Use for FAQ sections or multi-step content organization
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Tab item
+The following blocks can be nested within this block:
+
+- [Tab item](_g__tab-item.md)
+
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Tabs | Comma-separated list of tab names | Text input |
+| Tabs | Comma-separated list of tab names (e.g., "Tab 1, Tab 2, Tab 3") | Text input |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Top spacing | Padding space at the top of the container | 0 - 300 px (default: 0) |
 | Bottom spacing | Padding space at the bottom of the container | 0 - 300 px (default: 0) |
-| Enable internal padding | Adds internal padding to the tab buttons | Checkbox (default: false) |
-| Gap size | Controls spacing between tab buttons | None, Default (default), XS, SM, MD, LG, XL |
-| Color scheme | Controls the background and text colors | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent (default) |
-| Color border | Controls the border color | Subtle (default), Strong. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
-| Font family | Controls the font family for tab labels | Standard (default), Heading, Subheading, Accent. Visible when font size contains type-- |
-| Font size | Controls the font size for tab labels | Smaller, Small, Default (default), Big, Bigger, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Heading 6 |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
-| Scroll animation | Adds scroll-triggered animations | None (default), Fade, Slide up, Slide down, Slide left, Slide right, Zoom |
+| Enable internal padding | Adds horizontal padding inside the tab header | Checkbox (default: false) |
+| Gap size | Controls spacing between tab buttons | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text colors for the tab header | • Body<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent (default) |
+| Color border | Controls the border color | • Subtle (default)<br>• Strong<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Font family | Font family for tab button text | • Standard<br>• Heading<br>• Subheading<br>• Accent<br><br>Visible when font size contains type-- |
+| Font size | Font size for tab button text | • Smaller<br>• Small<br>• Default (default)<br>• Big<br>• Bigger<br>• Heading 1<br>• Heading 2<br>• Heading 3<br>• Heading 4<br>• Heading 5<br>• Heading 6 |
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
+| Scroll animation | Adds scroll-triggered animations | • None (default)<br>• Fade<br>• Slide up<br>• Slide down<br>• Slide left<br>• Slide right<br>• Zoom |

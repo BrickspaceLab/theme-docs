@@ -1,8 +1,10 @@
 # Default grid
 
+
 ## Overview
 
-A flexible grid container component that allows for dynamic layout configuration of child blocks. Supports both app and theme blocks in a responsive grid layout with customizable columns for desktop and mobile views.
+A flexible grid container component that allows for dynamic layout configuration of child blocks. Supports both app and theme blocks in a responsive grid layout with customizable columns for desktop and mobile views. Ideal for product grids, image galleries, or any content that benefits from a grid structure.
+
 
 ## Common use cases
 
@@ -11,33 +13,60 @@ A flexible grid container component that allows for dynamic layout configuration
 - Use gap settings to control spacing between grid items
 - Enable scroll animations for dynamic content reveals
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Grid products
-- Grid articles
-- Grid collections
-- Grid gallery
-- Grid recommendations
-- Grid recent
-- Grid item
+The following blocks can be nested within this block:
+
+- [Grid products](_grid-products.md)
+- [Grid articles](_grid-articles.md)
+- [Grid collections](_grid-collections.md)
+- [Grid gallery](_grid-gallery.md)
+- [Grid recommendations](_grid-recommendations.md)
+- [Grid recent](_grid-recent.md)
+- [Grid item](_g__grid-item.md)
 - All theme blocks
 - App blocks
 
+
 ## Block settings
+
+### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Top spacing | Padding space at the top of the container | 0 - 300 px (default: 0) |
 | Bottom spacing | Padding space at the bottom of the container | 0 - 300 px (default: 0) |
 | Enable horizontal padding | Adds horizontal padding around the container | Checkbox (default: false) |
-| Gap size | Controls spacing between grid items | None, Default (default), XS, SM, MD, LG, XL |
-| Color scheme | Controls the background and text colors | Body, Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent (default) |
-| Color border | Controls the border color | Body (default), Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
+| Gap size | Controls spacing between grid items | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
+
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text colors | • Body<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent (default) |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Row desktop | Number of columns in grid on desktop | 1 - 8 (default: 5) |
 | Row mobile | Number of columns in grid on mobile | 1 - 3 (default: 2) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
-| Scroll animation | Adds scroll-triggered animations | None (default), Fade, Slide up, Slide down, Slide left, Slide right, Zoom |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
+| Scroll animation | Adds scroll-triggered animations | • None (default)<br>• Fade<br>• Slide up<br>• Slide down<br>• Slide left<br>• Slide right<br>• Zoom |

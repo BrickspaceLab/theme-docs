@@ -1,30 +1,48 @@
 # Contact form
 
+
 ## Overview
 
-A flexible contact form container that serves as a wrapper for form input blocks. Handles form submission, error display, and success messages while providing customizable padding and visibility options.
+A flexible contact form container that serves as a wrapper for form input blocks. Handles form submission, error display, and success messages while providing customizable padding and visibility options. Supports multiple form input types through nested blocks and handles form validation automatically.
+
 
 ## Common use cases
 
-- Create contact forms for customer inquiries
+- Create contact forms for customer inquiries and support requests
 - Add form input blocks in a logical order for user flow
 - Configure success message for clear user feedback
-- Use form input and button blocks to build the complete form
+- Customize form styling to match your theme design
+- Use responsive visibility to show forms on specific devices
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Form input
-- Button
+The following blocks can be nested within this block:
+
+- [Input field](form-input.md)
+- [Button](g__button.md)
+
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Success message | Message displayed after successful form submission | Rich text input |
+| Success message | Custom message shown after successful form submission | Rich text input |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the form | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the form | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the form | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

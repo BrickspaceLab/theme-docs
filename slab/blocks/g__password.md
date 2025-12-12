@@ -1,32 +1,55 @@
 # Password form
 
+
 ## Overview
 
-A customizable password form block that allows customers to enter a password to access a store. Features responsive layout options, flexible styling, and customizable success messages.
+A customizable password form block that allows customers to enter a password to access a store. Features responsive layout options, flexible styling, and customizable success messages. Supports both stacked and inline layouts with error handling and success message display.
+
 
 ## Common use cases
 
-- Use for password-protected store access
-- Add a compelling success message to confirm access
-- Choose button colors that contrast well with your theme
+- Protect store access with password authentication
 - Use stacked layout for mobile-first designs
+- Choose button colors that contrast well with your theme
 - Consider using padding options when placed within other content blocks
+- Test the form across different screen sizes to ensure optimal layout
 
-## Child blocks
 
-This block includes the following nested blocks:
+## Compatible blocks
 
-- Form input
-- Button
+The following blocks can be nested within this block:
+
+- [Input field](form-input.md)
+- [Button](g__button.md)
+
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Success message | Message displayed after successful password entry | Rich text input |
+| Success message | Custom message shown after successful password entry | Rich text input |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the form | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the form | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the form | Checkbox (default: false) |
-| Layout | Form layout style | Stacked, Inline (default) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Layout | Form layout style | • Stacked<br>• Inline (default) |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |
