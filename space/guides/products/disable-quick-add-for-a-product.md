@@ -1,4 +1,4 @@
-# Disable "quick add" for a product
+# Disable "quick add"
 
 ## Space: Disable "quick add" for a product
 
@@ -17,4 +17,4 @@ The Quick add feature can be disabled for individual products. This may be usefu
 3. Enter “disable\_quick\_add”
 4. Click Save
 
-\
+<br>

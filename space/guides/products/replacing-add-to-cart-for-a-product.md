@@ -1,4 +1,4 @@
-# Replacing "Add to cart" for a product
+# Replacing "Add to cart"
 
 ## Space: Replacing "Add to cart" for a product
 
@@ -27,4 +27,4 @@ The “Add to cart” text can be customized for each product using metafields. 
 
 * Metafields can also be updated using the bulk editor
 
-\
+<br>

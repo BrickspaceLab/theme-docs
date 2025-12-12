@@ -18,4 +18,4 @@ After editing your theme and previewing it across different devices you may find
 4. Click into one of the sections and scroll down to Display then click Show on desktop only.
 5. Thats it! Now you have two sections that each only display on mobile and desktop separately.
 
-\
+<br>

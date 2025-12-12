@@ -1,4 +1,4 @@
-# Adding product subtitles
+# Product subtitles
 
 ## Space: Adding product subtitles
 
@@ -37,4 +37,4 @@ Taglines or subtitles can be included using Metafields. This can be used to show
 
 * Metafields can also be updated using the bulk editor
 
-[![](https://downloads.intercomcdn.com/i/o/1200197773/98d6083736fd1075317aaeeb/Untitled.png?expires=1744834500\&signature=bb14086b650b1a43135e9e262b73835bf4413ca76d022121fb8e93188f61e69c\&req=dSInFsh3moZYWvMW1HO4zR7SCgg%2Bufz1x%2F66i9d512KVAtdc2u%2BentGdqCqA%0Asba1YEfAMBVz9GR%2FKrU%3D%0A)](https://downloads.intercomcdn.com/i/o/1200197773/98d6083736fd1075317aaeeb/Untitled.png?expires=1744834500\&signature=bb14086b650b1a43135e9e262b73835bf4413ca76d022121fb8e93188f61e69c\&req=dSInFsh3moZYWvMW1HO4zR7SCgg%2Bufz1x%2F66i9d512KVAtdc2u%2BentGdqCqA%0Asba1YEfAMBVz9GR%2FKrU%3D%0A)\
+[![](https://downloads.intercomcdn.com/i/o/1200197773/98d6083736fd1075317aaeeb/Untitled.png?expires=1744834500\&signature=bb14086b650b1a43135e9e262b73835bf4413ca76d022121fb8e93188f61e69c\&req=dSInFsh3moZYWvMW1HO4zR7SCgg%2Bufz1x%2F66i9d512KVAtdc2u%2BentGdqCqA%0Asba1YEfAMBVz9GR%2FKrU%3D%0A)](https://downloads.intercomcdn.com/i/o/1200197773/98d6083736fd1075317aaeeb/Untitled.png?expires=1744834500\&signature=bb14086b650b1a43135e9e262b73835bf4413ca76d022121fb8e93188f61e69c\&req=dSInFsh3moZYWvMW1HO4zR7SCgg%2Bufz1x%2F66i9d512KVAtdc2u%2BentGdqCqA%0Asba1YEfAMBVz9GR%2FKrU%3D%0A)<br>
