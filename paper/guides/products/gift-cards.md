@@ -10,8 +10,7 @@ Gift cards are a great way to boost sales for holiday seasons or special promoti
 
 <summary><strong>How do I ensure gift cards are sent</strong></summary>
 
-Gift cards will be emailed to your customers only after order notifications are sent. To do this, navigate to an order on your Shopify account with a gift card. Click **Fulfill items**, then select **Send a** [**notification**](https://admin.shopify.com/store/brickspacetestingstore/email_templates/shipping_confirmation/preview) **to the customer**, then click **Fulfill items**\
-
+Gift cards will be emailed to your customers only after order notifications are sent. To do this, navigate to an order on your Shopify account with a gift card. Click **Fulfill items**, then select **Send a** [**notification**](https://admin.shopify.com/store/brickspacetestingstore/email_templates/shipping_confirmation/preview) **to the customer**, then click **Fulfill items**<br>
 
 <figure><img src="../../.gitbook/assets/CleanShot 2025-04-30 at 23.23.47@2x.png" alt=""><figcaption></figcaption></figure>
 

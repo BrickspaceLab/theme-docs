@@ -48,8 +48,6 @@
 
 ## Sections
 
-***
-
 * [Sitewide](sitewide/README.md)
   * [Header](sitewide/header.md)
   * [Cart drawer](sitewide/cart-drawer.md)
@@ -90,7 +88,8 @@
 ## General
 
 * [Changelog](general/changelog/README.md)
-  * [v8.1.0](general/changelog/v8.1.0.md)
+  * [v8.1.1](general/changelog/v8.1.0.md)
+  * [v8.1.0](general/changelog/v8.1.0-1.md)
   * [v8.0.5](general/changelog/v8.0.5.md)
   * [v8.0.4](general/changelog/v8.0.4.md)
   * [v8.0.3](general/changelog/v8.0.3.md)
