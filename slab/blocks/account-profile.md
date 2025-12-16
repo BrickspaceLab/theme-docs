@@ -1,8 +1,10 @@
 # Account profile
 
+
 ## Overview
 
 A customer profile block that displays the customer's name, email, and logout option. Shows the customer's first initial in a circular avatar, followed by their full name and email address. Includes a logout button at the bottom.
+
 
 ## Common use cases
 
@@ -11,9 +13,7 @@ A customer profile block that displays the customer's name, email, and logout op
 - Add translation strings for customer name labels if internationalization is needed
 - Consider adding additional account management options beyond just logout
 
+
 ## Block settings
 
-| Setting | Description | Options |
-|---------|-------------|---------|
-| (No configurable settings) | This block has no configurable settings | - |
-
+This block has no configurable settings.

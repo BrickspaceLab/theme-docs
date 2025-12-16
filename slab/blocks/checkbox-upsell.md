@@ -1,8 +1,10 @@
 # Upsell checkbox
 
+
 ## Overview
 
 A configurable checkbox component that enables quick product upselling by adding/removing a selected product to/from the cart when checked/unchecked.
+
 
 ## Common use cases
 
@@ -11,14 +13,28 @@ A configurable checkbox component that enables quick product upselling by adding
 - Consider visibility settings for different device types based on your upsell strategy
 - Ensure a product is selected in block settings before using this block
 
+
 ## Block settings
+
+### Content
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Product | Select the product to upsell | Product picker |
 | Label | Label text for the checkbox | Rich text input |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the checkbox | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the checkbox | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the checkbox | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

@@ -16,8 +16,15 @@ A country/currency selector block that displays a list of available countries wi
 
 ## Block settings
 
+### Spacing
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable internal padding | Adds internal padding to the country list | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

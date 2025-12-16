@@ -1,8 +1,10 @@
 # Cart results
 
+
 ## Overview
 
 Displays cart items in a customizable container with configurable padding and responsive visibility options. Uses Alpine.js to iterate through grouped cart items and renders the template__cart-item snippet for each item group.
+
 
 ## Common use cases
 
@@ -11,12 +13,20 @@ Displays cart items in a customizable container with configurable padding and re
 - Consider visibility settings when using multiple cart item blocks for responsive layouts
 - Configure padding to match your theme's spacing system
 
+
 ## Block settings
+
+### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the cart items | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the cart items | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the cart items | Checkbox (default: false) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

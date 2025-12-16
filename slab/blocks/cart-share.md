@@ -1,8 +1,10 @@
 # Share cart
 
+
 ## Overview
 
 A reusable cart sharing component that generates a shareable cart URL and provides a copy-to-clipboard button, displayed only when items are in the cart.
+
 
 ## Common use cases
 
@@ -11,13 +13,27 @@ A reusable cart sharing component that generates a shareable cart URL and provid
 - Consider adding visual feedback when URL is copied beyond text change
 - Configure button color to match your theme's design system
 
+
 ## Block settings
+
+### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the share cart component | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the share cart component | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the share cart component | Checkbox (default: false) |
-| Button color | Controls the button color scheme | Primary, Secondary (default), Tertiary, Neutral, Plain, Outline, Inverted outline, Blur |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Button color | Controls the button color scheme | • Primary<br>• Secondary (default)<br>• Tertiary<br>• Neutral<br>• Plain<br>• Outline<br>• Inverted outline<br>• Blur |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

@@ -17,12 +17,31 @@ A flexible custom liquid code block that allows merchants to add custom liquid c
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Liquid | Custom liquid code to execute | Liquid input (default: {{ shop.name }}) |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the content | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the content | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the content | Checkbox (default: false) |
-| Horizontal alignment | Controls horizontal text alignment | Left (default), Center, Justify, Right |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Horizontal alignment | Controls horizontal text alignment | • Left (default)<br>• Center<br>• Justify<br>• Right |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

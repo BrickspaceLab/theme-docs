@@ -1,12 +1,15 @@
 # Slider recommendations
 
+
 ## Block limitations
 
 This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `layout__slider` block.
 
+
 ## Overview
 
 A dynamic product recommendations block that displays recommended products in a horizontal slider layout with scroll snap behavior. This block uses Alpine.js to asynchronously load product recommendations from Shopify's recommendation engine based on a source product. Products are displayed as horizontally scrollable cards with configurable widths and support for filtering by tags, cart status, and responsive visibility options.
+
 
 ## Common use cases
 
@@ -18,20 +21,30 @@ A dynamic product recommendations block that displays recommended products in a 
 - The block works best when placed on product pages, cart pages, or thank you pages
 - Best suited for contexts where horizontal scrolling is preferred over a static grid layout
 
-## Child blocks
-
-This block does not support child blocks.
 
 ## Block settings
 
+### Content
+
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Intent | Recommendation type | Related (default), Complementary |
+| Intent | Recommendation type | • Related (default)<br>• Complementary |
 | Product | Source product for recommendations | Product picker |
 | Item count | Number of recommendations to display | Number (default: 5) |
 | Filter by tag | Filter recommendations by a specific tag | Text input |
 | Show products in cart | Displays products even if they're already in the cart | Checkbox (default: true) |
+
+
+### Spacing
+
+| Setting | Description | Options |
+|---------|-------------|---------|
 | Width mobile | Width of each slider item on mobile | 5 - 100 % (default: 80) |
 | Width desktop | Width of each slider item on desktop | 5 - 100 % (default: 20) |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

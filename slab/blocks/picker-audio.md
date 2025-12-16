@@ -16,13 +16,38 @@ A form block component that provides audio enable/disable radio button controls 
 
 ## Block settings
 
+### Spacing
+
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable horizontal padding | Adds horizontal padding around the control | Checkbox (default: false) |
 | Enable top padding | Adds top padding around the control | Checkbox (default: false) |
 | Enable bottom padding | Adds bottom padding around the control | Checkbox (default: false) |
-| Button color | Controls the button color scheme | Primary, Secondary, Tertiary, Neutral, Plain, Outline, Inverted outline, Blur, Link (default), Inverted link |
-| Button size | Controls the button size | Extra small, Small (default), Standard, Large |
-| Horizontal alignment | Controls horizontal alignment | Left (default), Center, Full, Right |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Button color | Controls the button color scheme | • Primary<br>• Secondary<br>• Tertiary<br>• Neutral<br>• Plain<br>• Outline<br>• Inverted outline<br>• Blur<br>• Link (default)<br>• Inverted link |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Button size | Controls the button size | • Extra small<br>• Small (default)<br>• Standard<br>• Large |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Horizontal alignment | Controls horizontal alignment | • Left (default)<br>• Center<br>• Full<br>• Right |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

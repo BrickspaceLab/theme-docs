@@ -1,12 +1,15 @@
 # Product gallery
 
+
 ## Overview
 
 A grid gallery block that displays media from a selected product. It iterates through the selected product's media to display images, videos, external videos, and 3D models. The block is highly customizable, supporting various styling options including color schemes, border configurations, and responsive visibility settings.
 
+
 ## Block limitations
 
 This is a private block. It is intended for use only within specific parent blocks and should not be added directly to sections.
+
 
 ## Common use cases
 
@@ -17,22 +20,44 @@ This is a private block. It is intended for use only within specific parent bloc
 - Use visibility options to create responsive layouts, showing different gallery configurations on mobile and desktop
 - Enable variant images to show different images based on selected product variants
 
-## Child blocks
-
-This block has no nested child blocks. Media is automatically rendered from the selected product.
 
 ## Block settings
+
+### Content
 
 | Setting | Description | Options |
 |---------|-------------|---------|
 | Enable variant images | Shows different images based on selected product variants | Checkbox (default: false) |
 | Product | Select the product to display media from | Product picker |
 | Item count | Number of media items to display (0 = all media) | Number input (default: 7) |
-| Color scheme | Controls the background and text colors | Body (default), Neutral, Accent 1, Accent 2, Accent 3, Shade 1, Shade 2, Shade 3, Primary, Secondary, Tertiary, Blur, Transparent |
-| Color border | Controls the border color | Body, Subtle (default), Strong, Primary, Secondary, Tertiary, None. Visible when border position is not blank |
-| Border position | Controls where borders appear | None (default), Top, Bottom, Left, Right, Top and bottom, Left and right, All |
-| Enable aspect ratio | Maintains consistent aspect ratio for all media items | Checkbox (default: false) |
-| Show entire image | Displays entire image without cropping | Checkbox (default: true). Visible when enable aspect ratio is true |
-| Aspect ratio | Aspect ratio for media items | Square, Landscape, Portrait, None. Visible when enable aspect ratio is true |
-| Visibility | Controls when the block is visible | All (default), Mobile only, Desktop only |
 
+
+### Color
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Color scheme | Controls the background and text colors | • Body (default)<br>• Neutral<br>• Accent 1<br>• Accent 2<br>• Accent 3<br>• Shade 1<br>• Shade 2<br>• Shade 3<br>• Primary<br>• Secondary<br>• Tertiary<br>• Blur<br>• Transparent |
+| Color border | Controls the border color | • Body<br>• Subtle (default)<br>• Strong<br>• Primary<br>• Secondary<br>• Tertiary<br>• None<br><br>Visible when border position is not blank |
+
+
+### Style
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Border position | Controls where borders appear | • None (default)<br>• Top<br>• Bottom<br>• Left<br>• Right<br>• Top and bottom<br>• Left and right<br>• All |
+
+
+### Layout
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Enable aspect ratio | Maintains consistent aspect ratio for all media items | Checkbox (default: false) |
+| Show entire image | Displays entire image without cropping | Checkbox (default: true)<br><br>Visible when enable aspect ratio is true |
+| Aspect ratio | Aspect ratio for media items | • Square<br>• Landscape<br>• Portrait<br>• None<br><br>Visible when enable aspect ratio is true |
+
+
+### Display
+
+| Setting | Description | Options |
+|---------|-------------|---------|
+| Visibility | Controls when the block is visible | • All (default)<br>• Mobile only<br>• Desktop only |

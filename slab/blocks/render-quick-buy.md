@@ -16,7 +16,4 @@ A block for rendering a quick buy interface, allowing users to quickly purchase 
 
 ## Block settings
 
-| Setting | Description | Options |
-|---------|-------------|---------|
-| (No configurable settings) | This block has no configurable settings | - |
-
+This block has no configurable settings.
