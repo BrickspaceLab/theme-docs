@@ -22,7 +22,7 @@ This is a private block. It is intended for use only within specific parent bloc
 
 The following blocks can be nested within this block:
 
-- [Article card](g__article-card.md)
+- [Article card](article-card.md)
 
 
 ## Block settings

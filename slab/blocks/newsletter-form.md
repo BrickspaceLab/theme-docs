@@ -1,16 +1,17 @@
-# Password form
+# Newsletter form
 
 
 ## Overview
 
-A customizable password form block that allows customers to enter a password to access a store. Features responsive layout options, flexible styling, and customizable success messages. Supports both stacked and inline layouts with error handling and success message display.
+A customizable newsletter signup form block that allows customers to subscribe to your store's mailing list. Features responsive layout options, flexible styling, and customizable success messages. Subscribes users to the Shopify customer mailing list and supports both stacked and inline layouts with error handling and success message display.
 
 
 ## Common use cases
 
-- Protect store access with password authentication
-- Use stacked layout for mobile-first designs
+- Collect email addresses for marketing campaigns and newsletters
+- Add a compelling success message to confirm subscriptions
 - Choose button colors that contrast well with your theme
+- Use stacked layout for mobile-first designs
 - Consider using padding options when placed within other content blocks
 - Test the form across different screen sizes to ensure optimal layout
 
@@ -20,7 +21,7 @@ A customizable password form block that allows customers to enter a password to 
 The following blocks can be nested within this block:
 
 - [Input field](form-input.md)
-- [Button](g__button.md)
+- [Button](button.md)
 
 
 ## Block settings
@@ -29,7 +30,7 @@ The following blocks can be nested within this block:
 
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Success message | Custom message shown after successful password entry | Rich text input |
+| Success message | Custom message shown after successful subscription | Rich text input |
 
 
 ### Spacing

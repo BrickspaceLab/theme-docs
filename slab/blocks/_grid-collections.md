@@ -21,7 +21,7 @@ This is a private block. It is intended for use only within specific parent bloc
 
 The following blocks can be nested within this block:
 
-- [Collection card](g__collection-card.md)
+- [Collection card](collection-card.md)
 
 
 ## Block settings

@@ -19,7 +19,7 @@ A customizable video block component that supports both native and custom video 
 
 The following blocks can be nested within this block:
 
-- [Container](g__container.md)
+- [Container](container.md)
 
 
 ## Block settings

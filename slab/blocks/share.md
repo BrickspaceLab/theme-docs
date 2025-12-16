@@ -19,7 +19,7 @@ A customizable share component that allows users to easily share content to soci
 
 The following blocks can be nested within this block:
 
-- [Container](g__container.md)
+- [Container](container.md)
 
 
 ## Block settings

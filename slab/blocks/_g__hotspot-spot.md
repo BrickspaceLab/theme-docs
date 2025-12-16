@@ -2,7 +2,7 @@
 
 ## Block limitations
 
-This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `g__hotspot` block.
+This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `hotspot` block.
 
 ## Overview
 

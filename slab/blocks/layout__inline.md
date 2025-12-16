@@ -22,7 +22,7 @@ The following blocks can be nested within this block:
 - [Rich text](richtext.md)
 - [Image](image.md)
 - [Icon](icon.md)
-- [Video](g__video.md)
+- [Video](video.md)
 
 
 ## Block settings

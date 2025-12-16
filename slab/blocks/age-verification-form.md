@@ -19,7 +19,7 @@ A customizable age verification block that prevents site access until users conf
 
 The following blocks can be nested within this block:
 
-- [Button](g__button.md)
+- [Button](button.md)
 
 
 ## Block settings

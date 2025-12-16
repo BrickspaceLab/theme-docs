@@ -23,7 +23,7 @@ This is a private block. It is intended for use only within specific parent bloc
 
 The following blocks can be nested within this block:
 
-- [Product card](g__product-card.md) (dynamically loaded)
+- [Product card](product-card.md) (dynamically loaded)
 
 
 ## Block settings

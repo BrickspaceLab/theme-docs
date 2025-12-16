@@ -12,14 +12,14 @@ A checkout container block that displays a form with checkout button, only visib
 - Redirect customers to checkout when form is submitted
 - Customize checkout button styling and behavior
 - Show checkout form only when cart contains items
-- Use with g__button blocks for checkout functionality
+- Use with button blocks for checkout functionality
 
 
 ## Compatible blocks
 
 The following blocks can be nested within this block:
 
-- [Button](g__button.md)
+- [Button](button.md)
 
 
 ## Block settings

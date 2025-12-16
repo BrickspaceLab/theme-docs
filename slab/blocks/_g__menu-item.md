@@ -2,7 +2,7 @@
 
 ## Block limitations
 
-This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `g__menu-dropdown` or `g__menu-page` blocks.
+This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `menu-dropdown` or `menu-page` blocks.
 
 ## Overview
 

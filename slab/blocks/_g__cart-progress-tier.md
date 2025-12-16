@@ -2,7 +2,7 @@
 
 ## Block limitations
 
-This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `g__cart-progress` block.
+This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `progress-bar` block.
 
 ## Overview
 

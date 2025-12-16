@@ -18,8 +18,8 @@ A collapsible accordion container that provides an expandable/collapsible conten
 
 The following blocks can be nested within this block:
 
-- [Container](g__container.md) (for accordion label)
-- [Container](g__container.md) (for accordion content)
+- [Container](container.md) (for accordion label)
+- [Container](container.md) (for accordion content)
 
 
 ## Block settings

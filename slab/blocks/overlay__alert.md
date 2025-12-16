@@ -19,7 +19,7 @@ An alert overlay component that displays content in a floating panel that can be
 
 The following blocks can be nested within this block:
 
-- [Container](g__container.md) (for alert content)
+- [Container](container.md) (for alert content)
 
 
 ## Block settings

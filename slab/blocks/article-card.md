@@ -1,18 +1,18 @@
-# Product card
+# Article card
 
 
 ## Overview
 
-A flexible product card block for displaying a single product and its associated content blocks. This block is designed to be used within grid or slider layouts and supports a wide range of content types, including rich text, images, videos, icons, product price, badges, swatches, and media. The block offers extensive customization options for spacing, color scheme, border style, layout, and responsive visibility, making it suitable for various merchandising and design needs.
+A flexible article card block for displaying a single article and its associated content blocks. This block is designed to be used within grid or slider layouts and supports a wide range of content types, including rich text, images, videos, icons, and article-specific information. The block offers extensive customization options for spacing, color scheme, border style, layout, and responsive visibility, making it suitable for various blog and content display needs.
 
 
 ## Common use cases
 
-- Use within grid or slider sections to create product galleries or featured product displays
-- Configure the content blocks to highlight key product information, such as price, badges, and media
+- Use within grid or slider sections to create article galleries or featured blog post displays
+- Configure the content blocks to highlight key article information, such as title, description, and featured image
 - Adjust spacing and color settings to match your theme's design language and improve visual hierarchy
-- Use the visibility settings to tailor the product card display for different devices and layouts
-- Leverage scroll animations to add engaging motion effects to product cards
+- Use the visibility settings to tailor the article card display for different devices and layouts
+- Leverage scroll animations to add engaging motion effects to article cards
 
 
 ## Compatible blocks
@@ -25,15 +25,10 @@ The following blocks can be nested within this block:
 - [Icon](icon.md)
 - [Divider](divider.md)
 - [Tags](_tags.md)
-- [Container](g__container.md)
-- [Button](g__button.md)
-- [Video](g__video.md)
-- [Quick buy](product-quick-buy.md)
-- [Price](product-price.md)
-- [Inventory](product-inventory.md)
-- [Badges](product-badges.md)
-- [Swatches](product-swatches.md)
-- [Product media](product-media.md)
+- [Container](container.md)
+- [Button](button.md)
+- [Video](video.md)
+- [Article date](article-date.md)
 - [Slider](layout__slider.md)
 - [Grid](layout__grid.md)
 - [Flex](layout__flex.md)
@@ -45,15 +40,15 @@ The following blocks can be nested within this block:
 
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Product | Select the product to display | Product picker |
+| Article | Select the article to display | Article picker |
 
 
 ### Spacing
 
 | Setting | Description | Options |
 |---------|-------------|---------|
-| Enable horizontal padding | Adds horizontal padding around the product card | Checkbox (default: false) |
-| Enable vertical padding | Adds vertical padding around the product card | Checkbox (default: false) |
+| Enable horizontal padding | Adds horizontal padding around the article card | Checkbox (default: false) |
+| Enable vertical padding | Adds vertical padding around the article card | Checkbox (default: false) |
 | Gap size | Spacing between content blocks within the card | • None<br>• Default (default)<br>• XS<br>• SM<br>• MD<br>• LG<br>• XL |
 
 

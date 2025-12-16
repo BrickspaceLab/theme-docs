@@ -20,7 +20,7 @@ A flexible contact form container that serves as a wrapper for form input blocks
 The following blocks can be nested within this block:
 
 - [Input field](form-input.md)
-- [Button](g__button.md)
+- [Button](button.md)
 
 
 ## Block settings

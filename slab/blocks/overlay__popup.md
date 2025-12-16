@@ -19,7 +19,7 @@ A customizable popup modal component that displays content in an overlay trigger
 
 The following blocks can be nested within this block:
 
-- [Container](g__container.md) (for popup content)
+- [Container](container.md) (for popup content)
 
 
 ## Block settings
