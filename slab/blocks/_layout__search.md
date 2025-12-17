@@ -22,7 +22,7 @@ A block for displaying paginated search results in a customizable grid layout wi
 The following blocks can be nested within this block:
 
 - Grid paginate item blocks
-- [Container](layout/container.md) blocks (for top bar, sidebars, bottom bar)
+- [Container](blocks/layout/container.md) blocks (for top bar, sidebars, bottom bar)
 - [Pagination](_pagination.md)
 - [Filter](filter.md) blocks
 

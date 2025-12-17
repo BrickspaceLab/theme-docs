@@ -22,7 +22,7 @@ The following blocks can be nested within this block:
 * [Icon](icon.md)
 * [Divider](divider.md)
 * [Tags](_tags.md)
-* [Container](layout/container.md)
+* [Container](blocks/layout/container.md)
 * [Button](button.md)
 * [Video](video.md)
 * [Article date](article-date.md)

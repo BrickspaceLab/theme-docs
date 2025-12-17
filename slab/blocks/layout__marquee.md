@@ -19,7 +19,7 @@ The following blocks can be nested within this block:
 * [Image](image.md)
 * [Icon](icon.md)
 * [Button](button.md)
-* [Container](layout/container.md)
+* [Container](blocks/layout/container.md)
 
 ## Block settings
 

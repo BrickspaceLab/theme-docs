@@ -16,7 +16,7 @@ A customizable share component that allows users to easily share content to soci
 
 The following blocks can be nested within this block:
 
-* [Container](layout/container.md)
+* [Container](blocks/layout/container.md)
 
 ## Block settings
 

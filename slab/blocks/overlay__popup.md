@@ -16,7 +16,7 @@ A customizable popup modal component that displays content in an overlay trigger
 
 The following blocks can be nested within this block:
 
-* [Container](layout/container.md) (for popup content)
+* [Container](blocks/layout/container.md) (for popup content)
 
 ## Block settings
 
