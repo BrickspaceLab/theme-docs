@@ -103,14 +103,9 @@
   * [Button](blocks/button.md)
   * [Dropdown](blocks/dropdown.md)
   * [Hotspot](blocks/hotspot.md)
-<<<<<<< Updated upstream
-  * [Map](blocks/basics/map/README.md)
-    * [Map item](blocks/basics/map/_g__map-item.md)
-=======
     * [Hotspot spot](blocks/_g__hotspot-spot.md)
   * [Map](blocks/map.md)
     * [Map item](blocks/_g__map-item.md)
->>>>>>> Stashed changes
   * [Share](blocks/share.md)
   * [Video](blocks/video.md)
   * [Icon](blocks/icon.md)
@@ -125,23 +120,15 @@
   * [Article card](blocks/article-card.md)
   * [Collection card](blocks/collection-card.md)
   * [Product card](blocks/product-card.md)
+* [Containers](blocks/containers/README.md)
+  * [Container](blocks/container.md)
 * [Forms](blocks/forms/README.md)
   * [Input field](blocks/input-field.md)
   * [Age verification form](blocks/age-verification-form.md)
   * [Contact form](blocks/contact-form.md)
   * [Newsletter form](blocks/newsletter-form.md)
   * [Password form](blocks/password-form.md)
-* [Navigation](blocks/navigation/README.md)
-  * [Breadcrumbs](blocks/breadcrumbs.md)
-  * [Filter](blocks/filter.md)
-  * [Filter tags](blocks/filter-tags.md)
-  * [Menu dropdown](blocks/menu-dropdown.md)
-  * [Menu page](blocks/menu-page.md)
-  * [Menu](blocks/menu.md)
-  * [Pagination](blocks/_pagination.md)
-  * [Tags](blocks/_tags.md)
 * [Layout](blocks/layout/README.md)
-  * [Container](blocks/layout/container.md)
   * [Divider](blocks/divider.md)
   * [Layout flex](blocks/layout__flex.md)
     * [Flex item](blocks/_g__flex-item.md)
@@ -157,8 +144,6 @@
   * [Layout tab](blocks/layout__tab.md)
     * [Tab item](blocks/_g__tab-item.md)
   * [Layout table](blocks/layout__table.md)
-<<<<<<< Updated upstream
-=======
     * [Table row](blocks/_g__table-row.md)
       * [Table cell](blocks/_g__table-cell.md)
 * [Navigation](blocks/navigation/README.md)
@@ -171,7 +156,6 @@
   * [Menu](blocks/menu.md)
   * [Pagination](blocks/_pagination.md)
   * [Tags](blocks/_tags.md)
->>>>>>> Stashed changes
 * [Overlays](blocks/overlays/README.md)
   * [Overlay alert](blocks/overlay__alert.md)
   * [Overlay drawer](blocks/overlay__drawer.md)
@@ -191,22 +175,6 @@
   * [Product sibling options](blocks/product-sibling-options.md)
   * [Product subscription](blocks/product-subscription.md)
   * [Product swatches](blocks/product-swatches.md)
-<<<<<<< Updated upstream
-* [Cart](blocks/cart/README.md)
-  * [Cart count](blocks/cart/cart-count.md)
-  * [Discount input](blocks/cart/discount-input.md)
-  * [Full subtotal](blocks/cart/full-subtotal.md)
-  * [Order notes](blocks/cart/order-notes.md)
-  * [Simple subtotal](blocks/cart/simple-subtotal.md)
-  * [Cart results](blocks/cart/cart-results.md)
-  * [Share cart](blocks/cart/share-cart.md)
-  * [Order summary](blocks/cart/order-summary.md)
-  * [Upsell checkbox](blocks/cart/upsell-checkbox.md)
-  * [Checkout agreement](blocks/cart/checkout-agreement.md)
-  * [Progress bar](blocks/cart/progress-bar/README.md)
-    * [Cart progress tier](blocks/cart/progress-bar/_g__cart-progress-tier.md)
-  * [Checkout](blocks/cart/checkout.md)
-=======
 * [Cart & Checkout](blocks/cart-checkout/README.md)
   * [Cart count](blocks/cart-count.md)
   * [Discount input](blocks/discount-input.md)
@@ -221,7 +189,6 @@
   * [Progress bar](blocks/progress-bar.md)
     * [Cart progress tier](blocks/_g__cart-progress-tier.md)
   * [Checkout](blocks/checkout.md)
->>>>>>> Stashed changes
 * [Search](blocks/search/README.md)
   * [Search input](blocks/search-input.md)
   * [Search results](blocks/search-results.md)
@@ -261,20 +228,6 @@
   * [Render quick buy](blocks/render-quick-buy.md)
   * [Render quick edit](blocks/render-quick-edit.md)
   * [Shared discount](blocks/shared-discount.md)
-<<<<<<< Updated upstream
-* [Private Blocks](blocks/private-blocks/README.md)
-  * [Avatar image](blocks/_avatar-image.md)
-  * [Flex item](blocks/_g__flex-item.md)
-  * [Grid item](blocks/_g__grid-item.md)
-  * [Grid paginate item](blocks/_g__grid-paginateitem.md)
-  * [Hotspot spot](blocks/_g__hotspot-spot.md)
-  * [Menu item](blocks/_g__menu-item.md)
-  * [Slider item](blocks/_g__slider-item.md)
-  * [Tab item](blocks/_g__tab-item.md)
-  * [Table cell](blocks/_g__table-cell.md)
-  * [Table row](blocks/_g__table-row.md)
-=======
->>>>>>> Stashed changes
 
 ## General
 
