@@ -2,7 +2,7 @@
 
 ## Block limitations
 
-This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the `menu-dropdown` or `menu-page` blocks.
+This is a private block and can only be used within specific parent blocks. It is designed to work exclusively within the [Menu dropdown](menu-dropdown.md) or [Menu page](menu-page.md) blocks.
 
 ## Overview
 

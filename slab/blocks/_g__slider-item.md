@@ -2,7 +2,7 @@
 
 ## Overview
 
-A configurable slider item component designed to be used within layout__slider.liquid. Provides customizable width settings for both mobile and desktop displays, with optional gap sizing between child elements.
+A configurable slider item component designed to be used within the [Slider](layout__slider.md) block. Provides customizable width settings for both mobile and desktop displays, with optional gap sizing between child elements.
 
 ## Block limitations
 
