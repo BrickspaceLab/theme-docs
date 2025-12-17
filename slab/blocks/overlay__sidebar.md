@@ -15,8 +15,8 @@ A configurable sidebar overlay component that can slide in from either the left 
 
 The following blocks can be nested within this block:
 
-* [Container](blocks/layout/container.md) (for sidebar content)
-* [Container](blocks/layout/container.md) (for sidebar footer)
+* [Container](layout/container.md) (for sidebar content)
+* [Container](layout/container.md) (for sidebar footer)
 
 ## Block settings
 

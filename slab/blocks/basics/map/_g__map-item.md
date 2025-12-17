@@ -19,8 +19,8 @@ A dynamic block designed to display an individual store location on a map. When 
 
 This block includes the following nested blocks:
 
-- [Container](blocks/layout/container.md) (for label)
-- [Container](blocks/layout/container.md) (for content)
+- [Container](../../layout/container.md) (for label)
+- [Container](../../layout/container.md) (for content)
 
 ## Block settings
 

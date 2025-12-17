@@ -15,8 +15,8 @@ A customizable drawer component that displays content in a sliding overlay panel
 
 The following blocks can be nested within this block:
 
-* [Container](blocks/layout/container.md) (for drawer content)
-* [Container](blocks/layout/container.md) (for drawer footer)
+* [Container](layout/container.md) (for drawer content)
+* [Container](layout/container.md) (for drawer footer)
 
 ## Block settings
 

@@ -16,7 +16,7 @@ A customizable dropdown overlay component that creates an accessible, animated d
 
 The following blocks can be nested within this block:
 
-* [Container](blocks/layout/container.md)
+* [Container](layout/container.md)
 
 ## Block settings
 

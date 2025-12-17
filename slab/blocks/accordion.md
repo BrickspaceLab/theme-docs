@@ -15,8 +15,8 @@ A collapsible accordion container that provides an expandable/collapsible conten
 
 The following blocks can be nested within this block:
 
-* [Container](blocks/layout/container.md) (for accordion label)
-* [Container](blocks/layout/container.md) (for accordion content)
+* [Container](layout/container.md) (for accordion label)
+* [Container](layout/container.md) (for accordion content)
 
 ## Block settings
 

@@ -16,7 +16,7 @@ An alert overlay component that displays content in a floating panel that can be
 
 The following blocks can be nested within this block:
 
-* [Container](blocks/layout/container.md) (for alert content)
+* [Container](layout/container.md) (for alert content)
 
 ## Block settings
 

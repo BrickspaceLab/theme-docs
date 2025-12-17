@@ -22,7 +22,7 @@ A block for displaying paginated blog articles in a customizable grid layout wit
 The following blocks can be nested within this block:
 
 - Grid paginate item blocks
-- [Container](blocks/layout/container.md) blocks (for top bar, sidebars, bottom bar)
+- [Container](layout/container.md) blocks (for top bar, sidebars, bottom bar)
 - [Pagination](_pagination.md)
 
 
