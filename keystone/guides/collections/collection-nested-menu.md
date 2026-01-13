@@ -1,4 +1,4 @@
-# Adding Nested Menu
+# Adding nested menu
 
 Each collection can be set up with nested navigation. This is useful if you have a large collection with multiple sub-groupings within. For example, you may have a collection titled Accessories using nested navigation you could then set up links to Wallets, Phone Cases, and Bags.
 
@@ -10,10 +10,9 @@ In this example clicking "Elastic" would navigate to a new page loading the "Ela
 
 1. Go to **Settings** > **Metafields**
 2. Click **Collections** then click **Add definition**
-3. Set **Name** to **Subcollections**
-4. Set **Namespace** and key to `my_fields.subcollections`.
-5. Click **Select content type** and choose **Single line text**
-6. Click **Save**
+3. Set **Namespace** and key to `custom.subcollections`
+4. Click **Select content type** and choose **Single line text**
+5. Click **Save**
 
 ***
 
@@ -28,4 +27,3 @@ In this example clicking "Elastic" would navigate to a new page loading the "Ela
    * It should look something like this:
      * `Tops,/collections/tops&Bags,/collections/bags&Shorts,/collections/short`
 4. Click **Save**
-
