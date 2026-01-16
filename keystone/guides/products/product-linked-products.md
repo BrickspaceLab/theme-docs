@@ -8,7 +8,7 @@ If you have multiple versions of one product split into different product listin
 
 ### Enable the product block <a href="#h_85cfff255d" id="h_85cfff255d"></a>
 
-1. Go ton Online Store > Themes > Customize
+1. Go to Online Store > Themes > Customize
 2. Navigate to the product template then click "Add block" within the "Product" section
 3. Move the block and add a label
    * It's usually best to display the "Linked products" block above the "Buy buttons"
@@ -33,4 +33,3 @@ If you have multiple versions of one product split into different product listin
 1. Navigate to the product you'd like to update
 2. Scroll to the bottom and select a collection for the metafield
 3. Click **Save**
-
