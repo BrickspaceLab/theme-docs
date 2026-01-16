@@ -4,6 +4,14 @@
 
 If you have multiple versions of one product split into different product listing it may be hard for customers to find the option they want. Using the "Linked products" block you can display additional products as options on your product page.
 
+How it works:
+
+* The block shows all products from the collection assigned to the metafield
+* All linked products must be in the same collection
+* If the block is empty, the metafield isn’t set or the collection is empty
+
+> Note: You can’t link individual products directly; you must use a collection as the intermediary.
+
 ***
 
 ### Enable the product block <a href="#h_85cfff255d" id="h_85cfff255d"></a>
